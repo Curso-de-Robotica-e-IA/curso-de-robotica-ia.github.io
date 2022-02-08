@@ -3,10 +3,9 @@ export const Services = (props) => {
     <div id='services' className='text-center'>
       <div className='container'>
         <div className='section-title'>
-          <h2>Our Services</h2>
+          <h2>Nossos projetos</h2>
           <p>
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit duis sed
-            dapibus leonec.
+          Uma parte fundamental para qualificar profissionais preparados para o mercado de trabalho é a prática, com isso junto com parceiros da indústria desenvolvemos um “chão de fábrica" para os alunos evoluírem com projetos reais.
           </p>
         </div>
         <div className='row'>
