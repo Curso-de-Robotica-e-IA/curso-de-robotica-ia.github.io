@@ -1,9 +1,9 @@
 import { useState, useEffect } from "react";
 import { Navigation } from "./components/navigation";
 import { Header } from "./components/header";
-import { Features } from "./components/features";
+import { Skills } from "./components/skills";
 import { About } from "./components/about";
-import { Services } from "./components/services";
+import { Projects } from "./components/projects";
 import { Gallery } from "./components/gallery";
 import { Testimonials } from "./components/testimonials";
 import { Team } from "./components/Team";
@@ -27,9 +27,9 @@ const App = () => {
     <div>
       <Navigation />
       <Header data={landingPageData.Header} />
-      <Features data={landingPageData.Features} />
+      <Skills data={landingPageData.Features} />
       <About data={landingPageData.About} />
-      <Services data={landingPageData.Services} />
+      <Projects data={landingPageData.Services} />
       <Gallery data={landingPageData.Gallery}/>
       <Testimonials data={landingPageData.Testimonials} />
       <Team data={landingPageData.Team} />
