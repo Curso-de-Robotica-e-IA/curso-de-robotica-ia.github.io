@@ -67,49 +67,21 @@
   ],
   "Services": [
     {
-      "icon": "wrwe",
-      "name": "rgdfg",
-      "text": "uyuujyj"
+      "icon": "img/portfolio/09-large.jpg",
+      "name": "Project Title",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
     },    {
-      "icon": "7686uy",
-      "name": "yyuhjsdvsf",
-      "text": "vdtt"
+      "icon": "img/portfolio/02-large.jpg",
+      "name": "Project Title",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
     },    {
-      "icon": "fhgh",
-      "name": "tyujgh",
-      "text": "dfgdfg"
+      "icon": "img/portfolio/01-large.jpg",
+      "name": "Project Title",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
     },    {
-      "icon": "wdfgdrwe",
-      "name": "rgdfgvbvc",
-      "text": "dgvc"
-    },    {
-      "icon": "098iu",
-      "name": "rgd3654645fg",
-      "text": "546"
-    },    {
-      "icon": "23234",
-      "name": "yjhgh",
-      "text": "asxzx"
-    },    {
-      "icon": "iuyh",
-      "name": "refgdgd",
-      "text": "dhfnbn"
-    },    {
-      "icon": "qwdasf",
-      "name": "43545r",
-      "text": "ertertf"
-    },    {
-      "icon": "uil",
-      "name": "uilsd",
-      "text": "ilu"
-    },    {
-      "icon": "wroiilwe",
-      "name": "jhg",
-      "text": "erth"
-    },    {
-      "icon": "ret",
-      "name": "rgertertdfg",
-      "text": "456546"
+      "icon": "img/portfolio/05-large.jpg",
+      "name": "Project Title",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
     }
   ],
   "Testimonials": [

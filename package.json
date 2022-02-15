@@ -9,6 +9,8 @@
     "react": "^17.0.1",
     "react-dom": "^17.0.1",
     "react-horizontal-scrolling-menu": "^2.7.0",
+    "react-router": "^6.2.1",
+    "react-router-dom": "^6.2.1",
     "react-scripts": "^4.0.2",
     "smooth-scroll": "^16.1.3"
   },

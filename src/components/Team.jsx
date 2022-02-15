@@ -1,3 +1,5 @@
+import { Link } from "react-router-dom";
+
 export const Team = (props) => {
   return (
     <div id='team' className='text-center'>
@@ -24,12 +26,9 @@ export const Team = (props) => {
               ))
             : 'loading'}
               <div className='col-md-8 col-md-offset-2 intro-text'>
-                <a
-                  href='#team'
-                  className='btn btn-custom btn-lg page-scroll'
-                >
-                  todos os membros
-                </a>{' '}
+                <nav  className='btn btn-custom btn-lg page-scroll'>
+                  <Link to="/all-team" style={{ color: '#FFF' }} >Mais detalhes</Link>
+                </nav>
               </div>
         </div>
       </div>

@@ -7,16 +7,23 @@ import { Card } from "./card";
 import "./hideScrollbar.css";
 
 
-const elemPrefix = "project";
+const elemPrefix = "project-";
 const getId = (index) => `${elemPrefix}${index}`;
 
-const getItems = () =>
-  Array(20)
+const getItems = (size) =>
+  Array(size)
     .fill(0)
     .map((_, ind) => ({ id: getId(ind) }));
 
  function ProjectsMenu(props) {
-  const [items] = React.useState(getItems);
+  const [items] = React.useState(getItems(props['props']['data'].length));
+
+  var projects = [];
+  for (var i = 0; i < props['props']['data'].length; i++) {
+    var element = props['props']['data'][i];
+    projects.push(({'id':items[i].id, 'icon': element.icon, 'name':element.name, 'text':element.text}));
+  }
+  
   return (
     <>
       <div className="projects" >
@@ -26,9 +33,11 @@ const getItems = () =>
             RightArrow={RightArrow}
             onWheel={onWheel}
           >
-            {items.map(({ id }) => (
+            {projects.map(({ id, icon, name, text }) => (
               <Card
-                title={id}
+                title={name}
+                img={icon}
+                text={text}
                 itemId={id} // NOTE: itemId is required for track items
                 key={id}
               />
