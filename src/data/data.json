@@ -120,22 +120,37 @@
     {
       "img": "img/team/01.jpg",
       "name": "John Doe",
-      "job": "Director"
+      "job": "Director",
+      "contact": "loremIpsum@dolor.com \n Incididunt.com.br",
+      "bio": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
     },
     {
       "img": "img/team/02.jpg",
       "name": "Mike Doe",
-      "job": "Senior Designer"
+      "job": "Senior Designer",
+      "contact": "loremIpsum@dolor.com \n Incididunt.com.br",
+      "bio": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
     },
     {
       "img": "img/team/03.jpg",
       "name": "Jane Doe",
-      "job": "Senior Designer"
+      "job": "Senior Designer",
+      "contact": "loremIpsum@dolor.com \n Incididunt.com.br",
+      "bio": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
     },
     {
       "img": "img/team/04.jpg",
       "name": "Karen Doe",
-      "job": "Project Manager"
+      "job": "Project Manager",
+      "contact": "loremIpsum@dolor.com \n Incididunt.com.br",
+      "bio": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+    },
+    {
+      "img": "img/team/04.jpg",
+      "name": "Karen Doe",
+      "job": "Project Manager",
+      "contact": "loremIpsum@dolor.com \n Incididunt.com.br",
+      "bio": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
     }
   ],
   "Contact": {

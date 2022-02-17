@@ -1,6 +1,15 @@
 import { Link } from "react-router-dom";
 
 export const Team = (props) => {
+  var mainTeam = []
+  if(props.data !== undefined) {
+    for(var i = 0; i < props.data.length; i++) {
+      if(Number(i) === 4){
+        break;
+      }
+      mainTeam.push(props.data[i])
+    }
+  }
   return (
     <div id='team' className='text-center'>
       <div className='container'>
@@ -12,7 +21,7 @@ export const Team = (props) => {
         </div>
         <div id='row'>
           {props.data
-            ? props.data.map((d, i) => (
+            ? mainTeam.map((d, i) => (
                 <div key={`${d.name}-${i}`} className='col-md-3 col-sm-6 team'>
                   <div className='thumbnail'>
                     {' '}

@@ -18,7 +18,7 @@ export const HeaderBase = (props) => {
             <span className='icon-bar'></span>{' '}
           </button>
           <nav className='navbar-brand page-scroll'>
-            <Link to="/" style={{ color: '#000' }}>CIn-Softex</Link>
+            <Link to="/" style={{ color: '#000'}}>CIn-Softex</Link>
           </nav>
         </div>
       </div>
