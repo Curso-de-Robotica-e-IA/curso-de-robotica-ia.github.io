@@ -6,7 +6,6 @@ import { Card } from "./card";
 
 import "./hideScrollbar.css";
 
-
 const elemPrefix = "project-";
 const getId = (index) => `${elemPrefix}${index}`;
 
@@ -15,18 +14,23 @@ const getItems = (size) =>
     .fill(0)
     .map((_, ind) => ({ id: getId(ind) }));
 
- function ProjectsMenu(props) {
-  const [items] = React.useState(getItems(props['props']['data'].length));
+function ProjectsMenu(props) {
+  const [items] = React.useState(getItems(props["props"]["data"].length));
 
   var projects = [];
-  for (var i = 0; i < props['props']['data'].length; i++) {
-    var element = props['props']['data'][i];
-    projects.push(({'id':items[i].id, 'icon': element.icon, 'name':element.name, 'text':element.text}));
+  for (var i = 0; i < props["props"]["data"].length; i++) {
+    var element = props["props"]["data"][i];
+    projects.push({
+      id: items[i].id,
+      icon: element.icon,
+      name: element.name,
+      text: element.text,
+    });
   }
-  
+
   return (
     <>
-      <div className="projects" >
+      <div className="projects">
         <div>
           <ScrollMenu
             LeftArrow={LeftArrow}
