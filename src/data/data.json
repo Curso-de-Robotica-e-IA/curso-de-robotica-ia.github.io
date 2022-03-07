@@ -3,19 +3,38 @@
     "title": "Robótica e Inteligência Artificial",
     "paragraph": "Curso de Pós-Graduação Lato Sensu (Especialização) de Residência em Robótica e Inteligência Artificial Aplicadas a Testes de Software."
   },
+  "Features": [
+    {
+      "icon": "fa fa-group",
+      "title": "Desenvolvimento colaborativo",
+      "text": "Ao longo do curso os residentes devem se organizar em times e colaborar para o desenvolvimento dos desafios e para a gerência do seu time."
+    },
+    {
+      "icon": "fa fa-graduation-cap",
+      "title": "Formação Técnica",
+      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+    },
+    {
+      "icon": "fa fa-bullhorn",
+      "title": "Lorem ipsum",
+      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+    },
+    {
+      "icon": "fa fa-magic",
+      "title": "Lorem ipsum",
+      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+    }
+  ],
   "About": {
-    "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "paragraph": "O projeto segue a filosofia de uma residência tecnológica (inspirada nas residências médicas). Os alunos têm dedicação exclusiva e, em meio turno, dedicam-se a assistir às aulas. No outro turno, realizam no laboratório atividades práticas de Inovação e Pesquisa e Automação e Execução de Testes de Software. A residência proporciona ao aluno tanto capacitação teórica em sala de aula (pela manhã) quanto experiência de trabalho em atividades práticas de automação e execução de teste de software (pela tarde). Desafios de inovação e pesquisa na área de robótica e inteligência artificial aplicadas a teste de software são solucionados tanto pela equipe fixa do projeto (líder técnico e engenheiros) quanto pelos alunos em suas monografias.",
     "Why": [
-      "Lorem ipsum dolor",
-      "Tempor incididunt",
-      "Lorem ipsum dolor",
-      "Incididunt ut labore"
+      "Aplicação prática em desafios reais",
+      "Contato com clientes do mercado",
+      "Projetos inovadores"
     ],
     "Why2": [
-      "Aliquip ex ea commodo",
-      "Lorem ipsum dolor",
-      "Exercitation ullamco",
-      "Lorem ipsum dolor"
+      "Corpo técnico especializado",
+      "Possibilidade de contribuir ativamente nas decisões de execução dos projetos"
     ]
   },
   "Gallery": [
@@ -90,21 +109,21 @@
   "Testimonials": [
     {
       "main": true,
-      "img": "img/testimonials/01.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "John Doe"
+      "img": "img/testimonials/mkcp.jpg",
+      "text": "\"Fazer parte da Residência de Robótica está sendo uma experiência incrível, cada dia descobrindo e aprendendo coisas novas, uma das melhores oportunidades que estamos tendo. Além da turma ser muito unida.\"",
+      "name": "Mellanyee"
     },
     {
       "main": true,
-      "img": "img/testimonials/02.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "Johnathan Doe"
+      "img": "img/testimonials/acc3.jpg",
+      "text": "\"Excelente corpo docente somados à expertise do líder técnico, estagiários, funcionários, coordenação e gerência, tornam a Residência em Robótica e Inteligência Artificial da UFPE uma experiência inigualável de aprendizado e aplicação em sintonia com as necessidades do mercado.\"",
+      "name": "Alex"
     },
     {
       "main": true,
-      "img": "img/testimonials/03.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "John Doe"
+      "img": "img/testimonials/aps8.jpg",
+      "text": "\"Experiência fantástica é poder estar imerso numa pós-graduação com jeito de bootcamp/treinamento e ao mesmo tempo poder pôr em prática todo o aprendizado num ambiente real de mercado aliando ciência, teoria e prática... Tudo isso a residência promovida pelo CIn-UFPE em parceria com a Softex pode nos proporcionar. Só uma palavra define tudo: GRATIDÃO!\"",
+      "name": "Anderson"
     },
     {
       "main": true,
@@ -247,28 +266,6 @@
     "twitter": "twitter.com",
     "youtube": "youtube.com"
   },
-  "Features": [
-    {
-      "icon": "fa fa-group",
-      "title": "Desenvolvimento colaborativo",
-      "text": "Ao longo do curso os residentes devem se organizar em times e colaborar para o desenvolvimento dos desafios e para a gerência do seu time."
-    },
-    {
-      "icon": "fa fa-comments-o",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
-    },
-    {
-      "icon": "fa fa-bullhorn",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
-    },
-    {
-      "icon": "fa fa-magic",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
-    }
-  ],
   "Project0": {
     "title": "Lorem ipsum felis mi in tempus eleifend",
     "subTitle": "Lorem ipsum dolor sit amet placerat facilisis pellentesque natoque etiam.",
