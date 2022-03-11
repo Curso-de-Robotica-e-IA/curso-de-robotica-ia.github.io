@@ -12,7 +12,7 @@
     {
       "icon": "fa fa-graduation-cap",
       "title": "Formação Técnica",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+      "text": "O curso possui uma grade de disciplinas com foco em testes e desenvolvimento de software, além de visão computacional."
     },
     {
       "icon": "fa fa-bullhorn",
@@ -109,112 +109,62 @@
   "Testimonials": [
     {
       "main": true,
-      "img": "img/testimonials/mkcp.jpg",
+      "img": "img/testimonials/mkcp.png",
       "text": "\"Fazer parte da Residência de Robótica está sendo uma experiência incrível, cada dia descobrindo e aprendendo coisas novas, uma das melhores oportunidades que estamos tendo. Além da turma ser muito unida.\"",
-      "name": "Mellanyee"
+      "name": "Mellanyee Paz"
     },
     {
       "main": true,
-      "img": "img/testimonials/acc3.jpg",
+      "img": "img/testimonials/acc3.png",
       "text": "\"Excelente corpo docente somados à expertise do líder técnico, estagiários, funcionários, coordenação e gerência, tornam a Residência em Robótica e Inteligência Artificial da UFPE uma experiência inigualável de aprendizado e aplicação em sintonia com as necessidades do mercado.\"",
       "name": "Alex"
     },
     {
       "main": true,
-      "img": "img/testimonials/aps8.jpg",
+      "img": "img/testimonials/aps8.png",
       "text": "\"Experiência fantástica é poder estar imerso numa pós-graduação com jeito de bootcamp/treinamento e ao mesmo tempo poder pôr em prática todo o aprendizado num ambiente real de mercado aliando ciência, teoria e prática... Tudo isso a residência promovida pelo CIn-UFPE em parceria com a Softex pode nos proporcionar. Só uma palavra define tudo: GRATIDÃO!\"",
-      "name": "Anderson"
+      "name": "Anderson Soares"
     },
     {
       "main": true,
-      "img": "img/testimonials/04.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "Johnathan Doe"
+      "img": "img/testimonials/jsff.png",
+      "text": "\"A residência me deu a oportunidade de conhecer duas áreas novas de conhecimento, que possuem grande potencial na indústria.4.0. Além de aprender a teoria com professores muito capacitados, poder aplicar isso na prática junto de uma equipe me capacitou e preparou ainda mais para os desafios do mercado.\"",
+      "name": "Jonas Filho"
     },
     {
       "main": true,
-      "img": "img/testimonials/05.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "John Doe"
+      "img": "img/testimonials/eafs3.png",
+      "text": "\"Lugar de bastante aprendizado, trabalho em equipe e crescimento pessoal. sou grato pela oportunidade e pelo acompanhamento da equipe e professores que sempre procuram motivar, auxiliar e extrair o melhor dos residentes, que adquirem conhecimentos teóricos e práticos extremamente importantes, tanto em sentido acadêmico, como profissional.\"",
+      "name": "Eric Santos"
     },
     {
       "main": true,
-      "img": "img/testimonials/06.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "Johnathan Doe"
+      "img": "img/testimonials/acs10.png",
+      "text": "\"A residência de robótica e IA aplicada a testes de software se prova cada vez mais uma experiência única, provendo um ambiente cativante e criativo. Estou a cada momento mais feliz por ter recebido essa oportunidade em minha vida, podendo dividir conhecimento com diversas pessoas expendidas e brilhantes. Só tenho a agradecer por essa oportunidade, todos são pessoas incrivelmente capacitadas e maravilhosos profissionais para trabalhar em conjunto.\"",
+      "name": " Andre Silva"
+    },
+    {
+      "img": "img/testimonials/fjms.png",
+      "text": "\"Imersão total, praticamos conceitos vistos em aula e somos desafiados a ir além. Equipe docente e técnica extremamente competente e colegas em alta sinergia, uma oportunidade ouro.\"",
+      "name": "Flávio Souza"
     },
     {
       "main": true,
-      "img": "img/testimonials/01.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "John Doe"
+      "img": "img/testimonials/gg.png",
+      "text": "\"Fica claro o compromisso de toda a equipe de profissionais em nos proporcionar a melhor experiência possível durante esse um ano de aprendizado. Sou muito grata pela oportunidade de conseguir unir a parte acadêmica a uma experiência profissional.\"",
+      "name": "Grennda Guerra"
     },
     {
       "main": true,
-      "img": "img/testimonials/02.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "Johnathan Doe"
+      "img": "img/testimonials/dtu.png",
+      "text": "\"A residência é uma experiência de grande aprendizado, tanto do ponto de vista profissional, quanto do ponto de vista pessoal. Foram diversas barreiras superadas e muito conhecimento adquirido. Sou grato pela oportunidade.\"",
+      "name": "Danilo Ubaldine"
     },
     {
       "main": true,
-      "img": "img/testimonials/03.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "John Doe"
-    },
-    {
-      "img": "img/testimonials/04.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "Johnathan Doe"
-    },
-    {
-      "img": "img/testimonials/05.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "John Doe"
-    },
-    {
-      "img": "img/testimonials/06.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "Johnathan Doe"
-    },
-    {
-      "img": "img/testimonials/03.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "John Doe"
-    },
-    {
-      "img": "img/testimonials/04.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "Johnathan Doe"
-    },
-    {
-      "img": "img/testimonials/05.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "John Doe"
-    },
-    {
-      "img": "img/testimonials/06.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "Johnathan Doe"
-    },
-    {
-      "img": "img/testimonials/03.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "John Doe"
-    },
-    {
-      "img": "img/testimonials/04.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "Johnathan Doe"
-    },
-    {
-      "img": "img/testimonials/05.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "John Doe"
-    },
-    {
-      "img": "img/testimonials/06.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "Johnathan Doe"
+      "img": "img/testimonials/fasm.png",
+      "text": "\"O apoio da equipe técnica e do corpo docente aliado ao intenso aprendizado que é proporcionado, é o que faz essa residência ser especial. O aprendizado proporcionado é de altíssimo nível.\"",
+      "name": "Felipe Mendonca"
     }
   ],
   "Team": [
