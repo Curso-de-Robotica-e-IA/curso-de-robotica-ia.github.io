@@ -144,21 +144,22 @@
       "name": " Andre Silva"
     },
     {
+      "main": false,
       "img": "img/testimonials/fjms.png",
       "text": "\"Imersão total, praticamos conceitos vistos em aula e somos desafiados a ir além. Equipe docente e técnica extremamente competente e colegas em alta sinergia, uma oportunidade ouro.\"",
       "name": "Flávio Souza"
     },
     {
       "main": true,
-      "img": "img/testimonials/gg.png",
-      "text": "\"Fica claro o compromisso de toda a equipe de profissionais em nos proporcionar a melhor experiência possível durante esse um ano de aprendizado. Sou muito grata pela oportunidade de conseguir unir a parte acadêmica a uma experiência profissional.\"",
-      "name": "Grennda Guerra"
-    },
-    {
-      "main": true,
       "img": "img/testimonials/dtu.png",
       "text": "\"A residência é uma experiência de grande aprendizado, tanto do ponto de vista profissional, quanto do ponto de vista pessoal. Foram diversas barreiras superadas e muito conhecimento adquirido. Sou grato pela oportunidade.\"",
       "name": "Danilo Ubaldine"
+    },
+    {
+      "main": true,
+      "img": "img/testimonials/gg.png",
+      "text": "\"Fica claro o compromisso de toda a equipe de profissionais em nos proporcionar a melhor experiência possível durante esse um ano de aprendizado. Sou muito grata pela oportunidade de conseguir unir a parte acadêmica a uma experiência profissional.\"",
+      "name": "Grennda Guerra"
     },
     {
       "main": true,
