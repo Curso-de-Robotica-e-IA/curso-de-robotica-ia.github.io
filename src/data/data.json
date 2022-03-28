@@ -171,40 +171,48 @@
   "Team": [
     {
       "main": true,
-      "img": "img/team/01.jpg",
-      "name": "John Doe",
-      "job": "Director",
-      "contact": "loremIpsum@dolor.com \n Incididunt.com.br",
-      "bio": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "img": "img/team/acm.png",
+      "name": "Alexandre Mota",
+      "job": "Coordenador",
+      "contact": "acm@cin.ufpe.br",
+      "bio": "Professor Titular do CIn-UFPE. Bolsista de produtividade em Pesquisa (PQ-2) do CNPq. Especialidade é Métodos Formais (Matemática aplicada ao desenvolvimento de Sistemas). Participou de projetos Universidade-Indústria: Embraer (2006 a 2016), Motorola (2004 a 2008 e de 2015 até hoje) e COMPASS (Comprehensive Modelling for Advanced Systems of Systems, 2011 e 2014). Atualmente é coordenador do projeto de inovação CIn-Motorola cujo foco é o teste de celulares e coordenador da Especialização UFPE-Softex em Robótica e IA."
+    },
+    {
+      "main": true,
+      "img": "img/team/acas.png",
+      "name": "Augusto Sampaio",
+      "job": "Vice-Coordenador",
+      "contact": "acas@cin.ufpe.br",
+      "bio": "Professor Titular do Centro de Informática da UFPE.  Doutorado pela Oxford University e Pós-Doutorado pela University of York. Em 2021, tornou-se Membro da Academia Pernambucana de Ciências. Prêmio Mérito Científico da Sociedade Brasileira de Computação (SBC). Doutor Honoris Causa da University of York. Comendador da Ordem Nacional do Mérito. A principal área de interesse é Engenharia de Software, com ênfase em Métodos Formais. O foco atual da pesquisa é na modelagem, simulação e verificação de sistemas robóticos e de contratos inteligentes (smart contracts)."
     },
     {
       "main": true,
       "img": "img/team/02.jpg",
-      "name": "Mike Doe",
-      "job": "Senior Designer",
+      "name": "João Marcelo",
+      "job": "Adipiscing elit",
       "contact": "loremIpsum@dolor.com \n Incididunt.com.br",
       "bio": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
     },
     {
       "main": true,
-      "img": "img/team/03.jpg",
-      "name": "Jane Doe",
-      "job": "Senior Designer",
+      "img": "img/team/mrsj.png",
+      "name": "Marcondes Ricarte",
+      "job": "Líder técnico",
+      "contact": "mrsj@softex.cin.ufpe.br \nhttps://www.linkedin.com/in/marcondes-ricarte-06769823",
+      "bio": " Engenheiro de Computação, Mestrado em Ciência da Computação e Doutorando  em Ciência da Computação pela UFPE. Experiência profissional no C.E.S.A.R., Neurotech e Chemtech. Além de  experiência em docência UNINASSAU. Atuação e pesquisa em IA, visão computacional e robótica móvel."
+    },
+
+    {
+      "img": "img/team/cvss2.png",
+      "name": "Cecília Virgínia",
+      "job": "Adipiscing elit",
       "contact": "loremIpsum@dolor.com \n Incididunt.com.br",
       "bio": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
     },
     {
-      "main": true,
-      "img": "img/team/04.jpg",
-      "name": "Karen Doe",
-      "job": "Project Manager",
-      "contact": "loremIpsum@dolor.com \n Incididunt.com.br",
-      "bio": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
-    },
-    {
-      "img": "img/team/04.jpg",
-      "name": "Karen Doe",
-      "job": "Project Manager",
+      "img": "img/team/rjmr.png",
+      "name": "Riei Rodrigues",
+      "job": "Adipiscing elit",
       "contact": "loremIpsum@dolor.com \n Incididunt.com.br",
       "bio": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
     }
