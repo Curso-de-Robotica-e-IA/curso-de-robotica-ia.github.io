@@ -187,19 +187,19 @@
     },
     {
       "main": true,
-      "img": "img/team/02.jpg",
-      "name": "João Marcelo",
-      "job": "Adipiscing elit",
-      "contact": "loremIpsum@dolor.com \n Incididunt.com.br",
-      "bio": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "img": "img/team/mrsj.png",
+      "name": "Marcondes Ricarte",
+      "job": "Líder Técnico",
+      "contact": "mrsj@softex.cin.ufpe.br \nhttps://www.linkedin.com/in/marcondes-ricarte-06769823",
+      "bio": " Engenheiro de Computação, Mestrado em Ciência da Computação e Doutorando  em Ciência da Computação pela UFPE. Experiência profissional no C.E.S.A.R., Neurotech e Chemtech. Além de  experiência em docência UNINASSAU. Atuação e pesquisa em IA, visão computacional e robótica móvel."
     },
     {
       "main": true,
-      "img": "img/team/mrsj.png",
-      "name": "Marcondes Ricarte",
-      "job": "Líder técnico",
-      "contact": "mrsj@softex.cin.ufpe.br \nhttps://www.linkedin.com/in/marcondes-ricarte-06769823",
-      "bio": " Engenheiro de Computação, Mestrado em Ciência da Computação e Doutorando  em Ciência da Computação pela UFPE. Experiência profissional no C.E.S.A.R., Neurotech e Chemtech. Além de  experiência em docência UNINASSAU. Atuação e pesquisa em IA, visão computacional e robótica móvel."
+      "img": "img/team/jmxnt.png",
+      "name": "João Marcelo",
+      "job": "Líder de Pesquisa",
+      "contact": "jmxnt@cin.ufpe.br",
+      "bio": "Doutorado em Ciências da Computação pela Universidade Federal de Pernambuco (UFPE). Professor Adjunto 1 e chefe do Departamento de Eletrônica e Sistemas da UFPE, membro do Colegiado e vice-coordenador da Pós-graduação em Design da UFPE. Atuação na área de Ciência da Computação, com ênfase em Sistemas Embarcados, atuando principalmente nos seguintes temas: interação, dispositivos de interação, Realidade Virtual e Aumentada, computação de alto desempenho, programação paralela. Além de ser pesquisador sênior no Grupo de Pesquisa Voxar Labs do Centro de Informática da UFPE."
     },
 
     {
