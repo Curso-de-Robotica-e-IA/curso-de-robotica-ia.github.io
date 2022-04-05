@@ -16,13 +16,13 @@
     },
     {
       "icon": "fa fa-bullhorn",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+      "title": "Robotica Aplicada",
+      "text": "O projeto conta com laboratórios equipados com robôs e vários materiais para a prototipação, sendo amplamente utilizada pelos residentes para projetos e experimentações."
     },
     {
       "icon": "fa fa-magic",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+      "title": "Inteligencia Artificial",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna"
     }
   ],
   "About": {
@@ -199,31 +199,32 @@
       "name": "João Marcelo",
       "job": "Líder de Pesquisa",
       "contact": "jmxnt@cin.ufpe.br",
-      "bio": "Doutorado em Ciências da Computação pela Universidade Federal de Pernambuco (UFPE). Professor Adjunto 1 e chefe do Departamento de Eletrônica e Sistemas da UFPE, membro do Colegiado e vice-coordenador da Pós-graduação em Design da UFPE. Atuação na área de Ciência da Computação, com ênfase em Sistemas Embarcados, atuando principalmente nos seguintes temas: interação, dispositivos de interação, Realidade Virtual e Aumentada, computação de alto desempenho, programação paralela. Além de ser pesquisador sênior no Grupo de Pesquisa Voxar Labs do Centro de Informática da UFPE."
+      "bio": "Doutorado em Ciências da Computação pela Universidade Federal de Pernambuco (UFPE). Professor Adjunto 1 e chefe do Departamento de Eletrônica e Sistemas da UFPE. Atuação na área de Ciência da Computação, com ênfase em Sistemas Embarcados, atuando principalmente com dispositivos de interação, Realidade Virtual e Aumentada, computação de alto desempenho, programação paralela. Além de ser pesquisador sênior no Grupo de Pesquisa Voxar Labs do Centro de Informática da UFPE."
     },
 
     {
       "img": "img/team/cvss2.png",
       "name": "Cecília Virgínia",
-      "job": "Adipiscing elit",
-      "contact": "loremIpsum@dolor.com \n Incididunt.com.br",
-      "bio": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "job": "Engenheira de Software",
+      "contact": "cvss2@softex.cin.ufpe.br\nlinkedin.com/in/cecilia-virginia",
+      "bio": "Formada em Engenharia Mecânica pela Universidade Federal de Pernambuco (UFPE). Atuando na pesquisa e aplicação de mecanismos mecanicos em Robótica aplicada a automação."
     },
     {
       "img": "img/team/rjmr.png",
       "name": "Riei Rodrigues",
-      "job": "Adipiscing elit",
-      "contact": "loremIpsum@dolor.com \n Incididunt.com.br",
-      "bio": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "job": "Estagiário",
+      "contact": "rjmr@softex.cin.ufpe.br\nlinkedin.com/in/riei-joaquim-rodrigues",
+      "bio": "Graduando em Engenharia da Computação pela Universidade Federal de Pernambuco (UFPE). Atuando na pesquisa e desenvolvimento de software de agentes autonomos pelo RoboCIn. Computação aplicada ao controle e a automação."
     }
   ],
   "Contact": {
-    "address": "4321 California St, San Francisco, CA 12345 ",
+    "address": "Av. Jornalista Anibal Fernandes, s/n, Cidade Universitária (UFPE - Campus Recife), CEP: 50.740-560, Recife - PE",
     "phone": "+1 123 456 1234",
     "email": "info@company.com",
     "facebook": "fb.com",
     "twitter": "twitter.com",
-    "youtube": "youtube.com"
+    "youtube": "youtube.com",
+    "linkedin": "linkedin.com/company/projeto-cin-softex/"
   },
   "Project0": {
     "title": "Lorem ipsum felis mi in tempus eleifend",
