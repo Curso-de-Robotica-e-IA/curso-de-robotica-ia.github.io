@@ -12,17 +12,17 @@
     {
       "icon": "fa fa-graduation-cap",
       "title": "Formação Técnica",
-      "text": "O curso possui uma grade de disciplinas com foco em testes e desenvolvimento de software, além de visão computacional."
+      "text": "O curso possui uma grade de disciplinas com foco prático em testes, Inteligência Artificial e desenvolvimento de software, além de visão computacional."
     },
     {
       "icon": "fa fa-bullhorn",
-      "title": "Robotica Aplicada",
-      "text": "O projeto conta com laboratórios equipados com robôs e vários materiais para a prototipação, sendo amplamente utilizada pelos residentes para projetos e experimentações."
+      "title": "Robótica Aplicada",
+      "text": "Contamos com laboratórios equipados com robôs e vários materiais para a prototipação, sendo amplamente utilizada pelos residentes para projetos e experimentações."
     },
     {
       "icon": "fa fa-magic",
-      "title": "Inteligencia Artificial",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna"
+      "title": "Inteligência Artificial",
+      "text": "Um dos focos da residência é a formação em inteligência artificial, buscando utilizá-la para desenvolver soluções robustas para nossos parceiros."
     }
   ],
   "About": {
