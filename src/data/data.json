@@ -215,6 +215,13 @@
       "job": "Estagiário",
       "contact": "rjmr@softex.cin.ufpe.br\nlinkedin.com/in/riei-joaquim-rodrigues",
       "bio": "Graduando em Engenharia da Computação pela Universidade Federal de Pernambuco (UFPE). Atuando na pesquisa e desenvolvimento de software de agentes autonomos pelo RoboCIn. Computação aplicada ao controle e a automação."
+    },
+    {
+      "img": "img/team/mhjc.jpg",
+      "name": "Matheus Hopper",
+      "job": "Estagiário",
+      "contact": "mhjc.cin.ufpe.br \nhttps://www.linkedin.com/in/matheus-hopper-01101996/",
+      "bio": "Graduando em Ciência da Computação pela Universidade Federal de Pernambuco (UFPE). Atuando na pesquisa de circuitos quânticos para aprendizado de máquina."
     }
   ],
   "Contact": {
