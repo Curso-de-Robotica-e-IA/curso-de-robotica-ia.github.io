@@ -4,7 +4,7 @@ export const HeaderBase = (props) => {
   return (
     <nav id="menu" className="navbar navbar-default navbar-fixed-top">
       <div className="container">
-        <div className="navbar-header">
+        <div className="navbar-header-base">
           <button
             type="button"
             className="navbar-toggle collapsed"
@@ -17,9 +17,9 @@ export const HeaderBase = (props) => {
             <span className="icon-bar"></span>{" "}
             <span className="icon-bar"></span>{" "}
           </button>
-          <nav className="navbar-brand page-scroll">
-            <Link to="/" style={{ color: "#000" }}>
-              CIn-Softex
+          <nav className="navbar-brand-to-home">
+            <Link to="/" style={{ color: "transparent" }}>
+              CIn/Softex
             </Link>
           </nav>
         </div>

@@ -34,7 +34,7 @@ export const Contact = (props) => {
     <div>
       <div id="contact">
         <div className="container">
-          <div className="col-md-8">
+          {/*<div className="col-md-8">
             <div className="row">
               <div className="section-title">
                 <h2>Entre em contato</h2>
@@ -92,6 +92,9 @@ export const Contact = (props) => {
                 </button>
               </form>
             </div>
+          </div>*/}
+          <div className="col-md-8">
+            <img src="img/softexFullLogo.png" className="img-logo-full" />
           </div>
           <div className="col-md-3 col-md-offset-1 contact-info">
             <div className="contact-item">

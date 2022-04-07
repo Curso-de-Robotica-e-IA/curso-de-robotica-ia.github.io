@@ -70,6 +70,9 @@ hr {
   margin-bottom: 20px;
   border: 0;
 }
+.img-logo-full {
+  width: 110%;
+}
 /* Navigation */
 #menu {
   padding: 15px;
@@ -81,11 +84,30 @@ hr {
   box-shadow: 0 0 10px rgba(0, 0, 0, 0.15);
 }
 #menu a.navbar-brand {
+  background-image: url(../img/cinsoftexJoiner.png);
+  background-repeat: no-repeat;
+  background-size: 95%;
+  background-position: 50% 50%;
   font-family: "Raleway", sans-serif;
   font-size: 24px;
   font-weight: 700;
   color: #333;
   text-transform: uppercase;
+  text-indent: 120%;
+  white-space: nowrap;
+  overflow: hidden;
+}
+.navbar-brand-to-home {
+  font-family: "Raleway", sans-serif;
+  font-size: 26px;
+  font-weight: 700;
+  color: #333;
+  text-align: center;
+  text-transform: uppercase;
+  background-image: url(../img/cinsoftexJoiner.png);
+  background-repeat: no-repeat;
+  background-size: 16%;
+  background-position: 50% 55%;
 }
 #menu.navbar-default .navbar-nav > li > a {
   font-family: "Lato", sans-serif;
@@ -141,7 +163,8 @@ hr {
   background-color: #608dfd;
 }
 .section-title {
-  margin-bottom: 70px;
+  margin-top: 20px;
+  margin-bottom: 50px;
 }
 .section-title h2 {
   position: relative;
@@ -475,7 +498,7 @@ header .intro-text {
 }
 #contact h3 {
   color: #fff;
-  margin-top: 80px;
+  margin-top: 20px;
   margin-bottom: 25px;
   padding-bottom: 20px;
   font-weight: 400;
