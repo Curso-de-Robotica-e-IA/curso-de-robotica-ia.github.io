@@ -15,12 +15,14 @@
       "text": "O curso possui uma grade de disciplinas com foco prático em testes, Inteligência Artificial e desenvolvimento de software, além de visão computacional."
     },
     {
-      "icon": "fa fa-bullhorn",
+      "usingAwesomeClass": true,
+      "icon": "fa fa-robot",
       "title": "Robótica Aplicada",
       "text": "Contamos com laboratórios equipados com robôs e vários materiais para a prototipação, sendo amplamente utilizada pelos residentes para projetos e experimentações."
     },
     {
-      "icon": "fa fa-magic",
+      "usingAwesomeClass": true,
+      "icon": "fa fa-brain",
       "title": "Inteligência Artificial",
       "text": "Um dos focos da residência é a formação em inteligência artificial, buscando utilizá-la para desenvolver soluções robustas para nossos parceiros."
     }
