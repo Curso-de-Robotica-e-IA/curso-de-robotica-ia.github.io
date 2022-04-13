@@ -12,7 +12,7 @@ import { Project2 } from "./pages/projects/project2";
 import { Project3 } from "./pages/projects/project3";
 
 ReactDOM.render(
-  <BrowserRouter>
+  <BrowserRouter basename={process.env.PUBLIC_URL}>
     <Routes>
       <Route path="/" element={<App />} />
       <Route path="/all-team" element={<AllTeam />} />

@@ -19,11 +19,14 @@
     "smooth-scroll": "^16.1.3",
     "yarn": "^1.22.18"
   },
+  "homepage": "https://curso-de-robotica-e-ia.github.io/Curso-robotica-IA",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
     "extends": "react-app"
@@ -41,6 +44,7 @@
     ]
   },
   "devDependencies": {
+    "gh-pages": "^3.2.3",
     "typescript": "^4.5.5"
   }
 }
