@@ -219,11 +219,26 @@
       "bio": "Graduando em Engenharia da Computação pela Universidade Federal de Pernambuco (UFPE). Atuando na pesquisa e desenvolvimento de software de agentes autonomos pelo RoboCIn. Computação aplicada ao controle e a automação."
     },
     {
+      "img": "img/team/vlv2.png",
+      "name": "Vinícius Ventura",
+      "job": "Iniciação científica",
+      "contact": "https://www.linkedin.com/in/vinicius-lima-ventura",
+      "bio": "Graduando em Engenharia da Computação pela Universidade Federal de Pernambuco (UFPE). Atuando nas áreas de pesquisa e desenvolvimento de software de Visão Computacional, Sistemas Embarcados e Robótica."
+    },
+    {
       "img": "img/team/mhjc.jpg",
       "name": "Matheus Hopper",
       "job": "Estagiário",
-      "contact": "mhjc.cin.ufpe.br \nhttps://www.linkedin.com/in/matheus-hopper-01101996/",
+      "contact": "mhjc@softex.cin.ufpe.br \nhttps://www.linkedin.com/in/matheus-hopper-01101996/",
       "bio": "Graduando em Ciência da Computação pela Universidade Federal de Pernambuco (UFPE). Atuando na pesquisa de circuitos quânticos para aprendizado de máquina."
+    },
+
+    {
+      "img": "img/team/jdts.png",
+      "name": "Júlia Dias",
+      "job": "Iniciação científica",
+      "contact": "https://www.linkedin.com/in/júlia-dias-tavares-de-souza-098700176",
+      "bio": "Estudante de engenharia eletrônica na UFPE, pesquisadora e desenvolvedora do time técnico de pesquisa ligada ao Voxar Labs.  Dentre suas áreas de pesquisa consta Robótica, Eletrônica analógica, Eletrônica digital e Processamento de imagem. Membro da equipe Maracatronics de robótica de 2016 até 2020. Participou da coordenação estadual da Olimpíada Brasileira de Robótica de 2017 até 2021. Atualmente participa da organização da categoria de futebol de robôs VSS do IEEE."
     }
   ],
   "Contact": {
@@ -233,7 +248,7 @@
     "facebook": "fb.com",
     "twitter": "twitter.com",
     "youtube": "youtube.com",
-    "linkedin": "linkedin.com/company/projeto-cin-softex/"
+    "linkedin": "http://linkedin.com/company/projeto-cin-softex/"
   },
   "Project0": {
     "title": "Lorem ipsum felis mi in tempus eleifend",

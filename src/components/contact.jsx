@@ -112,7 +112,11 @@ export const Contact = (props) => {
               <div className="social">
                 <ul>
                   <li>
-                    <a href={props.data ? props.data.linkedin : "/"}>
+                    <a
+                      target="_blank"
+                      rel="noopener noreferrer"
+                      href={props.data ? props.data.linkedin : "/"}
+                    >
                       <i className="fa fa-linkedin"></i>
                     </a>
                   </li>
