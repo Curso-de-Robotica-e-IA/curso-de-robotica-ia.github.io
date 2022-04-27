@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/static/css/main.914de196.chunk.css",
-    "main.js": "/static/js/main.8f89a5f9.chunk.js",
-    "main.js.map": "/static/js/main.8f89a5f9.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.48ef0f6f.js",
-    "runtime-main.js.map": "/static/js/runtime-main.48ef0f6f.js.map",
-    "static/js/2.b9de53cd.chunk.js": "/static/js/2.b9de53cd.chunk.js",
-    "static/js/2.b9de53cd.chunk.js.map": "/static/js/2.b9de53cd.chunk.js.map",
-    "index.html": "/index.html",
-    "static/css/main.914de196.chunk.css.map": "/static/css/main.914de196.chunk.css.map",
-    "static/js/2.b9de53cd.chunk.js.LICENSE.txt": "/static/js/2.b9de53cd.chunk.js.LICENSE.txt"
+    "main.css": "/Curso-robotica-IA/static/css/main.914de196.chunk.css",
+    "main.js": "/Curso-robotica-IA/static/js/main.a5eacdae.chunk.js",
+    "main.js.map": "/Curso-robotica-IA/static/js/main.a5eacdae.chunk.js.map",
+    "runtime-main.js": "/Curso-robotica-IA/static/js/runtime-main.99342bc9.js",
+    "runtime-main.js.map": "/Curso-robotica-IA/static/js/runtime-main.99342bc9.js.map",
+    "static/js/2.b9de53cd.chunk.js": "/Curso-robotica-IA/static/js/2.b9de53cd.chunk.js",
+    "static/js/2.b9de53cd.chunk.js.map": "/Curso-robotica-IA/static/js/2.b9de53cd.chunk.js.map",
+    "index.html": "/Curso-robotica-IA/index.html",
+    "static/css/main.914de196.chunk.css.map": "/Curso-robotica-IA/static/css/main.914de196.chunk.css.map",
+    "static/js/2.b9de53cd.chunk.js.LICENSE.txt": "/Curso-robotica-IA/static/js/2.b9de53cd.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.48ef0f6f.js",
+    "static/js/runtime-main.99342bc9.js",
     "static/js/2.b9de53cd.chunk.js",
     "static/css/main.914de196.chunk.css",
-    "static/js/main.8f89a5f9.chunk.js"
+    "static/js/main.a5eacdae.chunk.js"
   ]
 }
