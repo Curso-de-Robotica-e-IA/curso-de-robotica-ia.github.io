@@ -29,6 +29,7 @@
   ],
   "About": {
     "paragraph": "O projeto segue a filosofia de uma residência tecnológica (inspirada nas residências médicas). Os alunos têm dedicação exclusiva e, em meio turno, dedicam-se a assistir às aulas. No outro turno, realizam no laboratório atividades práticas de Inovação e Pesquisa e Automação e Execução de Testes de Software. A residência proporciona ao aluno tanto capacitação teórica em sala de aula (pela manhã) quanto experiência de trabalho em atividades práticas de automação e execução de teste de software (pela tarde). Desafios de inovação e pesquisa na área de robótica e inteligência artificial aplicadas a teste de software são solucionados tanto pela equipe fixa do projeto (líder técnico e engenheiros) quanto pelos alunos em suas monografias.",
+    "footMCTI": "Projeto apoiado pelo Ministério da Ciência, Tecnologia e Inovações, com recursos da Lei nº 8.248, de 23 de outubro de 1991.",
     "Why": [
       "Aplicação prática em desafios reais",
       "Contato com clientes do mercado",

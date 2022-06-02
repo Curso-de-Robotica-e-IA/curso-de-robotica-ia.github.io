@@ -11,6 +11,7 @@ export const About = (props) => {
             <div className="about-text">
               <h2>Sobre nós</h2>
               <p>{props.data ? props.data.paragraph : "loading..."}</p>
+              <p>{props.data ? props.data.footMCTI : "loading..."}</p>
               <h3>Quais os diferenciais?</h3>
               <div className="list-style">
                 <div className="col-lg-6 col-sm-6 col-xs-12">
