@@ -71,7 +71,8 @@ hr {
   border: 0;
 }
 .img-logo-full {
-  width: 110%;
+  width: 120%;
+  transform: translate(-9%, 0%);
 }
 /* Navigation */
 #menu {
@@ -471,7 +472,7 @@ header .intro-text {
 }
 /* Contact Section */
 #contact {
-  padding: 100px 0 60px;
+  padding: 70px 0 60px;
   background: linear-gradient(to right, #6372ff 0%, #5ca9fb 100%);
   color: rgba(255, 255, 255, 0.75);
 }

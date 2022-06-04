@@ -34,6 +34,30 @@ export const Contact = (props) => {
     <div>
       <div id="contact">
         <div className="container">
+          <div className="col-md-8 col-md-offset-2 section-title">
+            <h2>Informações para contato</h2>
+            <p>Estamos sempre abertos a novas parcerias.</p>
+          </div>
+          <div className="col-md-8 col-md-offset-2 contact-info">
+            <div id="col">
+              <div className="contact-item">
+                <p>
+                  <span>
+                    <i className="fa fa-map-marker"></i> Endereço
+                  </span>
+                  {props.data ? props.data.address : "loading"}
+                </p>
+              </div>
+              <div className="contact-item">
+                <p>
+                  <span>
+                    <i className="fa fa-envelope-o"></i> Email
+                  </span>{" "}
+                  {props.data ? props.data.email : "loading"}
+                </p>
+              </div>
+            </div>
+          </div>
           {/*<div className="col-md-8">
             <div className="row">
               <div className="section-title">
@@ -93,19 +117,8 @@ export const Contact = (props) => {
               </form>
             </div>
           </div>*/}
-          <div className="col-md-8">
-            <img src="img/softexFullLogo.png" className="img-logo-full" />
-          </div>
-          <div className="col-md-3 col-md-offset-1 contact-info">
-            <div className="contact-item">
-              <h3>Informações para Contato</h3>
-              <p>
-                <span>
-                  <i className="fa fa-map-marker"></i> Endereço
-                </span>
-                {props.data ? props.data.address : "loading"}
-              </p>
-            </div>
+          <div className="col-md-18">
+            <img src="img/rodapefull.png" className="img-logo-full" />
           </div>
           <div className="col-md-12">
             <div className="row">
