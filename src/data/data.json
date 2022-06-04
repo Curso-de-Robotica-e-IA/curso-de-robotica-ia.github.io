@@ -169,6 +169,30 @@
       "img": "img/testimonials/fasm.png",
       "text": "\"O apoio da equipe técnica e do corpo docente aliado ao intenso aprendizado que é proporcionado, é o que faz essa residência ser especial. O aprendizado proporcionado é de altíssimo nível.\"",
       "name": "Felipe Mendonca"
+    },
+    {
+      "main": false,
+      "img": "img/testimonials/ssf2.jpg",
+      "text": "\"A frase “Robótica com inteligência artificial” nos faz imaginar um mundo futurista, onde máquinas e seres humanos interagem, hoje temos a oportunidade de colocar em prática um pouco da nossa imaginação, só temos a agradecer a UFPE e a Softex pela oportunidade.\"",
+      "name": "Sandeison Fernandes"
+    },
+    {
+      "main": false,
+      "img": "img/testimonials/jmn.jpg",
+      "text": "\"Só tenho a agradecer por essa incrível oportunidade. Aqui temos um ambiente totalmente inovador, com professores bem qualificados, equipe técnica que apoia o desenvolvimento e corpo docente capaz de auxiliar durante todo o curso. É uma experiência única para mim.\"",
+      "name": "Jefferson Norberto"
+    },
+    {
+      "main": false,
+      "img": "img/testimonials/phts2.jpg",
+      "text": "\"A Residência no geral nos dá a oportunidade de crescer no conhecimento teórico e prático alavancando nosso perfil profissional e pessoal de um forma muito satisfatória levando em consideração a união de toda a equipe de residentes e técnica para chegar no objetivo final  estou muito grato de fazer parte deste processo e desse projeto como um todo  e que  no fim  todos nós  possamos Contribuir de alguma forma para o conhecimento de novas pessoas.\"",
+      "name": "Pedro Souza"
+    },
+    {
+      "main": false,
+      "img": "img/testimonials/arls.jpeg",
+      "text": "\"A residência proporciona um leque muito grande de oportunidades e desenvolvimento, um ambiente de muito aprendizado e troca de experiências, com uma equipe técnica e professores altamente capacitados.\"",
+      "name": "Adonnis Souza "
     }
   ],
   "Team": [
