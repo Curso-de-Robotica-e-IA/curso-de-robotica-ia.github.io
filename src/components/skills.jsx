@@ -15,7 +15,7 @@ export const Skills = (props) => {
                   {" "}
                   <i className={d.icon}>
                     {d.usingAwesomeClass ? (
-                      d.icon == "fa fa-brain" ? (
+                      d.icon === "fa fa-brain" ? (
                         <FontAwesomeIcon icon={faBrain} />
                       ) : (
                         <FontAwesomeIcon icon={faRobot} />
