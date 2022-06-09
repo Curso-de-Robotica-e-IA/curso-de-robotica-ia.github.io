@@ -42,71 +42,41 @@
   },
   "Gallery": [
     {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/01-large.jpg",
-      "smallImage": "img/portfolio/01-small.jpg"
+      "title": "Projeto de automação das urnas eletrônicas no processo de audotoria",
+      "largeImage": "img/portfolio/01-TRE-Large.jpg",
+      "smallImage": "img/portfolio/01-TRE-Small.jpg"
     },
     {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/02-large.jpg",
-      "smallImage": "img/portfolio/02-small.jpg"
+      "title": "Projeto de automação das urnas eletrônicas no processo de audotoria",
+      "largeImage": "img/portfolio/02-TRE-Large.jpg",
+      "smallImage": "img/portfolio/02-TRE-Small.jpg"
     },
     {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/03-large.jpg",
-      "smallImage": "img/portfolio/03-small.jpg"
+      "title": "Projeto de automação das urnas eletrônicas no processo de audotoria",
+      "largeImage": "img/portfolio/03-TRE-Large.jpg",
+      "smallImage": "img/portfolio/03-TRE-Small.jpg"
     },
     {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/04-large.jpg",
-      "smallImage": "img/portfolio/04-small.jpg"
+      "title": "Projeto de automação das urnas eletrônicas no processo de audotoria",
+      "largeImage": "img/portfolio/04-TRE-Large.jpg",
+      "smallImage": "img/portfolio/04-TRE-Small.jpg"
     },
     {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/05-large.jpg",
-      "smallImage": "img/portfolio/05-small.jpg"
+      "title": "Projeto de automação das urnas eletrônicas no processo de audotoria",
+      "largeImage": "img/portfolio/05-TRE-Large.jpg",
+      "smallImage": "img/portfolio/05-TRE-Small.jpg"
     },
     {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/06-large.jpg",
-      "smallImage": "img/portfolio/06-small.jpg"
-    },
-    {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/07-large.jpg",
-      "smallImage": "img/portfolio/07-small.jpg"
-    },
-    {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/08-large.jpg",
-      "smallImage": "img/portfolio/08-small.jpg"
-    },
-    {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/09-large.jpg",
-      "smallImage": "img/portfolio/09-small.jpg"
+      "title": "Projeto de automação das urnas eletrônicas no processo de audotoria",
+      "largeImage": "img/portfolio/06-TRE-Large.jpg",
+      "smallImage": "img/portfolio/06-TRE-Small.jpg"
     }
   ],
   "Services": [
     {
-      "icon": "img/portfolio/09-large.jpg",
-      "name": "Project Title",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
-    },
-    {
-      "icon": "img/portfolio/02-large.jpg",
-      "name": "Project Title",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
-    },
-    {
-      "icon": "img/portfolio/01-large.jpg",
-      "name": "Project Title",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
-    },
-    {
-      "icon": "img/portfolio/05-large.jpg",
-      "name": "Project Title",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+      "icon": "img/portfolio/01-TRE-Small.jpg",
+      "name": "Projeto de automação das urnas eletrônicas no processo de audotoria",
+      "text": "CIn-UFPE desenvolve solução inédita com inteligência artificial e automação para teste em urnas eletrônicas em parceria com o TRE-PE e Softex."
     }
   ],
   "Testimonials": [
@@ -276,146 +246,25 @@
     "linkedin": "http://linkedin.com/company/projeto-cin-softex/"
   },
   "Project0": {
-    "title": "Lorem ipsum felis mi in tempus eleifend",
-    "subTitle": "Lorem ipsum dolor sit amet placerat facilisis pellentesque natoque etiam.",
+    "title": "Projeto de automação das urnas eletrônicas no processo de audotoria",
+    "subTitle": "CIn-UFPE desenvolve solução inédita com inteligência artificial e automação para teste em urnas eletrônicas em parceria com o TRE-PE",
     "paragraphs": [
       {
-        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam ut porta lorem. Praesent convallis, leo at dapibus ultricies, nulla risus elementum augue, ac efficitur elit augue at sapien. Proin imperdiet interdum turpis, ut aliquet ipsum hendrerit ut. Integer ligula lectus, feugiat ac porttitor a, egestas eget sapien. Vivamus magna ex, efficitur vel leo a, condimentum congue diam. Suspendisse feugiat dui magna, eget pellentesque arcu bibendum et. Praesent rutrum vulputate turpis at lacinia. Donec ante odio, consequat sit amet diam nec, ullamcorper pulvinar quam. Integer quis purus odio. Cras ut massa non nibh aliquet commodo. Proin pharetra sit amet mauris vel tincidunt. Sed vestibulum luctus semper. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos."
-      },
-      {
-        "text": "Maecenas tempus congue lacus. Sed gravida, nisi et sollicitudin fringilla, tortor metus maximus risus, eu rhoncus quam ex vel est. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Donec ac laoreet mi, quis aliquam ligula. Aenean rutrum pharetra nisi ut aliquam. In varius imperdiet magna sed varius. Interdum et malesuada fames ac ante ipsum primis in faucibus. Integer purus ex, rhoncus ac malesuada ac, blandit eget urna. In ut arcu nec neque tristique egestas eget nec enim. Mauris sit amet justo quis quam imperdiet interdum. Quisque consequat laoreet turpis, id congue metus. Etiam auctor nibh justo, ut condimentum elit aliquet sit amet. Cras rutrum metus sed rutrum fringilla."
-      },
-      {
-        "topic": "Lorem ipsum dolor",
-        "image": "img/portfolio/01-large.jpg",
-        "caption": "sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        "topic": "Projeto de automação das urnas eletrônicas",
+        "image": "img/portfolio/01-TRE-Large.jpg",
+        "caption": "Divulgação do projeto para TRE e TSE",
         "isTop": true,
-        "text": "Duis egestas libero eu ligula euismod aliquam. Duis eu pellentesque est. Donec lacinia erat vitae risus tempus viverra in sed metus. Etiam condimentum accumsan risus non pulvinar. Integer in mi enim. Etiam eget nulla dolor. Vestibulum iaculis quis mauris sed pharetra. Nunc luctus diam non lectus rutrum, eget pharetra neque bibendum. Phasellus sit amet lacinia sapien. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas."
+        "text": ""
       },
       {
-        "text": "Nunc ullamcorper egestas tristique. Cras a metus libero. Ut ut sem a leo aliquet placerat in et quam. Sed nibh erat, scelerisque quis leo vitae, facilisis vestibulum nisi. Curabitur dictum urna nulla, ut iaculis lacus condimentum quis. Integer dapibus quam vel pulvinar auctor. Vestibulum sem turpis, accumsan eget luctus porta, condimentum eu lorem. Vestibulum porta arcu eget nisl efficitur suscipit. Quisque at tellus erat."
+        "text": "O Centro de Informática (CIn) da Universidade Federal de Pernambuco (UFPE), com tradição em programas de residência para empresas há 2 décadas, sendo referência nacional e premiado pelo MCTI, lançou em outubro de 2021 a primeira turma da Residência em Robótica e Inteligência Artificial Aplicadas a Testes de Software através de convênio com a Softex e posterior acordo de parceria tripartite com o Tribunal Regional Eleitoral (TRE-PE). A proposta do curso é formar especialistas, uma Pós-Graduação Lato Sensu, em Robótica e Inteligência Artificial e desenvolver um kit robótico inteligente capaz de interagir com as urnas eletrônicas do TRE-PE já nas eleições de 2022."
+      },
+      {  
+        "text": "O Ministro do Supremo Tribunal Federal Edson Fachin marcou presença na apresentação de uma solução inédita, que utiliza inteligência artificial, realizada no prédio do TRE de Pernambuco. O projeto é uma parceria entre o tribunal, os alunos do Centro de Informática da UFPE e da Softex."
       },
       {
-        "topic": "Lorem ipsum dolor",
-        "text": "Quisque ultricies malesuada diam, et ultrices libero fermentum eu. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Integer pharetra velit at dolor molestie sollicitudin. Cras mi risus, varius vel felis ut, dignissim imperdiet lacus. Quisque tristique magna a neque luctus, eget vulputate mauris congue. Mauris vitae sem quis libero viverra gravida ut porttitor elit. Aenean hendrerit semper orci, id iaculis urna dapibus consequat. Duis a mi vitae risus pharetra placerat. Integer gravida, tortor a placerat euismod, nisl ante cursus risus, non elementum diam metus id lacus. Etiam eu diam non nisi posuere pretium et vel est."
-      },
-      {
-        "image": "img/portfolio/07-large.jpg",
-        "caption": "caption lorem ipsum dolor",
-        "text": "Nunc ullamcorper egestas tristique. Cras a metus libero. Ut ut sem a leo aliquet placerat in et quam. Sed nibh erat, scelerisque quis leo vitae, facilisis vestibulum nisi. Curabitur dictum urna nulla, ut iaculis lacus condimentum quis. Integer dapibus quam vel pulvinar auctor. Vestibulum sem turpis, accumsan eget luctus porta, condimentum eu lorem. Vestibulum porta arcu eget nisl efficitur suscipit. Quisque at tellus erat."
-      },
-      {
-        "image": "img/portfolio/08-large.jpg",
-        "caption": "caption lorem ipsum dolor",
-        "text": "Nunc ullamcorper egestas tristique. Cras a metus libero. Ut ut sem a leo aliquet placerat in et quam. Sed nibh erat, scelerisque quis leo vitae, facilisis vestibulum nisi. Curabitur dictum urna nulla, ut iaculis lacus condimentum quis. Integer dapibus quam vel pulvinar auctor. Vestibulum sem turpis, accumsan eget luctus porta, condimentum eu lorem. Vestibulum porta arcu eget nisl efficitur suscipit. Quisque at tellus erat."
-      }
-    ]
-  },
-  "Project1": {
-    "title": "Lorem ipsum felis mi in tempus eleifend",
-    "subTitle": "Lorem ipsum dolor sit amet placerat facilisis pellentesque natoque etiam.",
-    "paragraphs": [
-      {
-        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam ut porta lorem. Praesent convallis, leo at dapibus ultricies, nulla risus elementum augue, ac efficitur elit augue at sapien. Proin imperdiet interdum turpis, ut aliquet ipsum hendrerit ut. Integer ligula lectus, feugiat ac porttitor a, egestas eget sapien. Vivamus magna ex, efficitur vel leo a, condimentum congue diam. Suspendisse feugiat dui magna, eget pellentesque arcu bibendum et. Praesent rutrum vulputate turpis at lacinia. Donec ante odio, consequat sit amet diam nec, ullamcorper pulvinar quam. Integer quis purus odio. Cras ut massa non nibh aliquet commodo. Proin pharetra sit amet mauris vel tincidunt. Sed vestibulum luctus semper. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos."
-      },
-      {
-        "text": "Maecenas tempus congue lacus. Sed gravida, nisi et sollicitudin fringilla, tortor metus maximus risus, eu rhoncus quam ex vel est. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Donec ac laoreet mi, quis aliquam ligula. Aenean rutrum pharetra nisi ut aliquam. In varius imperdiet magna sed varius. Interdum et malesuada fames ac ante ipsum primis in faucibus. Integer purus ex, rhoncus ac malesuada ac, blandit eget urna. In ut arcu nec neque tristique egestas eget nec enim. Mauris sit amet justo quis quam imperdiet interdum. Quisque consequat laoreet turpis, id congue metus. Etiam auctor nibh justo, ut condimentum elit aliquet sit amet. Cras rutrum metus sed rutrum fringilla."
-      },
-      {
-        "topic": "Lorem ipsum dolor",
-        "image": "img/portfolio/02-large.jpg",
-        "caption": "sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-        "isTop": true,
-        "text": "Duis egestas libero eu ligula euismod aliquam. Duis eu pellentesque est. Donec lacinia erat vitae risus tempus viverra in sed metus. Etiam condimentum accumsan risus non pulvinar. Integer in mi enim. Etiam eget nulla dolor. Vestibulum iaculis quis mauris sed pharetra. Nunc luctus diam non lectus rutrum, eget pharetra neque bibendum. Phasellus sit amet lacinia sapien. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas."
-      },
-      {
-        "text": "Nunc ullamcorper egestas tristique. Cras a metus libero. Ut ut sem a leo aliquet placerat in et quam. Sed nibh erat, scelerisque quis leo vitae, facilisis vestibulum nisi. Curabitur dictum urna nulla, ut iaculis lacus condimentum quis. Integer dapibus quam vel pulvinar auctor. Vestibulum sem turpis, accumsan eget luctus porta, condimentum eu lorem. Vestibulum porta arcu eget nisl efficitur suscipit. Quisque at tellus erat."
-      },
-      {
-        "topic": "Lorem ipsum dolor",
-        "text": "Quisque ultricies malesuada diam, et ultrices libero fermentum eu. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Integer pharetra velit at dolor molestie sollicitudin. Cras mi risus, varius vel felis ut, dignissim imperdiet lacus. Quisque tristique magna a neque luctus, eget vulputate mauris congue. Mauris vitae sem quis libero viverra gravida ut porttitor elit. Aenean hendrerit semper orci, id iaculis urna dapibus consequat. Duis a mi vitae risus pharetra placerat. Integer gravida, tortor a placerat euismod, nisl ante cursus risus, non elementum diam metus id lacus. Etiam eu diam non nisi posuere pretium et vel est."
-      },
-      {
-        "image": "img/portfolio/07-large.jpg",
-        "caption": "caption lorem ipsum dolor",
-        "text": "Nunc ullamcorper egestas tristique. Cras a metus libero. Ut ut sem a leo aliquet placerat in et quam. Sed nibh erat, scelerisque quis leo vitae, facilisis vestibulum nisi. Curabitur dictum urna nulla, ut iaculis lacus condimentum quis. Integer dapibus quam vel pulvinar auctor. Vestibulum sem turpis, accumsan eget luctus porta, condimentum eu lorem. Vestibulum porta arcu eget nisl efficitur suscipit. Quisque at tellus erat."
-      },
-      {
-        "image": "img/portfolio/08-large.jpg",
-        "caption": "caption lorem ipsum dolor",
-        "text": "Nunc ullamcorper egestas tristique. Cras a metus libero. Ut ut sem a leo aliquet placerat in et quam. Sed nibh erat, scelerisque quis leo vitae, facilisis vestibulum nisi. Curabitur dictum urna nulla, ut iaculis lacus condimentum quis. Integer dapibus quam vel pulvinar auctor. Vestibulum sem turpis, accumsan eget luctus porta, condimentum eu lorem. Vestibulum porta arcu eget nisl efficitur suscipit. Quisque at tellus erat."
-      }
-    ]
-  },
-  "Project2": {
-    "title": "Lorem ipsum felis mi in tempus eleifend",
-    "subTitle": "Lorem ipsum dolor sit amet placerat facilisis pellentesque natoque etiam.",
-    "paragraphs": [
-      {
-        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam ut porta lorem. Praesent convallis, leo at dapibus ultricies, nulla risus elementum augue, ac efficitur elit augue at sapien. Proin imperdiet interdum turpis, ut aliquet ipsum hendrerit ut. Integer ligula lectus, feugiat ac porttitor a, egestas eget sapien. Vivamus magna ex, efficitur vel leo a, condimentum congue diam. Suspendisse feugiat dui magna, eget pellentesque arcu bibendum et. Praesent rutrum vulputate turpis at lacinia. Donec ante odio, consequat sit amet diam nec, ullamcorper pulvinar quam. Integer quis purus odio. Cras ut massa non nibh aliquet commodo. Proin pharetra sit amet mauris vel tincidunt. Sed vestibulum luctus semper. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos."
-      },
-      {
-        "text": "Maecenas tempus congue lacus. Sed gravida, nisi et sollicitudin fringilla, tortor metus maximus risus, eu rhoncus quam ex vel est. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Donec ac laoreet mi, quis aliquam ligula. Aenean rutrum pharetra nisi ut aliquam. In varius imperdiet magna sed varius. Interdum et malesuada fames ac ante ipsum primis in faucibus. Integer purus ex, rhoncus ac malesuada ac, blandit eget urna. In ut arcu nec neque tristique egestas eget nec enim. Mauris sit amet justo quis quam imperdiet interdum. Quisque consequat laoreet turpis, id congue metus. Etiam auctor nibh justo, ut condimentum elit aliquet sit amet. Cras rutrum metus sed rutrum fringilla."
-      },
-      {
-        "topic": "Lorem ipsum dolor",
-        "image": "img/portfolio/03-large.jpg",
-        "caption": "sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-        "isTop": true,
-        "text": "Duis egestas libero eu ligula euismod aliquam. Duis eu pellentesque est. Donec lacinia erat vitae risus tempus viverra in sed metus. Etiam condimentum accumsan risus non pulvinar. Integer in mi enim. Etiam eget nulla dolor. Vestibulum iaculis quis mauris sed pharetra. Nunc luctus diam non lectus rutrum, eget pharetra neque bibendum. Phasellus sit amet lacinia sapien. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas."
-      },
-      {
-        "text": "Nunc ullamcorper egestas tristique. Cras a metus libero. Ut ut sem a leo aliquet placerat in et quam. Sed nibh erat, scelerisque quis leo vitae, facilisis vestibulum nisi. Curabitur dictum urna nulla, ut iaculis lacus condimentum quis. Integer dapibus quam vel pulvinar auctor. Vestibulum sem turpis, accumsan eget luctus porta, condimentum eu lorem. Vestibulum porta arcu eget nisl efficitur suscipit. Quisque at tellus erat."
-      },
-      {
-        "topic": "Lorem ipsum dolor",
-        "text": "Quisque ultricies malesuada diam, et ultrices libero fermentum eu. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Integer pharetra velit at dolor molestie sollicitudin. Cras mi risus, varius vel felis ut, dignissim imperdiet lacus. Quisque tristique magna a neque luctus, eget vulputate mauris congue. Mauris vitae sem quis libero viverra gravida ut porttitor elit. Aenean hendrerit semper orci, id iaculis urna dapibus consequat. Duis a mi vitae risus pharetra placerat. Integer gravida, tortor a placerat euismod, nisl ante cursus risus, non elementum diam metus id lacus. Etiam eu diam non nisi posuere pretium et vel est."
-      },
-      {
-        "image": "img/portfolio/07-large.jpg",
-        "caption": "caption lorem ipsum dolor",
-        "text": "Nunc ullamcorper egestas tristique. Cras a metus libero. Ut ut sem a leo aliquet placerat in et quam. Sed nibh erat, scelerisque quis leo vitae, facilisis vestibulum nisi. Curabitur dictum urna nulla, ut iaculis lacus condimentum quis. Integer dapibus quam vel pulvinar auctor. Vestibulum sem turpis, accumsan eget luctus porta, condimentum eu lorem. Vestibulum porta arcu eget nisl efficitur suscipit. Quisque at tellus erat."
-      },
-      {
-        "image": "img/portfolio/08-large.jpg",
-        "caption": "caption lorem ipsum dolor",
-        "text": "Nunc ullamcorper egestas tristique. Cras a metus libero. Ut ut sem a leo aliquet placerat in et quam. Sed nibh erat, scelerisque quis leo vitae, facilisis vestibulum nisi. Curabitur dictum urna nulla, ut iaculis lacus condimentum quis. Integer dapibus quam vel pulvinar auctor. Vestibulum sem turpis, accumsan eget luctus porta, condimentum eu lorem. Vestibulum porta arcu eget nisl efficitur suscipit. Quisque at tellus erat."
-      }
-    ]
-  },
-  "Project3": {
-    "title": "Lorem ipsum felis mi in tempus eleifend",
-    "subTitle": "Lorem ipsum dolor sit amet placerat facilisis pellentesque natoque etiam.",
-    "paragraphs": [
-      {
-        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam ut porta lorem. Praesent convallis, leo at dapibus ultricies, nulla risus elementum augue, ac efficitur elit augue at sapien. Proin imperdiet interdum turpis, ut aliquet ipsum hendrerit ut. Integer ligula lectus, feugiat ac porttitor a, egestas eget sapien. Vivamus magna ex, efficitur vel leo a, condimentum congue diam. Suspendisse feugiat dui magna, eget pellentesque arcu bibendum et. Praesent rutrum vulputate turpis at lacinia. Donec ante odio, consequat sit amet diam nec, ullamcorper pulvinar quam. Integer quis purus odio. Cras ut massa non nibh aliquet commodo. Proin pharetra sit amet mauris vel tincidunt. Sed vestibulum luctus semper. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos."
-      },
-      {
-        "text": "Maecenas tempus congue lacus. Sed gravida, nisi et sollicitudin fringilla, tortor metus maximus risus, eu rhoncus quam ex vel est. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Donec ac laoreet mi, quis aliquam ligula. Aenean rutrum pharetra nisi ut aliquam. In varius imperdiet magna sed varius. Interdum et malesuada fames ac ante ipsum primis in faucibus. Integer purus ex, rhoncus ac malesuada ac, blandit eget urna. In ut arcu nec neque tristique egestas eget nec enim. Mauris sit amet justo quis quam imperdiet interdum. Quisque consequat laoreet turpis, id congue metus. Etiam auctor nibh justo, ut condimentum elit aliquet sit amet. Cras rutrum metus sed rutrum fringilla."
-      },
-      {
-        "topic": "Lorem ipsum dolor",
-        "image": "img/portfolio/04-large.jpg",
-        "caption": "sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-        "isTop": true,
-        "text": "Duis egestas libero eu ligula euismod aliquam. Duis eu pellentesque est. Donec lacinia erat vitae risus tempus viverra in sed metus. Etiam condimentum accumsan risus non pulvinar. Integer in mi enim. Etiam eget nulla dolor. Vestibulum iaculis quis mauris sed pharetra. Nunc luctus diam non lectus rutrum, eget pharetra neque bibendum. Phasellus sit amet lacinia sapien. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas."
-      },
-      {
-        "text": "Nunc ullamcorper egestas tristique. Cras a metus libero. Ut ut sem a leo aliquet placerat in et quam. Sed nibh erat, scelerisque quis leo vitae, facilisis vestibulum nisi. Curabitur dictum urna nulla, ut iaculis lacus condimentum quis. Integer dapibus quam vel pulvinar auctor. Vestibulum sem turpis, accumsan eget luctus porta, condimentum eu lorem. Vestibulum porta arcu eget nisl efficitur suscipit. Quisque at tellus erat."
-      },
-      {
-        "topic": "Lorem ipsum dolor",
-        "text": "Quisque ultricies malesuada diam, et ultrices libero fermentum eu. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Integer pharetra velit at dolor molestie sollicitudin. Cras mi risus, varius vel felis ut, dignissim imperdiet lacus. Quisque tristique magna a neque luctus, eget vulputate mauris congue. Mauris vitae sem quis libero viverra gravida ut porttitor elit. Aenean hendrerit semper orci, id iaculis urna dapibus consequat. Duis a mi vitae risus pharetra placerat. Integer gravida, tortor a placerat euismod, nisl ante cursus risus, non elementum diam metus id lacus. Etiam eu diam non nisi posuere pretium et vel est."
-      },
-      {
-        "image": "img/portfolio/07-large.jpg",
-        "caption": "caption lorem ipsum dolor",
-        "text": "Nunc ullamcorper egestas tristique. Cras a metus libero. Ut ut sem a leo aliquet placerat in et quam. Sed nibh erat, scelerisque quis leo vitae, facilisis vestibulum nisi. Curabitur dictum urna nulla, ut iaculis lacus condimentum quis. Integer dapibus quam vel pulvinar auctor. Vestibulum sem turpis, accumsan eget luctus porta, condimentum eu lorem. Vestibulum porta arcu eget nisl efficitur suscipit. Quisque at tellus erat."
-      },
-      {
-        "image": "img/portfolio/08-large.jpg",
-        "caption": "caption lorem ipsum dolor",
-        "text": "Nunc ullamcorper egestas tristique. Cras a metus libero. Ut ut sem a leo aliquet placerat in et quam. Sed nibh erat, scelerisque quis leo vitae, facilisis vestibulum nisi. Curabitur dictum urna nulla, ut iaculis lacus condimentum quis. Integer dapibus quam vel pulvinar auctor. Vestibulum sem turpis, accumsan eget luctus porta, condimentum eu lorem. Vestibulum porta arcu eget nisl efficitur suscipit. Quisque at tellus erat."
+        "topic": "Links das notícias relacionadas:",
+        "text": ""
       }
     ]
   }
