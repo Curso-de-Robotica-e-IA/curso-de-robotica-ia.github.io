@@ -82,7 +82,7 @@ export const BlogPost = (props) => {
   };
   return (
     <div
-      id="blog-post-project-0"
+      id="blog-post-project-tre"
       className="text-center"
       style={{
         margin: "100px 0px 0px 0px",
@@ -102,6 +102,26 @@ export const BlogPost = (props) => {
           ) : (
             "loading..."
           )}
+          <div className="row">
+            {props.data ? (
+              <div>
+                <h3>Links das notícias relacionadas:</h3>
+                <ul>
+                  {props.data.links.map(({ name, url }) => (
+                    <li>
+                      {
+                        <a href={url} target="_blank" rel="noopener noreferrer">
+                          {name}
+                        </a>
+                      }
+                    </li>
+                  ))}
+                </ul>
+              </div>
+            ) : (
+              "loading..."
+            )}
+          </div>
         </div>
       </div>
     </div>
