@@ -75,7 +75,7 @@
   "Services": [
     {
       "icon": "img/portfolio/07-TRE-Large.jpg",
-      "name": "Projeto de automação das urnas eletrônicas no processo de audotoria",
+      "name": "Projeto de automação das urnas eletrônicas no processo de auditoria",
       "text": "CIn-UFPE desenvolve solução inédita com inteligência artificial e automação para teste em urnas eletrônicas em parceria com o TRE-PE e Softex."
     }
   ],
@@ -246,7 +246,7 @@
     "linkedin": "http://linkedin.com/company/projeto-cin-softex/"
   },
   "Project0": {
-    "title": "Projeto de automação das urnas eletrônicas no processo de audotoria",
+    "title": "Projeto de automação das urnas eletrônicas no processo de auditoria",
     "subTitle": "CIn-UFPE desenvolve solução inédita com inteligência artificial e automação para teste em urnas eletrônicas em parceria com o TRE-PE",
     "paragraphs": [
       {
