@@ -6,10 +6,6 @@ export const Gallery = (props) => {
       <div className="container">
         <div className="section-title">
           <h2>Galeria</h2>
-          <p>
-            Imagens e demonstrações do desenvolvimento feito por residentes no
-            laboratório.
-          </p>
         </div>
         <div className="row">
           <div className="portfolio-items">

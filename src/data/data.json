@@ -73,11 +73,6 @@
     },
     {
       "title": "Primeiro ano de residencia",
-      "largeImage": "img/team/01-Team-Large.jpg",
-      "smallImage": "img/team/01-Team-Small.jpg"
-    },
-    {
-      "title": "Primeiro ano de residencia",
       "largeImage": "img/team/02-Team-Large.jpg",
       "smallImage": "img/team/02-Team-Small.jpg"
     }
@@ -208,7 +203,20 @@
       "contact": "jmxnt@cin.ufpe.br",
       "bio": "Doutorado em Ciências da Computação pela Universidade Federal de Pernambuco (UFPE). Professor Adjunto 1 e chefe do Departamento de Eletrônica e Sistemas da UFPE. Atuação na área de Ciência da Computação, com ênfase em Sistemas Embarcados, atuando principalmente com dispositivos de interação, Realidade Virtual e Aumentada, computação de alto desempenho, programação paralela. Além de ser pesquisador sênior no Grupo de Pesquisa Voxar Labs do Centro de Informática da UFPE."
     },
-
+    {
+      "img": "img/team/.png",
+      "name": "Juana Simões",
+      "job": "Capital Humano",
+      "contact": "",
+      "bio": ""
+    },
+    {
+      "img": "img/team/phsb2.png",
+      "name": "Pedro Henrique",
+      "job": "Infraestrutura",
+      "contact": "phsb2@softex.cin.ufpe.br\nhttps://www.linkedin.com/in/peddrohbgs/",
+      "bio": "Graduando em Ciência da Computação pelo Instituto Pernambucano de Ensino Superior(IPESU), atuando na área de administração de redes e gerenciamento de Active Directory. Atualmente ligado ao Projeto CIn/SOFTEX. "
+    },
     {
       "img": "img/team/cvss2.png",
       "name": "Cecília Virgínia",
@@ -219,31 +227,58 @@
     {
       "img": "img/team/rjmr.png",
       "name": "Riei Rodrigues",
-      "job": "Estagiário",
+      "job": "Estagiário desenvolvimento",
       "contact": "rjmr@softex.cin.ufpe.br\nlinkedin.com/in/riei-joaquim-rodrigues",
       "bio": "Graduando em Engenharia da Computação pela Universidade Federal de Pernambuco (UFPE). Atuando na pesquisa e desenvolvimento de software de agentes autonomos pelo RoboCIn. Computação aplicada ao controle e a automação."
+    },
+    {
+      "img": "img/team/mhjc.jpg",
+      "name": "Matheus Hopper",
+      "job": "Estagiário desenvolvimento",
+      "contact": "mhjc@softex.cin.ufpe.br\nhttps://www.linkedin.com/in/matheus-hopper-01101996/",
+      "bio": "Graduando em Ciência da Computação pela Universidade Federal de Pernambuco (UFPE). Atuando na pesquisa de circuitos quânticos para aprendizado de máquina."
     },
     {
       "img": "img/team/vlv2.png",
       "name": "Vinícius Ventura",
       "job": "Iniciação científica",
-      "contact": "https://www.linkedin.com/in/vinicius-lima-ventura",
+      "contact": "vlv2@softex.cin.ufpe.br\nhttps://www.linkedin.com/in/vinicius-lima-ventura",
       "bio": "Graduando em Engenharia da Computação pela Universidade Federal de Pernambuco (UFPE). Atuando nas áreas de pesquisa e desenvolvimento de software de Visão Computacional, Sistemas Embarcados e Robótica."
     },
     {
-      "img": "img/team/mhjc.jpg",
-      "name": "Matheus Hopper",
-      "job": "Estagiário",
-      "contact": "mhjc@softex.cin.ufpe.br \nhttps://www.linkedin.com/in/matheus-hopper-01101996/",
-      "bio": "Graduando em Ciência da Computação pela Universidade Federal de Pernambuco (UFPE). Atuando na pesquisa de circuitos quânticos para aprendizado de máquina."
+      "img": "img/team/jgmn2.jpg",
+      "name": "Júlia Nascimento",
+      "job": "Estagiária recepção",
+      "contact": "jgmn2@softex.cin.ufpe.br\nhttps://www.linkedin.com/in/j%C3%BAlia-nascimento-9772691a2",
+      "bio": "Graduanda em Administração pelo Centro Universitário Maurício de Nassau (Uninassau-Recife)."
     },
-
     {
       "img": "img/team/jdts.png",
       "name": "Júlia Dias",
       "job": "Iniciação científica",
-      "contact": "https://www.linkedin.com/in/júlia-dias-tavares-de-souza-098700176",
+      "contact": "jdts@softex.cin.ufpe.br\nhttps://www.linkedin.com/in/júlia-dias-tavares-de-souza-098700176",
       "bio": "Estudante de engenharia eletrônica na UFPE, pesquisadora e desenvolvedora do time técnico de pesquisa ligada ao Voxar Labs.  Dentre suas áreas de pesquisa consta Robótica, Eletrônica analógica, Eletrônica digital e Processamento de imagem. Membro da equipe Maracatronics de robótica de 2016 até 2020. Participou da coordenação estadual da Olimpíada Brasileira de Robótica de 2017 até 2021. Atualmente participa da organização da categoria de futebol de robôs VSS do IEEE."
+    },
+    {
+      "img": "img/team/tsp3.jpg",
+      "name": "Tamires Pereira",
+      "job": "Estagiária Capital Humano",
+      "contact": "tsp3@softex.cin.ufpe.br",
+      "bio": "Experiência na área de Gestão de Pessoas, atuando no RH da Instituição.  Tecnólogo de RH (Uninabuco Recife) / MBA de Gestão de Pessoas (Uninassau) / Cursando Psicologia na FAFIRE."
+    },
+    {
+      "img": "img/team/gfr2.jpg",
+      "name": "Gabriel Ramalho",
+      "job": "Estagiário Recepção",
+      "contact": "grf2@softex.cin.ufpe.br\nhttps://www.linkedin.com/in/gabriel-ramalho-090911196",
+      "bio": "Graduando em Administração (UFPE) e Análise e Desenvolvimento de Sistema (SENAC) - Atuando na recepção do projeto cin - SOFTEX"
+    },
+    {
+      "img": "img/team/zsmn.jpg",
+      "name": "Zilde Neto",
+      "job": "Iniciação Científica",
+      "contact": "zsmn@softex.cin.ufpe.br\nhttps://www.linkedin.com/in/zilde-neto/",
+      "bio": "Estudante de Engenharia da Computação na Universidade Federal de Pernambuco (UFPE). Atuando no time técnico e de pesquisa vinculado ao Voxar Labs, com ênfase nas áreas de inteligência artificial e processamento de imagem. Membro do time de robótica Maracatronics atuando na pesquisa e desenvolvimento de sistemas para agentes autônomos e participante da organização da categoria de futebol de robôs VSS do IEEE."
     }
   ],
   "Contact": {
