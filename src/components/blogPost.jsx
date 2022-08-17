@@ -105,6 +105,25 @@ export const BlogPost = (props) => {
           <div className="row">
             {props.data ? (
               <div>
+                <p>
+                  {props.data.footnode.text}
+                  <a
+                    href={props.data.footnode.link.url}
+                    target="_blank"
+                    rel="noopener noreferrer"
+                  >
+                    {props.data.footnode.link.name}
+                  </a>
+                  {"."}
+                </p>
+              </div>
+            ) : (
+              "loading..."
+            )}
+          </div>
+          <div className="row">
+            {props.data ? (
+              <div>
                 <h3>Links das notícias relacionadas:</h3>
                 <ul>
                   {props.data.links.map(({ name, url }) => (
