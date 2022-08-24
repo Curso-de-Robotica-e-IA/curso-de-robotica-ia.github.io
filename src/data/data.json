@@ -72,6 +72,31 @@
       "smallImage": "img/portfolio/06-TRE-Small.jpg"
     },
     {
+      "title": "Visita dos alunos do Instituto Federal do Rio Grande do Norte ao projeto CIn/Softex",
+      "largeImage": "img/portfolio/visitaifrn1_large.jpg",
+      "smallImage": "img/portfolio/visitaifrn1_small.jpg"
+    },
+    {
+      "title": "Visita dos alunos do Instituto Federal do Rio Grande do Norte ao projeto CIn/Softex",
+      "largeImage": "img/portfolio/visitaifrn2_large.jpg",
+      "smallImage": "img/portfolio/visitaifrn2_small.jpg"
+    },
+    {
+      "title": "Visita dos alunos do Instituto Federal do Rio Grande do Norte ao projeto CIn/Softex",
+      "largeImage": "img/portfolio/visitaifrn3_large.jpg",
+      "smallImage": "img/portfolio/visitaifrn3_small.jpg"
+    },
+    {
+      "title": "Visita dos alunos do Instituto Federal do Rio Grande do Norte ao projeto CIn/Softex",
+      "largeImage": "img/portfolio/visitaifrn4_large.jpg",
+      "smallImage": "img/portfolio/visitaifrn4_small.jpg"
+    },
+    {
+      "title": "Visita dos alunos do Instituto Federal do Rio Grande do Norte ao projeto CIn/Softex",
+      "largeImage": "img/portfolio/visitaifrn5_large.jpg",
+      "smallImage": "img/portfolio/visitaifrn5_small.jpg"
+    },
+    {
       "title": "Primeiro ano de residencia",
       "largeImage": "img/team/02-Team-Large.jpg",
       "smallImage": "img/team/02-Team-Small.jpg"
@@ -306,6 +331,10 @@
       },
       {
         "text": "O Ministro do Supremo Tribunal Federal Edson Fachin marcou presença na apresentação de uma solução inédita, que utiliza inteligência artificial, realizada no prédio do TRE de Pernambuco. O projeto é uma parceria entre o tribunal, os alunos do Centro de Informática da UFPE e da Softex."
+      },
+      {
+        "text": "Após a saída do ministro Edson Fachin da presidencia do Tribunal Superior Eleitoral (TSE), foi divulgado seu relatório de gestão onde o projeto é referenciado e você pode ler mais no link:",
+        "url": "https://drive.google.com/file/d/16fUv4SiQ5JO2TVTWUozUgfmqQQi3dikY/view?usp=sharing"
       }
     ],
     "links": [
@@ -340,6 +369,10 @@
       {
         "name": "Leia Ja",
         "url": "https://www.leiaja.com/politica/2022/05/25/presidente-do-tse-cumpre-agenda-no-recife/"
+      },
+      {
+        "name": "",
+        "url": ""
       }
     ]
   }

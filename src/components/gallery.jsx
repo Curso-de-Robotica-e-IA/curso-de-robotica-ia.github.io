@@ -11,10 +11,10 @@ export const Gallery = (props) => {
           <div className="portfolio-items">
             {props.data
               ? props.data.map((d, i) => (
-                  <div
-                    key={`${d.title}-${i}`}
-                    className="col-sm-6 col-md-4 col-lg-4"
-                  >
+                <div
+                key={`${d.title}-${i}`}
+                className="col-sm-6 col-md-4 col-lg-4"
+                >
                     <Image
                       title={d.title}
                       largeImage={d.largeImage}
@@ -22,10 +22,12 @@ export const Gallery = (props) => {
                     />
                   </div>
                 ))
-              : "Loading..."}
+                : "Loading..."}
           </div>
+          <iframe width="469" height="833" src="https://www.youtube.com/embed/UfhivxLXYSw" title="visitaIFRN ao projeto Cin/Softex" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
         </div>
       </div>
     </div>
   );
 };
+            

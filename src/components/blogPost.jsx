@@ -1,5 +1,5 @@
 export const BlogPost = (props) => {
-  const paragraphFormmatter = (topic, image, caption, isTop, text) => {
+  const paragraphFormmatter = (topic, image, caption, isTop, text, url) => {
     if (topic === undefined && text === undefined && isTop === undefined) {
       return (
         <div className="thumbnail">
@@ -22,6 +22,10 @@ export const BlogPost = (props) => {
           <p>{text}</p>
         </div>
       );
+    }
+
+    if (text === undefined && topic === undefined && image === undefined && isTop === undefined) {
+      return <a href={url} target="_blank" rel="noopener noreferrer">{text}</a>;
     }
 
     var imageInTop = isTop ? isTop : true;
@@ -95,8 +99,8 @@ export const BlogPost = (props) => {
               <h2>{props.data.title}</h2>
               <h4>{props.data.subTitle}</h4>
               {props.data.paragraphs.map(
-                ({ topic, image, caption, isTop, text }) =>
-                  paragraphFormmatter(topic, image, caption, isTop, text)
+                ({ topic, image, caption, isTop, text, url }) =>
+                  paragraphFormmatter(topic, image, caption, isTop, text, url)
               )}
             </div>
           ) : (
