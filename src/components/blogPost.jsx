@@ -110,13 +110,32 @@ export const BlogPost = (props) => {
             {props.data ? (
               <div>
                 <p>
-                  {props.data.footnode.text}
+                  {props.data.footnode1.text}
                   <a
-                    href={props.data.footnode.link.url}
+                    href={props.data.footnode1.link.url}
                     target="_blank"
                     rel="noopener noreferrer"
                   >
-                    {props.data.footnode.link.name}
+                    {props.data.footnode1.link.name}
+                  </a>
+                  {"."}
+                </p>
+              </div>
+            ) : (
+              "loading..."
+            )}
+          </div>
+          <div className="row">
+            {props.data ? (
+              <div>
+                <p>
+                  {props.data.footnode2.text}
+                  <a
+                    href={props.data.footnode2.link.url}
+                    target="_blank"
+                    rel="noopener noreferrer"
+                  >
+                    {props.data.footnode2.link.name}
                   </a>
                   {"."}
                 </p>

@@ -3,7 +3,7 @@ import { Link } from "react-router-dom";
 
 //import { VisibilityContext } from "react-horizontal-scrolling-menu";
 
-export function Card({ title, img, text, itemId }) {
+export function Card({ title, img, text, url, itemId }) {
   //  const visibility = React.useContext(VisibilityContext);
 
   // const visible = visibility.isItemVisible(itemId);
