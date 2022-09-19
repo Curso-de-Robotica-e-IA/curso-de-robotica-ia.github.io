@@ -338,7 +338,7 @@
       {
         "text": "O marco da participação do ministro nesta iniciativa de inovação entrou para os registros de sua gestão. ",
         "url": "https://www.tse.jus.br/hotsites/catalogo-publicacoes/pdf/relatorio-de-gestao-min-fachin.pdf",
-        "name": "Relatório da gestão Edson Fachin"
+        "name": "Relatório da gestão Edson Fachin."
       },
       {
         "text": "Iniciativa do CIn-UFPE/Softex/TRE é finalista do Prêmio de Inovação Judiciário Exponencial 2022. ",
@@ -348,12 +348,22 @@
       {
         "text":"Espaço Ciência recebe encontro de robótica e inteligência artificial. ",
         "url":"https://www.diariodepernambuco.com.br/noticia/vidaurbana/2022/09/espaco-ciencia-recebe-encontro-de-robotica-e-inteligencia-artificial.html",
-        "name":"Notícia do Diário de Pernambuco "
+        "name":"Notícia do Diário de Pernambuco. "
       },
       {
         "text":"Espaço Ciência realiza Encontro de Robótica e Inteligência Artificial a partir desta quinta. ",
         "url":"https://www.folhape.com.br/noticias/espaco-ciencia-realiza-encontro-de-robotica-e-inteligencia-artificial/240021/",
-        "name":"Notícia da Folha de Pernambuco"
+        "name":"Notícia da Folha de Pernambuco."
+      },
+      {
+        "text": "CIn-UFPE promove Encontro de Robótica e Inteligência Artificial em parceria com LIKA e Espaço Ciência. ",
+        "url": "https://portal.cin.ufpe.br/2022/09/14/cin-ufpe-promove-encontro-de-robotica-e-inteligencia-artificial-em-parceria-com-ilika-e-espaco-ciencia/",
+        "name": "Notícia do Centro de Informática."
+      },
+      {
+        "text": "Iniciativa da UFPE/Softex/TRE é finalista do Prêmio de Inovação Judiciário Exponencial 2022. ",
+        "url": "https://www.ufpe.br/agencia/noticias/-/asset_publisher/dlhi8nsrz4hK/content/iniciativa-da-ufpe-softex-tre-e-finalista-do-premio-de-inovacao-judiciario-exponencial-2022/40615",
+        "name": "Notícia do Centro de Informática."
       }
     ],
     "links": [
