@@ -24,7 +24,9 @@ export const Gallery = (props) => {
                 ))
                 : "Loading..."}
           </div>
-          <iframe width="469" height="833" src="https://www.youtube.com/embed/UfhivxLXYSw" title="visitaIFRN ao projeto Cin/Softex" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+          <iframe width="390" height="833" src="https://www.youtube.com/embed/rjOokDi4yes" title="Cintec - Espaço Ciência" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+          <iframe width="390" height="833" src="https://www.youtube.com/embed/BLKreFrKui8" title="Cintec - Espaço Ciência" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+          <iframe width="390" height="833" src="https://www.youtube.com/embed/UfhivxLXYSw" title="visitaIFRN ao projeto Cin/Softex" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
         </div>
       </div>
     </div>
