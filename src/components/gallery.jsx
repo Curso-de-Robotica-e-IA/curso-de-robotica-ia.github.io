@@ -28,7 +28,7 @@ export const Gallery = (props) => {
           <iframe width="390" height="833" src="https://www.youtube.com/embed/BLKreFrKui8" title="Cintec - Espaço Ciência" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
           <iframe width="390" height="833" src="https://www.youtube.com/embed/UfhivxLXYSw" title="visitaIFRN ao projeto Cin/Softex" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
           <iframe width="390" height="833" src="https://www.youtube.com/embed/HUYz2q64ccg" title="ESMAPE 2022 - Auditoria das urnas eletrônicas" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-          <iframe width="390" height="833" src="https://www.youtube.com/embed/HUYz2q64ccg" title="ESMAPE 2022 - Auditoria das urnas eletrônicas" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+          <iframe width="390" height="833" src="https://www.youtube.com/embed/95i3HsjC2mA" title="ESMAPE 2022 - Auditoria das urnas eletrônicas" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
           <iframe width="390" height="833" src="https://www.youtube.com/embed/5WuWPYapu9s" title="Formatura da primeira turma da ResidêncIA em Robótica do CIn - UFPE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
         </div>
       </div>
