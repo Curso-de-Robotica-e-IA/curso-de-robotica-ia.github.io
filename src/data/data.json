@@ -43,78 +43,123 @@
   "Gallery": [
     {
       "title": "Projeto de automação das urnas eletrônicas no processo de audotoria",
-      "largeImage": "img/portfolio/01-TRE-Large.jpg",
-      "smallImage": "img/portfolio/01-TRE-Small.jpg"
+      "largeImage": "img/portfolio/TRE/04-TRE-Large.jpg",
+      "smallImage": "img/portfolio/TRE/04-TRE-Small.jpg"
     },
     {
       "title": "Projeto de automação das urnas eletrônicas no processo de audotoria",
-      "largeImage": "img/portfolio/02-TRE-Large.jpg",
-      "smallImage": "img/portfolio/02-TRE-Small.jpg"
+      "largeImage": "img/portfolio/TRE/05-TRE-Large.jpg",
+      "smallImage": "img/portfolio/TRE/05-TRE-Small.jpg"
     },
     {
       "title": "Projeto de automação das urnas eletrônicas no processo de audotoria",
-      "largeImage": "img/portfolio/03-TRE-Large.jpg",
-      "smallImage": "img/portfolio/03-TRE-Small.jpg"
-    },
-    {
-      "title": "Projeto de automação das urnas eletrônicas no processo de audotoria",
-      "largeImage": "img/portfolio/04-TRE-Large.jpg",
-      "smallImage": "img/portfolio/04-TRE-Small.jpg"
-    },
-    {
-      "title": "Projeto de automação das urnas eletrônicas no processo de audotoria",
-      "largeImage": "img/portfolio/05-TRE-Large.jpg",
-      "smallImage": "img/portfolio/05-TRE-Small.jpg"
-    },
-    {
-      "title": "Projeto de automação das urnas eletrônicas no processo de audotoria",
-      "largeImage": "img/portfolio/06-TRE-Large.jpg",
-      "smallImage": "img/portfolio/06-TRE-Small.jpg"
+      "largeImage": "img/portfolio/TRE/06-TRE-Large.jpg",
+      "smallImage": "img/portfolio/TRE/06-TRE-Small.jpg"
     },
     {
       "title": "Visita dos alunos do Instituto Federal do Rio Grande do Norte ao projeto CIn/Softex",
-      "largeImage": "img/portfolio/visitaifrn1_large.jpg",
-      "smallImage": "img/portfolio/visitaifrn1_small.jpg"
+      "largeImage": "img/portfolio/IFRN/visitaifrn1_large.jpg",
+      "smallImage": "img/portfolio/IFRN/visitaifrn1_small.jpg"
     },
     {
       "title": "Visita dos alunos do Instituto Federal do Rio Grande do Norte ao projeto CIn/Softex",
-      "largeImage": "img/portfolio/visitaifrn2_large.jpg",
-      "smallImage": "img/portfolio/visitaifrn2_small.jpg"
+      "largeImage": "img/portfolio/IFRN/visitaifrn2_large.jpg",
+      "smallImage": "img/portfolio/IFRN/visitaifrn2_small.jpg"
     },
     {
       "title": "Visita dos alunos do Instituto Federal do Rio Grande do Norte ao projeto CIn/Softex",
-      "largeImage": "img/portfolio/visitaifrn3_large.jpg",
-      "smallImage": "img/portfolio/visitaifrn3_small.jpg"
-    },
-    {
-      "title": "Visita dos alunos do Instituto Federal do Rio Grande do Norte ao projeto CIn/Softex",
-      "largeImage": "img/portfolio/visitaifrn4_large.jpg",
-      "smallImage": "img/portfolio/visitaifrn4_small.jpg"
-    },
-    {
-      "title": "Visita dos alunos do Instituto Federal do Rio Grande do Norte ao projeto CIn/Softex",
-      "largeImage": "img/portfolio/visitaifrn5_large.jpg",
-      "smallImage": "img/portfolio/visitaifrn5_small.jpg"
+      "largeImage": "img/portfolio/IFRN/visitaifrn3_large.jpg",
+      "smallImage": "img/portfolio/IFRN/visitaifrn3_small.jpg"
     },
     {
       "title": "Evento Cintec do Espaço Ciência",
-      "largeImage": "img/portfolio/Cintec2_Large.jpg",
-      "smallImage": "img/portfolio/Cintec2_Small.jpg"
+      "largeImage": "img/portfolio/Cintec/Cintec3_Large.jpg",
+      "smallImage": "img/portfolio/Cintec/Cintec3_Small.jpg"
     },
     {
       "title": "Evento Cintec do Espaço Ciência",
-      "largeImage": "img/portfolio/Cintec3_Large.jpg",
-      "smallImage": "img/portfolio/Cintec3_Small.jpg"
-    },
-    {
-      "title": "Evento Cintec do Espaço Ciência",
-      "largeImage": "img/portfolio/Cintec1_Large.jpg",
-      "smallImage": "img/portfolio/Cintec1_Small.jpg"
+      "largeImage": "img/portfolio/Cintec/Cintec1_Large.jpg",
+      "smallImage": "img/portfolio/Cintec/Cintec1_Small.jpg"
     },
     {
       "title": "Primeiro ano de residencia",
       "largeImage": "img/team/02-Team-Large.jpg",
       "smallImage": "img/team/02-Team-Small.jpg"
+    },
+    {
+      "title": "Solenidade da turma do primeiro ano da Residência em Robótica e IA",
+      "largeImage": "img/portfolio/Solenidade/01-Formatura-Large.jpg",
+      "smallImage": "img/portfolio/Solenidade/01-Formatura-Small.jpg"
+    },
+    {
+      "title": "Solenidade da turma do primeiro ano da Residência em Robótica e IA",
+      "largeImage": "img/portfolio/Solenidade/02-Formatura-Large.jpg",
+      "smallImage": "img/portfolio/Solenidade/02-Formatura-Small.jpg"
+    },
+    {
+      "title": "Solenidade da turma do primeiro ano da Residência em Robótica e IA",
+      "largeImage": "img/portfolio/Solenidade/03-Formatura-Large.jpg",
+      "smallImage": "img/portfolio/Solenidade/03-Formatura-Small.jpg"
+    },
+    {
+      "title": "Projeto de automação das urnas eletrônicas no processo de audotoria",
+      "largeImage": "img/portfolio/TRE/01-TRE-Large.jpg",
+      "smallImage": "img/portfolio/TRE/01-TRE-Small.jpg"
+    },
+    {
+      "title": "Projeto de automação das urnas eletrônicas no processo de audotoria",
+      "largeImage": "img/portfolio/TRE/02-TRE-Large.jpg",
+      "smallImage": "img/portfolio/TRE/02-TRE-Small.jpg"
+    },
+    {
+      "title": "Projeto de automação das urnas eletrônicas no processo de audotoria",
+      "largeImage": "img/portfolio/TRE/03-TRE-Large.jpg",
+      "smallImage": "img/portfolio/TRE/03-TRE-Small.jpg"
+    },
+    {
+      "title": "Visita dos alunos do Instituto Federal do Rio Grande do Norte ao projeto CIn/Softex",
+      "largeImage": "img/portfolio/IFRN/visitaifrn4_large.jpg",
+      "smallImage": "img/portfolio/IFRN/visitaifrn4_small.jpg"
+    },
+    {
+      "title": "Visita dos alunos do Instituto Federal do Rio Grande do Norte ao projeto CIn/Softex",
+      "largeImage": "img/portfolio/IFRN/visitaifrn5_large.jpg",
+      "smallImage": "img/portfolio/IFRN/visitaifrn5_small.jpg"
+    },
+    {
+      "title": "Evento Cintec do Espaço Ciência",
+      "largeImage": "img/portfolio/Cintec/Cintec2_Large.jpg",
+      "smallImage": "img/portfolio/Cintec/Cintec2_Small.jpg"
+    },
+    {
+      "title": "Auditoria das Urnas Eletrônicas no ESMAPE",
+      "largeImage": "img/portfolio/ESMAPE/ESMAPE1_Large.jpg",
+      "smallImage": "img/portfolio/ESMAPE/ESMAPE1_Small.jpg"
+    },
+    {
+      "title": "Auditoria das Urnas Eletrônicas no ESMAPE",
+      "largeImage": "img/portfolio/ESMAPE/ESMAPE2_Large.jpg",
+      "smallImage": "img/portfolio/ESMAPE/ESMAPE2_Small.jpg"
+    },
+    {
+      "title": "Solenidade da turma do primeiro ano da Residência em Robótica e IA",
+      "largeImage": "img/portfolio/Solenidade/07-Formatura-Large.jpg",
+      "smallImage": "img/portfolio/Solenidade/07-Formatura-Small.jpg"
+    },
+    {
+      "title": "Solenidade da turma do primeiro ano da Residência em Robótica e IA",
+      "largeImage": "img/portfolio/Solenidade/04-Formatura-Large.jpg",
+      "smallImage": "img/portfolio/Solenidade/04-Formatura-Small.jpg"
+    },
+    {
+      "title": "Solenidade da turma do primeiro ano da Residência em Robótica e IA",
+      "largeImage": "img/portfolio/Solenidade/05-Formatura-Large.jpg",
+      "smallImage": "img/portfolio/Solenidade/05-Formatura-Small.jpg"
+    },
+    {
+      "title": "Solenidade da turma do primeiro ano da Residência em Robótica e IA",
+      "largeImage": "img/portfolio/Solenidade/06-Formatura-Large.jpg",
+      "smallImage": "img/portfolio/Solenidade/06-Formatura-Small.jpg"
     }
   ],
   "Services": [

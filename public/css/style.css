@@ -617,3 +617,16 @@ label {
     margin: 50px 0;
   }
 }
+a:visited {
+  color: #d7e0fe; 
+}
+
+/* Quando passamos o mouse sobre o link */
+a:hover {
+  color: #4e5ffc;
+}
+
+/* Quando clicamos no link */
+a:active {
+  color: #27cc4d; 
+}

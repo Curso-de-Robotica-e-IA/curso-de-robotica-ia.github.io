@@ -55,6 +55,12 @@ export const Contact = (props) => {
                   </span>{" "}
                   {props.data ? props.data.email : "loading"}
                 </p>
+                <p>
+                  <span>
+                    <i className="fa fa-instagram"></i> Instagram
+                  </span>{" "}
+                  <a href="http://instagram.com/_u/residenciarobotica/">Residência Robótica</a>
+                </p>
               </div>
             </div>
           </div>
