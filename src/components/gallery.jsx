@@ -30,6 +30,8 @@ export const Gallery = (props) => {
           <iframe width="390" height="833" src="https://www.youtube.com/embed/HUYz2q64ccg" title="ESMAPE 2022 - Auditoria das urnas eletrônicas" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
           <iframe width="390" height="833" src="https://www.youtube.com/embed/95i3HsjC2mA" title="ESMAPE 2022 - Auditoria das urnas eletrônicas" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
           <iframe width="390" height="833" src="https://www.youtube.com/embed/5WuWPYapu9s" title="Formatura da primeira turma da ResidêncIA em Robótica do CIn - UFPE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+          <iframe width="585" height="400" src="https://www.youtube.com/embed/QEt43pkAzVo" title="Dia das crianças CIn/Softex" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+          <iframe width="585" height="400" src="https://www.youtube.com/embed/37ylskxBBUA" title="Dia das crianças CIn/Softex" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
         </div>
       </div>
     </div>
