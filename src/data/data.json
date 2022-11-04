@@ -87,6 +87,36 @@
       "smallImage": "img/portfolio/Dia das Criaças/03-Criaças-Small.jpg"
     },
     {
+      "title": "Aniversário de 1 ano da Residência em Robótia e IA",
+      "largeImage": "img/portfolio/1 Ano Residencia/01_Aniv_Large.jpg",
+      "smallImage": "img/portfolio/1 Ano Residencia/01_Aniv_Small.jpg"
+    },
+    {
+      "title": "Aniversário de 1 ano da Residência em Robótia e IA",
+      "largeImage": "img/portfolio/1 Ano Residencia/02_Aniv_Large.jpg",
+      "smallImage": "img/portfolio/1 Ano Residencia/02_Aniv_Small.jpg"
+    },
+    {
+      "title": "Aniversário de 1 ano da Residência em Robótia e IA",
+      "largeImage": "img/portfolio/1 Ano Residencia/03_Aniv_Large.jpg",
+      "smallImage": "img/portfolio/1 Ano Residencia/03_Aniv_Small.jpg"
+    },
+    {
+      "title": "Evento EXPO JUD em Brasília",
+      "largeImage": "img/portfolio/EXPOJUD/01-ExpoJUD-Large.jpg",
+      "smallImage": "img/portfolio/EXPOJUD/01-ExpoJUD-Small.jpg"
+    },
+    {
+      "title": "Evento EXPO JUD em Brasília",
+      "largeImage": "img/portfolio/EXPOJUD/02-ExpoJUD-Large.jpg",
+      "smallImage": "img/portfolio/EXPOJUD/02-ExpoJUD-Small.jpg"
+    },
+    {
+      "title": "Evento EXPO JUD em Brasília",
+      "largeImage": "img/portfolio/EXPOJUD/03-ExpoJUD-Large.jpg",
+      "smallImage": "img/portfolio/EXPOJUD/03-ExpoJUD-Small.jpg"
+    },
+    {
       "title": "Evento Cintec do Espaço Ciência",
       "largeImage": "img/portfolio/Cintec/Cintec3_Large.jpg",
       "smallImage": "img/portfolio/Cintec/Cintec3_Small.jpg"
@@ -190,6 +220,21 @@
       "title": "Dia das crianças no projeto CIn/Softex",
       "largeImage": "img/portfolio/Dia das Criaças/06-Criaças-Large.jpg",
       "smallImage": "img/portfolio/Dia das Criaças/06-Criaças-Small.jpg"
+    },
+    {
+      "title": "Evento EXPO JUD em Brasília",
+      "largeImage": "img/portfolio/EXPOJUD/04-ExpoJUD-Large.jpg",
+      "smallImage": "img/portfolio/EXPOJUD/04-ExpoJUD-Small.jpg"
+    },
+    {
+      "title": "Evento EXPO JUD em Brasília",
+      "largeImage": "img/portfolio/EXPOJUD/05-ExpoJUD-Large.jpg",
+      "smallImage": "img/portfolio/EXPOJUD/05-ExpoJUD-Small.jpg"
+    },
+    {
+      "title": "Evento EXPO JUD em Brasília",
+      "largeImage": "img/portfolio/EXPOJUD/06-ExpoJUD-Large.jpg",
+      "smallImage": "img/portfolio/EXPOJUD/06-ExpoJUD-Small.jpg"
     }
   ],
   "Services": [
