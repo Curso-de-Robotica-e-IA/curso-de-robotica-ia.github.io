@@ -186,6 +186,30 @@ hr {
 .section-title p {
   font-size: 18px;
 }
+.btn-cm {
+  font-family: "Raleway", sans-serif;
+  text-transform: uppercase;
+  color: #fff;
+  background-color: #5ca9fb;
+  background-image: linear-gradient(to right, #5ca9fb 0%, #6372ff 100%);
+  padding: 3px 5px;
+  letter-spacing: 1px;
+  margin: 4px;
+  font-size: 15px;
+  font-weight: 500;
+  border-radius: 25px;
+  transition: all 0.5s linear;
+  border: 0;
+}
+.btn-cm:hover,
+.btn-cm:focus,
+.btn-cm.focus,
+.btn-cm:active,
+.btn-cm.active {
+  color: #fff;
+  background-image: none;
+  background-color: #6372ff;
+}
 .btn-custom {
   font-family: "Raleway", sans-serif;
   text-transform: uppercase;

@@ -1,5 +1,8 @@
+import { Link } from "react-router-dom";
 export const BlogPost = (props) => {
-  const paragraphFormmatter = (topic, image, caption, isTop, text, url, title, largeImage, smallImage) => {
+  const paragraphFormmatter = (topic, image, caption, isTop, text, url ) => {
+
+
     if (topic === undefined && text === undefined && isTop === undefined) {
       return (
         <div className="thumbnail">
@@ -99,8 +102,8 @@ export const BlogPost = (props) => {
               <h2>{props.data.title}</h2>
               <h4>{props.data.subTitle}</h4>
               {props.data.paragraphs.map(
-                ({ topic, image, caption, isTop, text, url, title, smallImage, largeImage }) =>
-                  paragraphFormmatter(topic, image, caption, isTop, text, url, title, smallImage, largeImage)
+                ({ topic, image, caption, isTop, text, url }) =>
+                  paragraphFormmatter(topic, image, caption, isTop, text, url )
               )}
             </div>
           ) : (
@@ -110,6 +113,7 @@ export const BlogPost = (props) => {
             {props.data ? (
               <div>
                 <p>
+                  <h3>Marcos e conquistas</h3>
                 <ul>
                   {props.data.footnodes.map(({ text, name, url }) => (
                     <li>
@@ -136,9 +140,13 @@ export const BlogPost = (props) => {
                   {props.data.links.map(({ name, url }) => (
                     <li>
                       {
-                        <a href={url} target="_blank" rel="noopener noreferrer">
-                          {name}
-                        </a>
+                        <div class="btn_wrap">
+                          <a href={url} target="_blank" rel="noopener noreferrer">
+                            {name}
+                          </a>
+                          <button id="fb" className="btn  btn-cm page-scroll"><i class="fa fa-facebook-official" aria-hidden="true"></i></button>
+                          <button id="twitter" className="btn  btn-cm page-scroll"><i class="fa fa-twitter" aria-hidden="true"></i></button>
+                        </div>
                       }
                     </li>
                   ))}
