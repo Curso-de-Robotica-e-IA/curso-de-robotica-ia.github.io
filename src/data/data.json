@@ -42,31 +42,37 @@
   },
   "Gallery": [
     {
+      "main": true,
       "title": "Projeto de automação das urnas eletrônicas no processo de audotoria",
       "largeImage": "img/portfolio/TRE/04-TRE-Large.jpg",
       "smallImage": "img/portfolio/TRE/04-TRE-Small.jpg"
     },
     {
+      "main": true,
       "title": "Projeto de automação das urnas eletrônicas no processo de audotoria",
       "largeImage": "img/portfolio/TRE/05-TRE-Large.jpg",
       "smallImage": "img/portfolio/TRE/05-TRE-Small.jpg"
     },
     {
+      "main": true,
       "title": "Projeto de automação das urnas eletrônicas no processo de audotoria",
       "largeImage": "img/portfolio/TRE/06-TRE-Large.jpg",
       "smallImage": "img/portfolio/TRE/06-TRE-Small.jpg"
     },
     {
+      "main": true,
       "title": "Visita dos alunos do Instituto Federal do Rio Grande do Norte ao projeto CIn/Softex",
       "largeImage": "img/portfolio/IFRN/visitaifrn1_large.jpg",
       "smallImage": "img/portfolio/IFRN/visitaifrn1_small.jpg"
     },
     {
+      "main": true,
       "title": "Visita dos alunos do Instituto Federal do Rio Grande do Norte ao projeto CIn/Softex",
       "largeImage": "img/portfolio/IFRN/visitaifrn2_large.jpg",
       "smallImage": "img/portfolio/IFRN/visitaifrn2_small.jpg"
     },
     {
+      "main": true,
       "title": "Visita dos alunos do Instituto Federal do Rio Grande do Norte ao projeto CIn/Softex",
       "largeImage": "img/portfolio/IFRN/visitaifrn3_large.jpg",
       "smallImage": "img/portfolio/IFRN/visitaifrn3_small.jpg"
@@ -356,7 +362,6 @@
       "bio": " Engenheiro de Computação, Mestrado em Ciência da Computação e Doutorando  em Ciência da Computação pela UFPE. Experiência profissional no C.E.S.A.R., Neurotech e Chemtech. Além de  experiência em docência UNINASSAU. Atuação e pesquisa em IA, visão computacional e robótica móvel."
     },
     {
-      "main": true,
       "img": "img/team/jmxnt.png",
       "name": "João Marcelo",
       "job": "Líder de Pesquisa",
@@ -364,6 +369,7 @@
       "bio": "Doutorado em Ciências da Computação pela Universidade Federal de Pernambuco (UFPE). Professor Adjunto 1 e chefe do Departamento de Eletrônica e Sistemas da UFPE. Atuação na área de Ciência da Computação, com ênfase em Sistemas Embarcados, atuando principalmente com dispositivos de interação, Realidade Virtual e Aumentada, computação de alto desempenho, programação paralela. Além de ser pesquisador sênior no Grupo de Pesquisa Voxar Labs do Centro de Informática da UFPE."
     },
     {
+      "main": true,
       "img": "img/team/jrsj.jpg",
       "name": "Juana Simões",
       "job": "Capital Humano",
@@ -460,13 +466,25 @@
         "caption": "Divulgação do projeto para TRE e TSE",
         "isTop": true,
         "text": "", 
-        "url": ""
+        "url": "",
+        "title": "",
+        "smallImage": "",
+        "largeImage": ""
       },
       {
-        "text": "O Centro de Informática (CIn) da Universidade Federal de Pernambuco (UFPE), com tradição em programas de residência para empresas há 2 décadas, sendo referência nacional e premiado pelo MCTI, lançou em outubro de 2021 a primeira turma da Residência em Robótica e Inteligência Artificial Aplicadas a Testes de Software através de convênio com a Softex e posterior acordo de parceria tripartite com o Tribunal Regional Eleitoral (TRE-PE). A proposta do curso é formar especialistas, uma Pós-Graduação Lato Sensu, em Robótica e Inteligência Artificial e desenvolver um kit robótico inteligente capaz de interagir com as urnas eletrônicas do TRE-PE já nas eleições de 2022."
+        "text": "O Centro de Informática (CIn) da Universidade Federal de Pernambuco (UFPE), com tradição em programas de residência para empresas há 2 décadas, sendo referência nacional e premiado pelo MCTI, lançou em outubro de 2021 a primeira turma da Residência em Robótica e Inteligência Artificial Aplicadas a Testes de Software através de convênio com a Softex e posterior acordo de parceria tripartite com o Tribunal Regional Eleitoral (TRE-PE). A proposta do curso é formar especialistas, uma Pós-Graduação Lato Sensu, em Robótica e Inteligência Artificial e desenvolver um kit robótico inteligente capaz de interagir com as urnas eletrônicas do TRE-PE nas eleições de 2022."
       },
       {
-        "text": "O Ministro do Supremo Tribunal Federal Edson Fachin marcou presença na apresentação de uma solução inédita, que utiliza inteligência artificial, realizada no prédio do TRE de Pernambuco. O projeto é uma parceria entre o tribunal, os alunos do Centro de Informática da UFPE e da Softex."
+        "text": "O projeto surgiu após demanda recente da Justiça, fruto da Resolução 23.673/2021 do Tribunal Superior Eleitoral, que ampliou a base amostral das urnas eletrônicas que serão auditadas nas Eleições Gerais de 2022, visando ampliar o alcance, a visibilidade e a transparência em todo o processo eleitoral. As auditorias são feitas com quatro a seis pessoas por urna. Em Pernambuco, eram apenas três urnas auditadas. Com a mudança na legislação, passaram a ser 27, então surgiu essa necessidade da Justiça Eleitoral de otimizar o processo."
+      },
+      {
+        "text": "No dia das eleições, os testes com o nosso robô superou a quantidade dos votos realizados em 26 dessas urnas com um tempo médio de um minuto e meio para dois minutos, o que antes levava até três minutos."
+      },
+      {
+        "text": "Antes dos testes no dia das eleições, o projeto também foi apresentado em maio ao então presidente do TSE, ministro Edson Fachin, e ao presidente do TRE-PE, desembargador André Guimarães, que na ocasião atestaram a relevância da iniciativa no âmbito de inovação dentro do Poder Judiciário."
+      },
+      {
+        "text": "O projeto também foi finalista no prêmio de inovação judiciário exponencial. A premiação é dividida em 4 categorias: inovação na gestão, inovação tecnológica, inovação social e laboratório de inovação. Foram mais de 300 projetos concorrendo em todas as categorias com o nosso, ficando em terceiro lugar na categoria de inovação tecnológica."
       }
     ],
     "footnodes": [

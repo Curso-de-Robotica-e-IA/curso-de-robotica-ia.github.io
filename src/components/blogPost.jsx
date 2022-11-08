@@ -1,5 +1,5 @@
 export const BlogPost = (props) => {
-  const paragraphFormmatter = (topic, image, caption, isTop, text, url) => {
+  const paragraphFormmatter = (topic, image, caption, isTop, text, url, title, largeImage, smallImage) => {
     if (topic === undefined && text === undefined && isTop === undefined) {
       return (
         <div className="thumbnail">
@@ -99,8 +99,8 @@ export const BlogPost = (props) => {
               <h2>{props.data.title}</h2>
               <h4>{props.data.subTitle}</h4>
               {props.data.paragraphs.map(
-                ({ topic, image, caption, isTop, text, url }) =>
-                  paragraphFormmatter(topic, image, caption, isTop, text, url)
+                ({ topic, image, caption, isTop, text, url, title, smallImage, largeImage }) =>
+                  paragraphFormmatter(topic, image, caption, isTop, text, url, title, smallImage, largeImage)
               )}
             </div>
           ) : (
