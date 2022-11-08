@@ -8,7 +8,6 @@ export const GalleryBody = (props) => {
     <div id="portfolio">
       <div className="container">
         <div className="text-center">
-
         <h2>Galeria</h2>
             <div className="row">
                 <div className="portfolio-items">
