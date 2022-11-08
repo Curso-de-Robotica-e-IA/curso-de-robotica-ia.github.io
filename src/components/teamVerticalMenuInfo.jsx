@@ -32,6 +32,10 @@ export const TeamMenuInfo = (props) => {
             : "loading"}
         </div>
       </div>
+        <div className="text-center">
+        <h3>Menção aos nossos colaboradores do Voxar no primeiro ano do projeto.</h3>
+        
+        </div>
     </div>
   );
 };

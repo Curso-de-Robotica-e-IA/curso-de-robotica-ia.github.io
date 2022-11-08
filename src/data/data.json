@@ -355,21 +355,6 @@
     },
     {
       "main": true,
-      "img": "img/team/mrsj.png",
-      "name": "Marcondes Ricarte",
-      "job": "Líder Técnico",
-      "contact": "mrsj@softex.cin.ufpe.br \nhttps://www.linkedin.com/in/marcondes-ricarte-06769823",
-      "bio": " Engenheiro de Computação, Mestrado em Ciência da Computação e Doutorando  em Ciência da Computação pela UFPE. Experiência profissional no C.E.S.A.R., Neurotech e Chemtech. Além de  experiência em docência UNINASSAU. Atuação e pesquisa em IA, visão computacional e robótica móvel."
-    },
-    {
-      "img": "img/team/jmxnt.png",
-      "name": "João Marcelo",
-      "job": "Líder de Pesquisa",
-      "contact": "jmxnt@cin.ufpe.br",
-      "bio": "Doutorado em Ciências da Computação pela Universidade Federal de Pernambuco (UFPE). Professor Adjunto 1 e chefe do Departamento de Eletrônica e Sistemas da UFPE. Atuação na área de Ciência da Computação, com ênfase em Sistemas Embarcados, atuando principalmente com dispositivos de interação, Realidade Virtual e Aumentada, computação de alto desempenho, programação paralela. Além de ser pesquisador sênior no Grupo de Pesquisa Voxar Labs do Centro de Informática da UFPE."
-    },
-    {
-      "main": true,
       "img": "img/team/jrsj.jpg",
       "name": "Juana Simões",
       "job": "Capital Humano",
@@ -401,29 +386,8 @@
       "img": "img/team/mhjc.jpg",
       "name": "Matheus Hopper",
       "job": "Estagiário desenvolvimento",
-      "contact": "mhjc@softex.cin.ufpe.br\nhttps://www.linkedin.com/in/matheus-hopper-01101996/",
+      "contact": "mhjc@softex.cin.ufpe.br",
       "bio": "Graduando em Ciência da Computação pela Universidade Federal de Pernambuco (UFPE). Atuando na pesquisa de circuitos quânticos para aprendizado de máquina."
-    },
-    {
-      "img": "img/team/vlv2.png",
-      "name": "Vinícius Ventura",
-      "job": "Iniciação científica",
-      "contact": "vlv2@softex.cin.ufpe.br\nhttps://www.linkedin.com/in/vinicius-lima-ventura",
-      "bio": "Graduando em Engenharia da Computação pela Universidade Federal de Pernambuco (UFPE). Atuando nas áreas de pesquisa e desenvolvimento de software de Visão Computacional, Sistemas Embarcados e Robótica."
-    },
-    {
-      "img": "img/team/jgmn2.jpg",
-      "name": "Júlia Nascimento",
-      "job": "Estagiária recepção",
-      "contact": "jgmn2@softex.cin.ufpe.br\nhttps://www.linkedin.com/in/j%C3%BAlia-nascimento-9772691a2",
-      "bio": "Graduanda em Administração pelo Centro Universitário Maurício de Nassau (Uninassau-Recife)."
-    },
-    {
-      "img": "img/team/jdts.png",
-      "name": "Júlia Dias",
-      "job": "Iniciação científica",
-      "contact": "jdts@softex.cin.ufpe.br\nhttps://www.linkedin.com/in/júlia-dias-tavares-de-souza-098700176",
-      "bio": "Estudante de engenharia eletrônica na UFPE, pesquisadora e desenvolvedora do time técnico de pesquisa ligada ao Voxar Labs.  Dentre suas áreas de pesquisa consta Robótica, Eletrônica analógica, Eletrônica digital e Processamento de imagem. Membro da equipe Maracatronics de robótica de 2016 até 2020. Participou da coordenação estadual da Olimpíada Brasileira de Robótica de 2017 até 2021. Atualmente participa da organização da categoria de futebol de robôs VSS do IEEE."
     },
     {
       "img": "img/team/tsp3.jpg",
@@ -438,6 +402,42 @@
       "job": "Estagiário Recepção",
       "contact": "grf2@softex.cin.ufpe.br\nhttps://www.linkedin.com/in/gabriel-ramalho-090911196",
       "bio": "Graduando em Administração (UFPE) e Análise e Desenvolvimento de Sistema (SENAC) - Atuando na recepção do projeto cin - SOFTEX"
+    },
+    {
+      "img": "img/team/jgmn2.jpg",
+      "name": "Júlia Nascimento",
+      "job": "Estagiária recepção",
+      "contact": "jgmn2@softex.cin.ufpe.br\nhttps://www.linkedin.com/in/j%C3%BAlia-nascimento-9772691a2",
+      "bio": "Graduanda em Administração pelo Centro Universitário Maurício de Nassau (Uninassau-Recife)."
+    },
+    {
+      "main": true,
+      "img": "img/team/mrsj.png",
+      "name": "Marcondes Ricarte",
+      "job": "Líder Técnico",
+      "contact": "mrsj@softex.cin.ufpe.br \nhttps://www.linkedin.com/in/marcondes-ricarte-06769823",
+      "bio": " Engenheiro de Computação, Mestrado em Ciência da Computação e Doutorando  em Ciência da Computação pela UFPE. Experiência profissional no C.E.S.A.R., Neurotech e Chemtech. Além de  experiência em docência UNINASSAU. Atuação e pesquisa em IA, visão computacional e robótica móvel."
+    },
+    {
+      "img": "img/team/jmxnt.png",
+      "name": "João Marcelo",
+      "job": "Líder de Pesquisa",
+      "contact": "jmxnt@cin.ufpe.br",
+      "bio": "Doutorado em Ciências da Computação pela Universidade Federal de Pernambuco (UFPE). Professor Adjunto 1 e chefe do Departamento de Eletrônica e Sistemas da UFPE. Atuação na área de Ciência da Computação, com ênfase em Sistemas Embarcados, atuando principalmente com dispositivos de interação, Realidade Virtual e Aumentada, computação de alto desempenho, programação paralela. Além de ser pesquisador sênior no Grupo de Pesquisa Voxar Labs do Centro de Informática da UFPE."
+    },
+    {
+      "img": "img/team/jdts.png",
+      "name": "Júlia Dias",
+      "job": "Iniciação científica",
+      "contact": "jdts@softex.cin.ufpe.br\nhttps://www.linkedin.com/in/júlia-dias-tavares-de-souza-098700176",
+      "bio": "Estudante de engenharia eletrônica na UFPE, pesquisadora e desenvolvedora do time técnico de pesquisa ligada ao Voxar Labs.  Dentre suas áreas de pesquisa consta Robótica, Eletrônica analógica, Eletrônica digital e Processamento de imagem. Membro da equipe Maracatronics de robótica de 2016 até 2020. Participou da coordenação estadual da Olimpíada Brasileira de Robótica de 2017 até 2021. Atualmente participa da organização da categoria de futebol de robôs VSS do IEEE."
+    },
+    {
+      "img": "img/team/vlv2.png",
+      "name": "Vinícius Ventura",
+      "job": "Iniciação científica",
+      "contact": "vlv2@softex.cin.ufpe.br\nhttps://www.linkedin.com/in/vinicius-lima-ventura",
+      "bio": "Graduando em Engenharia da Computação pela Universidade Federal de Pernambuco (UFPE). Atuando nas áreas de pesquisa e desenvolvimento de software de Visão Computacional, Sistemas Embarcados e Robótica."
     },
     {
       "img": "img/team/zsmn.jpg",
@@ -551,6 +551,14 @@
       {
         "name": "Leia Ja",
         "url": "https://www.leiaja.com/politica/2022/05/25/presidente-do-tse-cumpre-agenda-no-recife/"
+      }
+    ],
+    "voxar": [
+      {
+        "img": "img/team/vlv2.png",
+        "nameV": "Vinícius Ventura",
+        "job": "Iniciação científica",
+        "bio": "Graduando em Engenharia da Computação pela Universidade Federal de Pernambuco (UFPE). Atuando nas áreas de pesquisa e desenvolvimento de software de Visão Computacional, Sistemas Embarcados e Robótica."
       }
     ]
   }

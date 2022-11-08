@@ -166,6 +166,17 @@ export const BlogPost = (props) => {
               "loading..."
             )}
           </div>
+          <h3>Menção aos nossos colaboradores do Voxar no primeiro ano do projeto.</h3>
+          <div className="row" id="row">
+            {props.data.voxar.map(( img, nameV, job, bio ) =>(
+              <div className="row">
+                <img src={img} alt="..." className="team-img" />
+                <h4>{nameV}</h4>
+                <h6>{job}</h6>
+                <h6>{bio}</h6>
+              </div>
+            ))}
+          </div>
         </div>
       </div>
     </div>
