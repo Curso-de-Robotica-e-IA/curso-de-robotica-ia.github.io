@@ -1,5 +1,9 @@
 import { Link } from "react-router-dom";
 export const BlogPost = (props) => {
+  function shareOnFacebook(){
+    const navUrl = 'https://www.facebook.com/sharer/sharer.php?u=' + 'https://github.com/knoldus/angular-facebook-twitter.git';
+    window.open(navUrl , '_blank');
+  }
   const paragraphFormmatter = (topic, image, caption, isTop, text, url ) => {
 
 
@@ -144,8 +148,14 @@ export const BlogPost = (props) => {
                           <a href={url} target="_blank" rel="noopener noreferrer">
                             {name}
                           </a>
-                          <button id="fb" className="btn  btn-cm page-scroll"><i class="fa fa-facebook-official" aria-hidden="true"></i></button>
-                          <button id="twitter" className="btn  btn-cm page-scroll"><i class="fa fa-twitter" aria-hidden="true"></i></button>
+                          <button id="fb" className="btn  btn-cm page-scroll"><i class="fa fa-facebook-official" aria-hidden="true" onClick={() => {
+                            const navUrl = 'https://www.facebook.com/sharer/sharer.php?u=' + url;
+                            window.open(navUrl , '_blank');
+                            }}></i></button>
+                          <button id="twitter" className="btn  btn-cm page-scroll"><i class="fa fa-twitter" aria-hidden="true"onClick={() => {
+                            const navUrl = 'https://twitter.com/intent/tweet?text=' + url;
+                            window.open(navUrl , '_blank');
+                            }}></i></button>
                         </div>
                       }
                     </li>
