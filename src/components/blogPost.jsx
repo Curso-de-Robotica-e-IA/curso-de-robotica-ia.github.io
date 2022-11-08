@@ -144,6 +144,8 @@ export const BlogPost = (props) => {
                           <a href={url} target="_blank" rel="noopener noreferrer">
                             {name}
                           </a>
+                          <button id="fb" className="btn  btn-cm page-scroll"><i class="fa fa-facebook-official" aria-hidden="true"></i></button>
+                          <button id="twitter" className="btn  btn-cm page-scroll"><i class="fa fa-twitter" aria-hidden="true"></i></button>
                         </div>
                       }
                     </li>
