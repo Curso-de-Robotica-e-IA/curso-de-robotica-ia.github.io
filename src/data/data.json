@@ -417,34 +417,6 @@
       "job": "Líder Técnico",
       "contact": "mrsj@softex.cin.ufpe.br \nhttps://www.linkedin.com/in/marcondes-ricarte-06769823",
       "bio": " Engenheiro de Computação, Mestrado em Ciência da Computação e Doutorando  em Ciência da Computação pela UFPE. Experiência profissional no C.E.S.A.R., Neurotech e Chemtech. Além de  experiência em docência UNINASSAU. Atuação e pesquisa em IA, visão computacional e robótica móvel."
-    },
-    {
-      "img": "img/team/jmxnt.png",
-      "name": "João Marcelo",
-      "job": "Líder de Pesquisa",
-      "contact": "jmxnt@cin.ufpe.br",
-      "bio": "Doutorado em Ciências da Computação pela Universidade Federal de Pernambuco (UFPE). Professor Adjunto 1 e chefe do Departamento de Eletrônica e Sistemas da UFPE. Atuação na área de Ciência da Computação, com ênfase em Sistemas Embarcados, atuando principalmente com dispositivos de interação, Realidade Virtual e Aumentada, computação de alto desempenho, programação paralela. Além de ser pesquisador sênior no Grupo de Pesquisa Voxar Labs do Centro de Informática da UFPE."
-    },
-    {
-      "img": "img/team/jdts.png",
-      "name": "Júlia Dias",
-      "job": "Iniciação científica",
-      "contact": "jdts@softex.cin.ufpe.br\nhttps://www.linkedin.com/in/júlia-dias-tavares-de-souza-098700176",
-      "bio": "Estudante de engenharia eletrônica na UFPE, pesquisadora e desenvolvedora do time técnico de pesquisa ligada ao Voxar Labs.  Dentre suas áreas de pesquisa consta Robótica, Eletrônica analógica, Eletrônica digital e Processamento de imagem. Membro da equipe Maracatronics de robótica de 2016 até 2020. Participou da coordenação estadual da Olimpíada Brasileira de Robótica de 2017 até 2021. Atualmente participa da organização da categoria de futebol de robôs VSS do IEEE."
-    },
-    {
-      "img": "img/team/vlv2.png",
-      "name": "Vinícius Ventura",
-      "job": "Iniciação científica",
-      "contact": "vlv2@softex.cin.ufpe.br\nhttps://www.linkedin.com/in/vinicius-lima-ventura",
-      "bio": "Graduando em Engenharia da Computação pela Universidade Federal de Pernambuco (UFPE). Atuando nas áreas de pesquisa e desenvolvimento de software de Visão Computacional, Sistemas Embarcados e Robótica."
-    },
-    {
-      "img": "img/team/zsmn.jpg",
-      "name": "Zilde Neto",
-      "job": "Iniciação Científica",
-      "contact": "zsmn@softex.cin.ufpe.br\nhttps://www.linkedin.com/in/zilde-neto/",
-      "bio": "Estudante de Engenharia da Computação na Universidade Federal de Pernambuco (UFPE). Atuando no time técnico e de pesquisa vinculado ao Voxar Labs, com ênfase nas áreas de inteligência artificial e processamento de imagem. Membro do time de robótica Maracatronics atuando na pesquisa e desenvolvimento de sistemas para agentes autônomos e participante da organização da categoria de futebol de robôs VSS do IEEE."
     }
   ],
   "Contact": {
@@ -555,10 +527,32 @@
     ],
     "voxar": [
       {
-        "img": "img/team/vlv2.png",
-        "nameV": "Vinícius Ventura",
+        "img": "img/team/jmxnt.png",
+        "name": "João Marcelo",
+        "job": "Líder de Pesquisa",
+        "contact": "jmxnt@cin.ufpe.br",
+        "bio": "Doutorado em Ciências da Computação pela Universidade Federal de Pernambuco (UFPE). Professor Adjunto 1 e chefe do Departamento de Eletrônica e Sistemas da UFPE. Atuação na área de Ciência da Computação, com ênfase em Sistemas Embarcados, atuando principalmente com dispositivos de interação, Realidade Virtual e Aumentada, computação de alto desempenho, programação paralela. Além de ser pesquisador sênior no Grupo de Pesquisa Voxar Labs do Centro de Informática da UFPE."
+      },
+      {
+        "img": "img/team/jdts.png",
+        "name": "Júlia Dias",
         "job": "Iniciação científica",
+        "contact": "jdts@softex.cin.ufpe.br\nhttps://www.linkedin.com/in/júlia-dias-tavares-de-souza-098700176",
+        "bio": "Estudante de engenharia eletrônica na UFPE, pesquisadora e desenvolvedora do time técnico de pesquisa ligada ao Voxar Labs.  Dentre suas áreas de pesquisa consta Robótica, Eletrônica analógica, Eletrônica digital e Processamento de imagem. Membro da equipe Maracatronics de robótica de 2016 até 2020. Participou da coordenação estadual da Olimpíada Brasileira de Robótica de 2017 até 2021. Atualmente participa da organização da categoria de futebol de robôs VSS do IEEE."
+      },
+      {
+        "img": "img/team/vlv2.png",
+        "name": "Vinícius Ventura",
+        "job": "Iniciação científica",
+        "contact": "vlv2@softex.cin.ufpe.br\nhttps://www.linkedin.com/in/vinicius-lima-ventura",
         "bio": "Graduando em Engenharia da Computação pela Universidade Federal de Pernambuco (UFPE). Atuando nas áreas de pesquisa e desenvolvimento de software de Visão Computacional, Sistemas Embarcados e Robótica."
+      },
+      {
+        "img": "img/team/zsmn.jpg",
+        "name": "Zilde Neto",
+        "job": "Iniciação Científica",
+        "contact": "zsmn@softex.cin.ufpe.br\nhttps://www.linkedin.com/in/zilde-neto/",
+        "bio": "Estudante de Engenharia da Computação na Universidade Federal de Pernambuco (UFPE). Atuando no time técnico e de pesquisa vinculado ao Voxar Labs, com ênfase nas áreas de inteligência artificial e processamento de imagem. Membro do time de robótica Maracatronics atuando na pesquisa e desenvolvimento de sistemas para agentes autônomos e participante da organização da categoria de futebol de robôs VSS do IEEE."
       }
     ]
   }

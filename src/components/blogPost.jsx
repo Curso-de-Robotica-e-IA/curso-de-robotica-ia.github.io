@@ -1,12 +1,5 @@
-import { Link } from "react-router-dom";
 export const BlogPost = (props) => {
-  function shareOnFacebook(){
-    const navUrl = 'https://www.facebook.com/sharer/sharer.php?u=' + 'https://github.com/knoldus/angular-facebook-twitter.git';
-    window.open(navUrl , '_blank');
-  }
   const paragraphFormmatter = (topic, image, caption, isTop, text, url ) => {
-
-
     if (topic === undefined && text === undefined && isTop === undefined) {
       return (
         <div className="thumbnail">
@@ -167,8 +160,22 @@ export const BlogPost = (props) => {
             )}
           </div>
           <h3>Menção aos nossos colaboradores do Voxar no primeiro ano do projeto.</h3>
-          <div className="row" id="row">
-            
+          <div id="row">
+          {props.data
+            ? props.data.voxar.map((d, i) => (
+                <div key={`${d.name}-${i}`} className="col-md-3 col-sm-6 team">
+                  <div className="thumbnail">
+                    {" "}
+                    <img src={d.img} alt="..." className="team-img" />
+                    <div className="caption">
+                      <h4>{d.name}</h4>
+                      <p>{d.job}</p>
+                      <p>{d.bio}</p>
+                    </div>
+                  </div>
+                </div>
+              ))
+            : "loading"}
           </div>
         </div>
       </div>
