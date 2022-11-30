@@ -1,5 +1,3 @@
-import { Link } from "react-router-dom";
-import { Image } from "./image";
 export const Selection = (props) => {
     return (
       <header id="header">
@@ -16,7 +14,7 @@ export const Selection = (props) => {
                   </div>
                   <p>{props.data ? props.data.image : "Loading"}</p>
                   <a
-                    href="bit.ly/turma2residenciarobotica_ia"
+                    href="http://bit.ly/turma2residenciarobotica_ia"
                     className="btn btn-custom btn-lg"
                   >
                     Formulário de Inscrição
