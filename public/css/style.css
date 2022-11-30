@@ -292,6 +292,13 @@ header .intro-text {
   padding-bottom: 200px;
   text-align: center;
 }
+
+.selection {
+  font-weight: 800;
+  padding-top: 50px;
+  padding-bottom: 50px;
+  text-align: center;
+}
 /* Features Section */
 #features {
   background: #f6f6f6;

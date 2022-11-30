@@ -8,6 +8,7 @@ import { Gallery } from "../components/gallery";
 import { Testimonials } from "../components/testimonials";
 import { Team } from "../components/Team";
 import { Contact } from "../components/contact";
+import { Selection } from "../components/selection";
 import JsonData from "../data/data.json";
 import SmoothScroll from "smooth-scroll";
 import "../App.css";
@@ -27,6 +28,7 @@ export const Home = () => {
     <div>
       <Navigation />
       <Header data={landingPageData.Header} />
+      <Selection data={landingPageData.Selection} />
       <Skills data={landingPageData.Features} />
       <About data={landingPageData.About} />
       <Projects data={landingPageData.Services} />
