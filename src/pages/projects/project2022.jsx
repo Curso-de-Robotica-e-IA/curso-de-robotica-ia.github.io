@@ -4,7 +4,8 @@ import "../../App.css";
 import { useState } from "react";
 import { useEffect } from "react";
 import { Navigation } from "../../components/projects/2022/navigation";
-import { Header } from "../../components/header";
+import { Header } from "../../components/projects/2022/header";
+import { About } from "../../components/projects/2022/about";
 import { Gallery } from "../../components/projects/2022/gallery";
 import { Testimonials } from "../../components/projects/2022/testimonials";
 import { Team } from "../../components/projects/2022/team";
@@ -23,6 +24,7 @@ export const Project2022 = () => {
     <div>
       <Navigation />
       <Header data={landingPageData.Header} />
+      <About data={landingPageData.About} />
       <Gallery data={landingPageData.Gallery} />
       <Testimonials data={landingPageData.Testimonials} />
       <Team data={landingPageData.Team} />

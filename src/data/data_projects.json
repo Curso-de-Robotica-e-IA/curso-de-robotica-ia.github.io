@@ -3,6 +3,11 @@
         "title": "Projeto de automação das urnas eletrônicas no processo de auditoria",
         "paragraph": "CIn-UFPE desenvolve solução inédita com inteligência artificial e automação para teste em urnas eletrônicas em parceria com o TRE-PE."
     },
+    "About": [
+        {
+            "paragraph": "O Centro de Informática (CIn) da Universidade Federal de Pernambuco (UFPE), com tradição em programas de residência para empresas há 2 décadas, sendo referência nacional e premiado pelo MCTI, lançou em outubro de 2021 a primeira turma da Residência em Robótica e Inteligência Artificial Aplicadas a Testes de Software através de convênio com a Softex e posterior acordo de parceria tripartite com o Tribunal Regional Eleitoral (TRE-PE). A proposta do curso é formar especialistas, uma Pós-Graduação Lato Sensu, em Robótica e Inteligência Artificial e desenvolver um kit robótico inteligente capaz de interagir com as urnas eletrônicas do TRE-PE nas eleições de 2022."
+        }
+      ],
     "Landmarks":[
         {
             "name": "Ascom CIn",

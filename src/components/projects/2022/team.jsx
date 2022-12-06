@@ -1,19 +1,14 @@
-import { Link } from "react-router-dom";
-
 export const Team = (props) => {
-  function isMain(element) {
-    return element ? element.main : false;
-  }
   return (
-    <div id="team" className="text-center">
+    <div id="team_voxar" className="text-center">
       <div className="container">
         <div className="col-md-8 col-md-offset-2 section-title">
-          <h2>Conheça nosso Time</h2>
-          <p>Contamos com professores e funcionários qualificados.</p>
+          <h2>Time de pesquisadores</h2>
+          <p>Contamos com a ajuda de pesquisadores do voxar no primeiro ano de projeto.</p>
         </div>
         <div id="row">
           {props.data
-            ? props.data.filter(isMain).map((d, i) => (
+            ? props.data.map((d, i) => (
                 <div key={`${d.name}-${i}`} className="col-md-3 col-sm-6 team">
                   <div className="thumbnail">
                     {" "}
@@ -21,18 +16,13 @@ export const Team = (props) => {
                     <div className="caption">
                       <h4>{d.name}</h4>
                       <p>{d.job}</p>
+                      <p>{d.bio}</p>
+                      <p>{d.contact}</p>
                     </div>
                   </div>
                 </div>
               ))
             : "loading"}
-          <div className="col-md-8 col-md-offset-2 intro-text">
-            <nav className="btn btn-custom btn-lg page-scroll">
-              <Link to="/all-team" style={{ color: "#FFF" }}>
-                Mais detalhes
-              </Link>
-            </nav>
-          </div>
         </div>
       </div>
     </div>

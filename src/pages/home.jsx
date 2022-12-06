@@ -1,6 +1,6 @@
 import { useState, useEffect } from "react";
 import { Navigation } from "../components/home/navigation";
-import { Header } from "../components/header";
+import { Header } from "../components/home/header";
 import { Skills } from "../components/home/skills";
 import { About } from "../components/home/about";
 import { Projects } from "../components/home/projects";
