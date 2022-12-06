@@ -1,15 +1,13 @@
 import { useState, useEffect } from "react";
-import { Navigation } from "../components/navigation";
+import { Navigation } from "../components/home/navigation";
 import { Header } from "../components/header";
-import { Skills } from "../components/skills";
-import { About } from "../components/about";
-import { Projects } from "../components/projects";
-import { Gallery } from "../components/gallery";
-import { Testimonials } from "../components/testimonials";
-import { Team } from "../components/Team";
-import { Contact } from "../components/contact";
-import { Selection } from "../components/selection";
-import JsonData from "../data/data.json";
+import { Skills } from "../components/home/skills";
+import { About } from "../components/home/about";
+import { Projects } from "../components/home/projects";
+import { Team } from "../components/home/team";
+import { Contact } from "../components/home/contact";
+import { Selection } from "../components/home/selection";
+import JsonData from "../data/data_home.json";
 import SmoothScroll from "smooth-scroll";
 import "../App.css";
 
@@ -32,8 +30,6 @@ export const Home = () => {
       <Skills data={landingPageData.Features} />
       <About data={landingPageData.About} />
       <Projects data={landingPageData.Services} />
-      <Gallery data={landingPageData.Gallery} />
-      <Testimonials data={landingPageData.Testimonials} />
       <Team data={landingPageData.Team} />
       <Contact data={landingPageData.Contact} />
     </div>

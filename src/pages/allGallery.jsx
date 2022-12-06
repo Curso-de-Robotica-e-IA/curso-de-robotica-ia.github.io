@@ -1,6 +1,6 @@
 import { HeaderBase } from "../components/headerBase";
 import { useState, useEffect } from "react";
-import JsonData from "../data/data.json";
+import JsonData from "../data/data_home.json";
 import { Image } from "../components/image";
 
 export const GalleryBody = (props) => {
@@ -39,6 +39,11 @@ export const GalleryBody = (props) => {
         <iframe width="570" height="400" src="https://www.youtube.com/embed/oLhBFcmoqW8" title="Apresentação do Projeto Pelo Professor Alexandre à Softex - Parte 1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
         <iframe width="570" height="400" src="https://www.youtube.com/embed/j0dN981M17M" title="Apresentação do Projeto Pelo Professor Alexandre à Softex - Parte 2" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
         <iframe width="570" height="400" src="https://www.youtube.com/embed/M0pAhhV3TuY" title="Reportagem CINTEC" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+        <iframe width="570" height="400" src="https://www.youtube.com/embed/zFicJpSbSYc" title="Funcionamento de um dos Trabalhos de Graduação da Residência em Robótia e IA do CIn - UFPE (Yves)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+        <iframe width="570" height="400" src="https://www.youtube.com/embed/YP2uvsr17Pk" title="Funcionamento de um dos Trabalhos de Graduação da Residência em Robótia e IA do CIn - UFPE (Pedro)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+        <iframe width="570" height="400" src="https://www.youtube.com/embed/8v2_D3C6rPc" title="Funcionamento de um dos Trabalhos de Graduação da Residência em Robótia e IA do CIn - UFPE (Felipe)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+        <iframe width="570" height="400" src="https://www.youtube.com/embed/bQsORnn57o0" title="Funcionamento de um dos Trabalhos de Graduação da Residência em Robótia e IA do CIn - UFPE (Emilly)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+        <iframe width="570" height="400" src="https://www.youtube.com/embed/NTcOTP6euzI" title="Funcionamento de um dos Trabalhos de Graduação da Residência em Robótia e IA do CIn - UFPE (Greenda)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
       </div>
     </div>
   );

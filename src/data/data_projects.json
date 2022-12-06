@@ -1,0 +1,359 @@
+{
+    "Header":{
+        "title": "Projeto de automação das urnas eletrônicas no processo de auditoria",
+        "paragraph": "CIn-UFPE desenvolve solução inédita com inteligência artificial e automação para teste em urnas eletrônicas em parceria com o TRE-PE."
+    },
+    "Landmarks":[
+        {
+            "name": "Ascom CIn",
+            "url": "https://portal.cin.ufpe.br/2022/05/27/cin-ufpe-desenvolve-solucao-inedita-com-inteligencia-artificial-e-automacao-para-teste-em-urnas-eletronicas-em-parceria-com-o-tre-pe/"
+        },
+        {
+            "name": "TSE",
+            "url": "https://www.tse.jus.br/imprensa/noticias-tse/2022/Maio/fachin-conhece-projeto-piloto-para-otimizar-teste-de-integridade"
+        },
+        {
+            "name": "Diario de Pernambuco",
+            "url": "https://www.diariodepernambuco.com.br/noticia/politica/2022/05/no-tre-pe-fachin-conhece-projeto-pioneiro-da-ufpe-voltado-para-testes.html"
+        },
+        {
+            "name": "Folha",
+            "url": "https://www1.folha.uol.com.br/poder/2022/05/fachin-propoe-desarmar-espiritos-e-diz-que-acatar-resultado-da-eleicao-e-inegociavel.shtml"
+        },
+        {
+            "name": "CBN Recife",
+            "url": "https://www.cbnrecife.com/artigo/com-a-presenca-do-ministro-edson-fachin-o-tre-pe-apresentou-solucao-que-utiliza-inteligencia-artificial-em-urnas-eletronicas"
+        },
+        {
+            "name": "Leia Ja",
+            "url": "https://www.leiaja.com/politica/2022/05/27/resultado-da-eleicao-e-inegociavel-diz-edson-fachin/"
+        },
+        {
+            "name": "TRE-PE",
+            "url": "https://www.tre-pe.jus.br/imprensa/noticias-tre-pe/2022/Maio/presidente-do-tse-conhece-projeto-piloto-para-otimizar-teste-de-integridade"
+        },
+        {
+            "name": "Leia Ja",
+            "url": "https://www.leiaja.com/politica/2022/05/25/presidente-do-tse-cumpre-agenda-no-recife/"
+        }
+    ],
+    "Gallery": [
+        {
+          "main": true,
+          "title": "Projeto de automação das urnas eletrônicas no processo de audotoria",
+          "largeImage": "img/portfolio/TRE/04-TRE-Large.jpg",
+          "smallImage": "img/portfolio/TRE/04-TRE-Small.jpg"
+        },
+        {
+          "main": true,
+          "title": "Projeto de automação das urnas eletrônicas no processo de audotoria",
+          "largeImage": "img/portfolio/TRE/05-TRE-Large.jpg",
+          "smallImage": "img/portfolio/TRE/05-TRE-Small.jpg"
+        },
+        {
+          "main": true,
+          "title": "Projeto de automação das urnas eletrônicas no processo de audotoria",
+          "largeImage": "img/portfolio/TRE/06-TRE-Large.jpg",
+          "smallImage": "img/portfolio/TRE/06-TRE-Small.jpg"
+        },
+        {
+          "main": true,
+          "title": "Visita dos alunos do Instituto Federal do Rio Grande do Norte ao projeto CIn/Softex",
+          "largeImage": "img/portfolio/IFRN/visitaifrn1_large.jpg",
+          "smallImage": "img/portfolio/IFRN/visitaifrn1_small.jpg"
+        },
+        {
+          "main": true,
+          "title": "Visita dos alunos do Instituto Federal do Rio Grande do Norte ao projeto CIn/Softex",
+          "largeImage": "img/portfolio/IFRN/visitaifrn2_large.jpg",
+          "smallImage": "img/portfolio/IFRN/visitaifrn2_small.jpg"
+        },
+        {
+          "main": true,
+          "title": "Visita dos alunos do Instituto Federal do Rio Grande do Norte ao projeto CIn/Softex",
+          "largeImage": "img/portfolio/IFRN/visitaifrn3_large.jpg",
+          "smallImage": "img/portfolio/IFRN/visitaifrn3_small.jpg"
+        },
+        {
+          "title": "Dia das crianças no projeto CIn/Softex",
+          "largeImage": "img/portfolio/Dia das Criaças/01-Criaças-Large.jpg",
+          "smallImage": "img/portfolio/Dia das Criaças/01-Criaças-Small.jpg"
+        },
+        {
+          "title": "Dia das crianças no projeto CIn/Softex",
+          "largeImage": "img/portfolio/Dia das Criaças/02-Criaças-Large.jpg",
+          "smallImage": "img/portfolio/Dia das Criaças/02-Criaças-Small.jpg"
+        },
+        {
+          "title": "Dia das crianças no projeto CIn/Softex",
+          "largeImage": "img/portfolio/Dia das Criaças/03-Criaças-Large.jpg",
+          "smallImage": "img/portfolio/Dia das Criaças/03-Criaças-Small.jpg"
+        },
+        {
+          "title": "Aniversário de 1 ano da Residência em Robótia e IA",
+          "largeImage": "img/portfolio/1 Ano Residencia/01_Aniv_Large.jpg",
+          "smallImage": "img/portfolio/1 Ano Residencia/01_Aniv_Small.jpg"
+        },
+        {
+          "title": "Aniversário de 1 ano da Residência em Robótia e IA",
+          "largeImage": "img/portfolio/1 Ano Residencia/02_Aniv_Large.jpg",
+          "smallImage": "img/portfolio/1 Ano Residencia/02_Aniv_Small.jpg"
+        },
+        {
+          "title": "Aniversário de 1 ano da Residência em Robótia e IA",
+          "largeImage": "img/portfolio/1 Ano Residencia/03_Aniv_Large.jpg",
+          "smallImage": "img/portfolio/1 Ano Residencia/03_Aniv_Small.jpg"
+        },
+        {
+          "title": "Evento EXPO JUD em Brasília",
+          "largeImage": "img/portfolio/EXPOJUD/01-ExpoJUD-Large.jpg",
+          "smallImage": "img/portfolio/EXPOJUD/01-ExpoJUD-Small.jpg"
+        },
+        {
+          "title": "Evento EXPO JUD em Brasília",
+          "largeImage": "img/portfolio/EXPOJUD/02-ExpoJUD-Large.jpg",
+          "smallImage": "img/portfolio/EXPOJUD/02-ExpoJUD-Small.jpg"
+        },
+        {
+          "title": "Evento EXPO JUD em Brasília",
+          "largeImage": "img/portfolio/EXPOJUD/03-ExpoJUD-Large.jpg",
+          "smallImage": "img/portfolio/EXPOJUD/03-ExpoJUD-Small.jpg"
+        },
+        {
+          "title": "Evento Cintec do Espaço Ciência",
+          "largeImage": "img/portfolio/Cintec/Cintec3_Large.jpg",
+          "smallImage": "img/portfolio/Cintec/Cintec3_Small.jpg"
+        },
+        {
+          "title": "Evento Cintec do Espaço Ciência",
+          "largeImage": "img/portfolio/Cintec/Cintec1_Large.jpg",
+          "smallImage": "img/portfolio/Cintec/Cintec1_Small.jpg"
+        },
+        {
+          "title": "Primeiro ano de residencia",
+          "largeImage": "img/team/02-Team-Large.jpg",
+          "smallImage": "img/team/02-Team-Small.jpg"
+        },
+        {
+          "title": "Solenidade da turma do primeiro ano da Residência em Robótica e IA",
+          "largeImage": "img/portfolio/Solenidade/01-Formatura-Large.jpg",
+          "smallImage": "img/portfolio/Solenidade/01-Formatura-Small.jpg"
+        },
+        {
+          "title": "Solenidade da turma do primeiro ano da Residência em Robótica e IA",
+          "largeImage": "img/portfolio/Solenidade/02-Formatura-Large.jpg",
+          "smallImage": "img/portfolio/Solenidade/02-Formatura-Small.jpg"
+        },
+        {
+          "title": "Solenidade da turma do primeiro ano da Residência em Robótica e IA",
+          "largeImage": "img/portfolio/Solenidade/03-Formatura-Large.jpg",
+          "smallImage": "img/portfolio/Solenidade/03-Formatura-Small.jpg"
+        },
+        {
+          "title": "Projeto de automação das urnas eletrônicas no processo de audotoria",
+          "largeImage": "img/portfolio/TRE/01-TRE-Large.jpg",
+          "smallImage": "img/portfolio/TRE/01-TRE-Small.jpg"
+        },
+        {
+          "title": "Projeto de automação das urnas eletrônicas no processo de audotoria",
+          "largeImage": "img/portfolio/TRE/02-TRE-Large.jpg",
+          "smallImage": "img/portfolio/TRE/02-TRE-Small.jpg"
+        },
+        {
+          "title": "Projeto de automação das urnas eletrônicas no processo de audotoria",
+          "largeImage": "img/portfolio/TRE/03-TRE-Large.jpg",
+          "smallImage": "img/portfolio/TRE/03-TRE-Small.jpg"
+        },
+        {
+          "title": "Visita dos alunos do Instituto Federal do Rio Grande do Norte ao projeto CIn/Softex",
+          "largeImage": "img/portfolio/IFRN/visitaifrn4_large.jpg",
+          "smallImage": "img/portfolio/IFRN/visitaifrn4_small.jpg"
+        },
+        {
+          "title": "Visita dos alunos do Instituto Federal do Rio Grande do Norte ao projeto CIn/Softex",
+          "largeImage": "img/portfolio/IFRN/visitaifrn5_large.jpg",
+          "smallImage": "img/portfolio/IFRN/visitaifrn5_small.jpg"
+        },
+        {
+          "title": "Evento Cintec do Espaço Ciência",
+          "largeImage": "img/portfolio/Cintec/Cintec2_Large.jpg",
+          "smallImage": "img/portfolio/Cintec/Cintec2_Small.jpg"
+        },
+        {
+          "title": "Auditoria das Urnas Eletrônicas no ESMAPE",
+          "largeImage": "img/portfolio/ESMAPE/ESMAPE1_Large.jpg",
+          "smallImage": "img/portfolio/ESMAPE/ESMAPE1_Small.jpg"
+        },
+        {
+          "title": "Auditoria das Urnas Eletrônicas no ESMAPE",
+          "largeImage": "img/portfolio/ESMAPE/ESMAPE2_Large.jpg",
+          "smallImage": "img/portfolio/ESMAPE/ESMAPE2_Small.jpg"
+        },
+        {
+          "title": "Solenidade da turma do primeiro ano da Residência em Robótica e IA",
+          "largeImage": "img/portfolio/Solenidade/07-Formatura-Large.jpg",
+          "smallImage": "img/portfolio/Solenidade/07-Formatura-Small.jpg"
+        },
+        {
+          "title": "Solenidade da turma do primeiro ano da Residência em Robótica e IA",
+          "largeImage": "img/portfolio/Solenidade/04-Formatura-Large.jpg",
+          "smallImage": "img/portfolio/Solenidade/04-Formatura-Small.jpg"
+        },
+        {
+          "title": "Solenidade da turma do primeiro ano da Residência em Robótica e IA",
+          "largeImage": "img/portfolio/Solenidade/05-Formatura-Large.jpg",
+          "smallImage": "img/portfolio/Solenidade/05-Formatura-Small.jpg"
+        },
+        {
+          "title": "Solenidade da turma do primeiro ano da Residência em Robótica e IA",
+          "largeImage": "img/portfolio/Solenidade/06-Formatura-Large.jpg",
+          "smallImage": "img/portfolio/Solenidade/06-Formatura-Small.jpg"
+        },
+        {
+          "title": "Dia das crianças no projeto CIn/Softex",
+          "largeImage": "img/portfolio/Dia das Criaças/04-Criaças-Large.jpg",
+          "smallImage": "img/portfolio/Dia das Criaças/04-Criaças-Small.jpg"
+        },
+        {
+          "title": "Dia das crianças no projeto CIn/Softex",
+          "largeImage": "img/portfolio/Dia das Criaças/05-Criaças-Large.jpg",
+          "smallImage": "img/portfolio/Dia das Criaças/05-Criaças-Small.jpg"
+        },
+        {
+          "title": "Dia das crianças no projeto CIn/Softex",
+          "largeImage": "img/portfolio/Dia das Criaças/06-Criaças-Large.jpg",
+          "smallImage": "img/portfolio/Dia das Criaças/06-Criaças-Small.jpg"
+        },
+        {
+          "title": "Evento EXPO JUD em Brasília",
+          "largeImage": "img/portfolio/EXPOJUD/04-ExpoJUD-Large.jpg",
+          "smallImage": "img/portfolio/EXPOJUD/04-ExpoJUD-Small.jpg"
+        },
+        {
+          "title": "Evento EXPO JUD em Brasília",
+          "largeImage": "img/portfolio/EXPOJUD/05-ExpoJUD-Large.jpg",
+          "smallImage": "img/portfolio/EXPOJUD/05-ExpoJUD-Small.jpg"
+        },
+        {
+          "title": "Evento EXPO JUD em Brasília",
+          "largeImage": "img/portfolio/EXPOJUD/06-ExpoJUD-Large.jpg",
+          "smallImage": "img/portfolio/EXPOJUD/06-ExpoJUD-Small.jpg"
+        }
+    ],
+    "Testimonials": [
+      {
+        "main": true,
+        "img": "img/testimonials/mkcp.png",
+        "text": "\"Fazer parte da Residência de Robótica está sendo uma experiência incrível, cada dia descobrindo e aprendendo coisas novas, uma das melhores oportunidades que estamos tendo. Além da turma ser muito unida.\"",
+        "name": "Mellanyee Paz"
+      },
+      {
+        "main": true,
+        "img": "img/testimonials/acc3.png",
+        "text": "\"Excelente corpo docente somados à expertise do líder técnico, estagiários, funcionários, coordenação e gerência, tornam a Residência em Robótica e Inteligência Artificial da UFPE uma experiência inigualável de aprendizado e aplicação em sintonia com as necessidades do mercado.\"",
+        "name": "Alex"
+      },
+      {
+        "main": true,
+        "img": "img/testimonials/aps8.png",
+        "text": "\"Experiência fantástica é poder estar imerso numa pós-graduação com jeito de bootcamp/treinamento e ao mesmo tempo poder pôr em prática todo o aprendizado num ambiente real de mercado aliando ciência, teoria e prática... Tudo isso a residência promovida pelo CIn-UFPE em parceria com a Softex pode nos proporcionar. Só uma palavra define tudo: GRATIDÃO!\"",
+        "name": "Anderson Soares"
+      },
+      {
+        "main": true,
+        "img": "img/testimonials/jsff.png",
+        "text": "\"A residência me deu a oportunidade de conhecer duas áreas novas de conhecimento, que possuem grande potencial na indústria.4.0. Além de aprender a teoria com professores muito capacitados, poder aplicar isso na prática junto de uma equipe me capacitou e preparou ainda mais para os desafios do mercado.\"",
+        "name": "Jairton Filho"
+      },
+      {
+        "main": true,
+        "img": "img/testimonials/eafs3.png",
+        "text": "\"Lugar de bastante aprendizado, trabalho em equipe e crescimento pessoal. sou grato pela oportunidade e pelo acompanhamento da equipe e professores que sempre procuram motivar, auxiliar e extrair o melhor dos residentes, que adquirem conhecimentos teóricos e práticos extremamente importantes, tanto em sentido acadêmico, como profissional.\"",
+        "name": "Eric Santos"
+      },
+      {
+        "main": true,
+        "img": "img/testimonials/acs10.png",
+        "text": "\"A residência de robótica e IA aplicada a testes de software se prova cada vez mais uma experiência única, provendo um ambiente cativante e criativo. Estou a cada momento mais feliz por ter recebido essa oportunidade em minha vida, podendo dividir conhecimento com diversas pessoas expendidas e brilhantes. Só tenho a agradecer por essa oportunidade, todos são pessoas incrivelmente capacitadas e maravilhosos profissionais para trabalhar em conjunto.\"",
+        "name": "Andre Silva"
+      },
+      {
+        "main": false,
+        "img": "img/testimonials/fjms.png",
+        "text": "\"Imersão total, praticamos conceitos vistos em aula e somos desafiados a ir além. Equipe docente e técnica extremamente competente e colegas em alta sinergia, uma oportunidade ouro.\"",
+        "name": "Flávio Souza"
+      },
+      {
+        "main": true,
+        "img": "img/testimonials/dtu.png",
+        "text": "\"A residência é uma experiência de grande aprendizado, tanto do ponto de vista profissional, quanto do ponto de vista pessoal. Foram diversas barreiras superadas e muito conhecimento adquirido. Sou grato pela oportunidade.\"",
+        "name": "Danilo Ubaldine"
+      },
+      {
+        "main": true,
+        "img": "img/testimonials/gg.png",
+        "text": "\"Fica claro o compromisso de toda a equipe de profissionais em nos proporcionar a melhor experiência possível durante esse um ano de aprendizado. Sou muito grata pela oportunidade de conseguir unir a parte acadêmica a uma experiência profissional.\"",
+        "name": "Grennda Guerra"
+      },
+      {
+        "main": true,
+        "img": "img/testimonials/fasm.png",
+        "text": "\"O apoio da equipe técnica e do corpo docente aliado ao intenso aprendizado que é proporcionado, é o que faz essa residência ser especial. O aprendizado proporcionado é de altíssimo nível.\"",
+        "name": "Felipe Mendonca"
+      },
+      {
+        "main": false,
+        "img": "img/testimonials/ssf2.jpg",
+        "text": "\"A frase “Robótica com inteligência artificial” nos faz imaginar um mundo futurista, onde máquinas e seres humanos interagem, hoje temos a oportunidade de colocar em prática um pouco da nossa imaginação, só temos a agradecer a UFPE e a Softex pela oportunidade.\"",
+        "name": "Sandeison Fernandes"
+      },
+      {
+        "main": false,
+        "img": "img/testimonials/jmn.jpg",
+        "text": "\"Só tenho a agradecer por essa incrível oportunidade. Aqui temos um ambiente totalmente inovador, com professores bem qualificados, equipe técnica que apoia o desenvolvimento e corpo docente capaz de auxiliar durante todo o curso. É uma experiência única para mim.\"",
+        "name": "Jefferson Norberto"
+      },
+      {
+        "main": false,
+        "img": "img/testimonials/phts2.jpg",
+        "text": "\"A Residência no geral nos dá a oportunidade de crescer no conhecimento teórico e prático alavancando nosso perfil profissional e pessoal de um forma muito satisfatória levando em consideração a união de toda a equipe de residentes e técnica para chegar no objetivo final  estou muito grato de fazer parte deste processo e desse projeto como um todo  e que  no fim  todos nós  possamos Contribuir de alguma forma para o conhecimento de novas pessoas.\"",
+        "name": "Pedro Souza"
+      },
+      {
+        "main": false,
+        "img": "img/testimonials/arls.jpeg",
+        "text": "\"A residência proporciona um leque muito grande de oportunidades e desenvolvimento, um ambiente de muito aprendizado e troca de experiências, com uma equipe técnica e professores altamente capacitados.\"",
+        "name": "Adonnis Souza "
+      }
+    ],
+    "Team": [
+        {
+          "img": "img/team/jmxnt.png",
+          "name": "João Marcelo",
+          "job": "Líder de Pesquisa",
+          "contact": "jmxnt@cin.ufpe.br",
+          "bio": "Doutorado em Ciências da Computação pela Universidade Federal de Pernambuco (UFPE). Professor Adjunto 1 e chefe do Departamento de Eletrônica e Sistemas da UFPE. Atuação na área de Ciência da Computação, com ênfase em Sistemas Embarcados, atuando principalmente com dispositivos de interação, Realidade Virtual e Aumentada, computação de alto desempenho, programação paralela. Além de ser pesquisador sênior no Grupo de Pesquisa Voxar Labs do Centro de Informática da UFPE."
+        },
+        {
+          "img": "img/team/jdts.png",
+          "name": "Júlia Dias",
+          "job": "Iniciação científica",
+          "contact": "jdts@softex.cin.ufpe.br\nhttps://www.linkedin.com/in/júlia-dias-tavares-de-souza-098700176",
+          "bio": "Estudante de engenharia eletrônica na UFPE, pesquisadora e desenvolvedora do time técnico de pesquisa ligada ao Voxar Labs.  Dentre suas áreas de pesquisa consta Robótica, Eletrônica analógica, Eletrônica digital e Processamento de imagem. Membro da equipe Maracatronics de robótica de 2016 até 2020. Participou da coordenação estadual da Olimpíada Brasileira de Robótica de 2017 até 2021. Atualmente participa da organização da categoria de futebol de robôs VSS do IEEE."
+        },
+        {
+          "img": "img/team/vlv2.png",
+          "name": "Vinícius Ventura",
+          "job": "Iniciação científica",
+          "contact": "vlv2@softex.cin.ufpe.br\nhttps://www.linkedin.com/in/vinicius-lima-ventura",
+          "bio": "Graduando em Engenharia da Computação pela Universidade Federal de Pernambuco (UFPE). Atuando nas áreas de pesquisa e desenvolvimento de software de Visão Computacional, Sistemas Embarcados e Robótica."
+        },
+        {
+          "img": "img/team/zsmn.jpg",
+          "name": "Zilde Neto",
+          "job": "Iniciação Científica",
+          "contact": "zsmn@softex.cin.ufpe.br\nhttps://www.linkedin.com/in/zilde-neto/",
+          "bio": "Estudante de Engenharia da Computação na Universidade Federal de Pernambuco (UFPE). Atuando no time técnico e de pesquisa vinculado ao Voxar Labs, com ênfase nas áreas de inteligência artificial e processamento de imagem. Membro do time de robótica Maracatronics atuando na pesquisa e desenvolvimento de sistemas para agentes autônomos e participante da organização da categoria de futebol de robôs VSS do IEEE."
+        }
+      ]
+}
