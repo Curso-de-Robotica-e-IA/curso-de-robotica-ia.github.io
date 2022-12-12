@@ -1,5 +1,5 @@
 import React from "react";
-import Menu from "./projectsHorizontalMenu/ProjectsMenu";
+import Menu from "../projectsHorizontalMenu/ProjectsMenu";
 
 export const Projects = (props) => {
   return (

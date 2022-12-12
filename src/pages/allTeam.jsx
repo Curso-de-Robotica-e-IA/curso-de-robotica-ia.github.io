@@ -1,7 +1,7 @@
 import { HeaderBase } from "../components/headerBase";
 import { TeamMenuInfo } from "../components/teamVerticalMenuInfo";
 import { useState, useEffect } from "react";
-import JsonData from "../data/data.json";
+import JsonData from "../data/data_home.json";
 
 export const AllTeam = () => {
   const [landingPageData, setLandingPageData] = useState({});

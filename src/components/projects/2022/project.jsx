@@ -1,9 +1,9 @@
-import { HeaderBase } from "../../components/headerBase";
-import { BlogPost } from "../../components/blogPost";
-import JsonData from "../../data/data.json";
+import { HeaderBase } from "../../headerBase";
 import { useState, useEffect } from "react";
+import { BlogPost } from "../../blogPost";
+import JsonData from "../../../data/data_projects.json"
 
-export const Project3 = () => {
+export const Project = () => {
   const [landingPageData, setLandingPageData] = useState({});
   useEffect(() => {
     setLandingPageData(JsonData);
@@ -12,8 +12,8 @@ export const Project3 = () => {
   return (
     <div>
       <HeaderBase />
-      <BlogPost data={landingPageData.Project3} />
-      <div id="footer">
+      <BlogPost data={landingPageData.Project} />
+      <div id="blogpost">
         <div className="container text-center">
           <p>
             &copy; 2020 Issaaf Kattan React Land Page Template. Design by{" "}
@@ -26,4 +26,4 @@ export const Project3 = () => {
     </div>
   );
 };
-export default Project3;
+export default Project;

@@ -1,0 +1,145 @@
+{
+  "Header": {
+    "title": "Residência em Robótica e Inteligência Artificial",
+    "paragraph": "Curso de Pós-Graduação Lato Sensu (Especialização) de Residência em Robótica e Inteligência Artificial Aplicadas a Testes de Software."
+  },
+  "Selection": {
+    "title": "Processo Seletivo 2023"
+  },
+  "Features": [
+    {
+      "icon": "fa fa-group",
+      "title": "Desenvolvimento colaborativo",
+      "text": "Ao longo do curso os residentes devem se organizar em times e colaborar para o desenvolvimento dos desafios e para a gerência do seu time."
+    },
+    {
+      "icon": "fa fa-graduation-cap",
+      "title": "Formação Técnica",
+      "text": "O curso possui uma grade de disciplinas com foco prático em testes, Inteligência Artificial e desenvolvimento de software, além de visão computacional."
+    },
+    {
+      "usingAwesomeClass": true,
+      "icon": "fa fa-robot",
+      "title": "Robótica Aplicada",
+      "text": "Contamos com laboratórios equipados com robôs e vários materiais para a prototipação, sendo amplamente utilizada pelos residentes para projetos e experimentações."
+    },
+    {
+      "usingAwesomeClass": true,
+      "icon": "fa fa-brain",
+      "title": "Inteligência Artificial",
+      "text": "Um dos focos da residência é a formação em inteligência artificial, buscando utilizá-la para desenvolver soluções robustas para nossos parceiros."
+    }
+  ],
+  "About": {
+    "paragraph": "O projeto segue a filosofia de uma residência tecnológica (inspirada nas residências médicas). Os alunos têm dedicação exclusiva e, em meio turno, dedicam-se a assistir às aulas. No outro turno, realizam no laboratório atividades práticas de Inovação e Pesquisa e Automação e Execução de Testes de Software. A residência proporciona ao aluno tanto capacitação teórica em sala de aula (pela manhã) quanto experiência de trabalho em atividades práticas de automação e execução de teste de software (pela tarde). Desafios de inovação e pesquisa na área de robótica e inteligência artificial aplicadas a teste de software são solucionados tanto pela equipe fixa do projeto (líder técnico e engenheiros) quanto pelos alunos em suas monografias.",
+    "footMCTI": "Projeto apoiado pelo Ministério da Ciência, Tecnologia e Inovações, com recursos da Lei nº 8.248, de 23 de outubro de 1991.",
+    "Why": [
+      "Aplicação prática em desafios reais",
+      "Contato com clientes do mercado",
+      "Projetos inovadores"
+    ],
+    "Why2": [
+      "Corpo técnico especializado",
+      "Possibilidade de contribuir ativamente nas decisões de execução dos projetos"
+    ]
+  },
+  "Services": [
+    {
+      "icon": "img/portfolio/TRE/07-TRE-Large.jpg",
+      "name": "Projeto de automação das urnas eletrônicas no processo de auditoria",
+      "text": "CIn-UFPE desenvolve solução inédita com inteligência artificial e automação para teste em urnas eletrônicas em parceria com o TRE-PE e Softex."
+    }
+  ],
+  "Team": [
+    {
+      "main": true,
+      "img": "img/team/acm.png",
+      "name": "Alexandre Mota",
+      "job": "Coordenador",
+      "contact": "acm@cin.ufpe.br",
+      "bio": "Professor Titular do CIn-UFPE. Bolsista de produtividade em Pesquisa (PQ-2) do CNPq. Especialidade é Métodos Formais (Matemática aplicada ao desenvolvimento de Sistemas). Participou de projetos Universidade-Indústria: Embraer (2006 a 2016), Motorola (2004 a 2008 e de 2015 até hoje) e COMPASS (Comprehensive Modelling for Advanced Systems of Systems, 2011 e 2014). Atualmente é coordenador do projeto de inovação CIn-Motorola cujo foco é o teste de celulares e coordenador da Especialização UFPE-Softex em Robótica e IA."
+    },
+    {
+      "main": true,
+      "img": "img/team/acas.png",
+      "name": "Augusto Sampaio",
+      "job": "Vice-Coordenador",
+      "contact": "acas@cin.ufpe.br",
+      "bio": "Professor Titular do Centro de Informática da UFPE.  Doutorado pela Oxford University e Pós-Doutorado pela University of York. Em 2021, tornou-se Membro da Academia Pernambucana de Ciências. Prêmio Mérito Científico da Sociedade Brasileira de Computação (SBC). Doutor Honoris Causa da University of York. Comendador da Ordem Nacional do Mérito. A principal área de interesse é Engenharia de Software, com ênfase em Métodos Formais. O foco atual da pesquisa é na modelagem, simulação e verificação de sistemas robóticos e de contratos inteligentes (smart contracts)."
+    },
+    {
+      "main": true,
+      "img": "img/team/jrsj.jpg",
+      "name": "Juana Simões",
+      "job": "Capital Humano",
+      "contact": "jrsj@softex.cin.ufpe.br",
+      "bio": "Formada no Curso de Administração pela FACIPE. Atuando na área administrativa nos projetos parceiros do Centro de Informática da UFPE desde 2008. Atualmente, atuando como Analista de Capital Humano no Projeto Softex."
+    },
+    {
+      "img": "img/team/phsb2.png",
+      "name": "Pedro Henrique",
+      "job": "Infraestrutura",
+      "contact": "phsb2@softex.cin.ufpe.br\nhttps://www.linkedin.com/in/peddrohbgs/",
+      "bio": "Graduando em Ciência da Computação pelo Instituto Pernambucano de Ensino Superior(IPESU), atuando na área de administração de redes e gerenciamento de Active Directory. Atualmente ligado ao Projeto CIn/SOFTEX. "
+    },
+    {
+      "img": "img/team/cvss2.png",
+      "name": "Cecília Virgínia",
+      "job": "Engenheira de Software",
+      "contact": "cvss2@softex.cin.ufpe.br\nlinkedin.com/in/cecilia-virginia",
+      "bio": "Formada em Engenharia Mecânica pela Universidade Federal de Pernambuco (UFPE). Atuando na pesquisa e aplicação de mecanismos mecanicos em Robótica aplicada a automação."
+    },
+    {
+      "img": "img/team/rjmr.png",
+      "name": "Riei Rodrigues",
+      "job": "Estagiário desenvolvimento",
+      "contact": "rjmr@softex.cin.ufpe.br\nlinkedin.com/in/riei-joaquim-rodrigues",
+      "bio": "Graduando em Engenharia da Computação pela Universidade Federal de Pernambuco (UFPE). Atuando na pesquisa e desenvolvimento de software de agentes autonomos pelo RoboCIn. Computação aplicada ao controle e a automação."
+    },
+    {
+      "img": "img/team/mhjc.jpg",
+      "name": "Matheus Hopper",
+      "job": "Estagiário desenvolvimento",
+      "contact": "mhjc@softex.cin.ufpe.br",
+      "bio": "Graduando em Ciência da Computação pela Universidade Federal de Pernambuco (UFPE). Atuando na pesquisa de circuitos quânticos para aprendizado de máquina."
+    },
+    {
+      "img": "img/team/tsp3.jpg",
+      "name": "Tamires Pereira",
+      "job": "Estagiária Capital Humano",
+      "contact": "tsp3@softex.cin.ufpe.br",
+      "bio": "Experiência na área de Gestão de Pessoas, atuando no RH da Instituição.  Tecnólogo de RH (Uninabuco Recife) / MBA de Gestão de Pessoas (Uninassau) / Cursando Psicologia na FAFIRE."
+    },
+    {
+      "img": "img/team/gfr2.jpg",
+      "name": "Gabriel Ramalho",
+      "job": "Estagiário Recepção",
+      "contact": "grf2@softex.cin.ufpe.br\nhttps://www.linkedin.com/in/gabriel-ramalho-090911196",
+      "bio": "Graduando em Administração (UFPE) e Análise e Desenvolvimento de Sistema (SENAC) - Atuando na recepção do projeto cin - SOFTEX"
+    },
+    {
+      "img": "img/team/jgmn2.jpg",
+      "name": "Júlia Nascimento",
+      "job": "Estagiária recepção",
+      "contact": "jgmn2@softex.cin.ufpe.br\nhttps://www.linkedin.com/in/j%C3%BAlia-nascimento-9772691a2",
+      "bio": "Graduanda em Administração pelo Centro Universitário Maurício de Nassau (Uninassau-Recife)."
+    },
+    {
+      "main": true,
+      "img": "img/team/mrsj.png",
+      "name": "Marcondes Ricarte",
+      "job": "Líder Técnico",
+      "contact": "mrsj@softex.cin.ufpe.br \nhttps://www.linkedin.com/in/marcondes-ricarte-06769823",
+      "bio": " Engenheiro de Computação, Mestrado em Ciência da Computação e Doutorando  em Ciência da Computação pela UFPE. Experiência profissional no C.E.S.A.R., Neurotech e Chemtech. Além de  experiência em docência UNINASSAU. Atuação e pesquisa em IA, visão computacional e robótica móvel."
+    }
+  ],
+  "Contact": {
+    "address": "Av. Jornalista Anibal Fernandes, s/n, Cidade Universitária (UFPE - Campus Recife), CEP: 50.740-560, Recife - PE",
+    "phone": "+1 123 456 1234",
+    "email": "softex@softex.cin.ufpe.br",
+    "facebook": "fb.com",
+    "twitter": "twitter.com",
+    "youtube": "youtube.com",
+    "linkedin": "http://linkedin.com/company/projeto-cin-softex/"
+  }
+}
