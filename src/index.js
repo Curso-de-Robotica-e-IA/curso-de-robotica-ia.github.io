@@ -16,7 +16,7 @@ ReactDOM.render(
       <Route path="/all-team" element={<AllTeam />} />
       <Route path="/all-testimonials" element={<AllTestimonials />} />
       <Route path="/all-gallery" element={<AllGallery />} />
-      <Route path="/project-2022" element={<Project2022 />} />
+      <Route path="/project-0" element={<Project2022 />} />
     </Routes>
   </BrowserRouter>,
   document.getElementById("root")

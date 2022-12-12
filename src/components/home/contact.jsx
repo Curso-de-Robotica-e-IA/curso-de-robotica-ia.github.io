@@ -61,6 +61,12 @@ export const Contact = (props) => {
                   </span>{" "}
                   <a href="http://instagram.com/_u/residenciarobotica/">Residência Robótica</a>
                 </p>
+                <p>
+                  <span>
+                    <i className="fa fa-youtube"></i> Youtube
+                  </span>{" "}
+                  <a href="https://www.youtube.com/@redessociais-softex6641/featured">Residência Robótica</a>
+                </p>
               </div>
             </div>
           </div>

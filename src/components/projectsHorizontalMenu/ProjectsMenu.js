@@ -8,12 +8,11 @@ import "./hideScrollbar.css";
 
 const elemPrefix = "project-";
 const getId = (index) => `${elemPrefix}${index}`;
-const getIdYear = getId+2022
 
 const getItems = (size) =>
   Array(size)
     .fill(0)
-    .map((_, ind) => ({ id: getIdYear(ind) }));
+    .map((_, ind) => ({ id: getId(ind) }));
 
 function ProjectsMenu(props) {
   const [items] = React.useState(getItems(props["props"]["data"].length));

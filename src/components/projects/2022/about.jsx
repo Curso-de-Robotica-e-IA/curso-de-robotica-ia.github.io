@@ -13,7 +13,7 @@ export const About = (props) => {
                 <p>{props.data ? props.data.paragraph : "loading..."}</p>
               </div>
               <a
-                  href="#project2022-blogpost"
+                  href="#blogpost"
                   className="btn btn-custom btn-lg page-scroll"
                 >
                   Saiba mais

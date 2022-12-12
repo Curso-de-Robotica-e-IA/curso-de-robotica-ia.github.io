@@ -1,6 +1,6 @@
 import { HeaderBase } from "../components/headerBase";
 import { useState, useEffect } from "react";
-import JsonData from "../data/data_home.json";
+import JsonData from "../data/data_projects.json";
 
 export const TestimonialsBody = (props) => {
   return (

@@ -424,7 +424,7 @@ header .intro-text {
 }
 /* Portfolio Section */
 #portfolio {
-  padding: 100px 0;
+  padding: 0px 10px;
 }
 .portfolio-item {
   margin: 1px -15px 0 -14px;
