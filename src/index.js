@@ -8,15 +8,17 @@ import { AllTestimonials } from "./pages/allTestimonials";
 import { AllGallery } from "./pages/allGallery";
 import { BrowserRouter, Routes, Route } from "react-router-dom";
 import { Project2022 } from "./pages/projects/project2022";
+import { BlogPost } from "./components/blogPost";
 
 ReactDOM.render(
   <BrowserRouter basename={process.env.PUBLIC_URL}>
     <Routes>
-      <Route path="/" element={<App />} />
-      <Route path="/all-team" element={<AllTeam />} />
-      <Route path="/all-testimonials" element={<AllTestimonials />} />
-      <Route path="/all-gallery" element={<AllGallery />} />
-      <Route path="/project-0" element={<Project2022 />} />
+      <Route path="/" element={< App />} />
+      <Route path="/all-team" element={< AllTeam />} />
+      <Route path="/all-testimonials" element={< AllTestimonials />} />
+      <Route path="/all-gallery" element={< AllGallery />} />
+      <Route path="/blogpost" element={< BlogPost />} />
+      <Route path="/project-0" element={< Project2022 />} />
     </Routes>
   </BrowserRouter>,
   document.getElementById("root")

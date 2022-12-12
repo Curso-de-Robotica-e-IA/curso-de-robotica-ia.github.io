@@ -325,7 +325,7 @@
           "bio": "Estudante de Engenharia da Computação na Universidade Federal de Pernambuco (UFPE). Atuando no time técnico e de pesquisa vinculado ao Voxar Labs, com ênfase nas áreas de inteligência artificial e processamento de imagem. Membro do time de robótica Maracatronics atuando na pesquisa e desenvolvimento de sistemas para agentes autônomos e participante da organização da categoria de futebol de robôs VSS do IEEE."
         }
       ],
-      "Project2022": {
+      "BlogPost": {
         "title": "Projeto de automação das urnas eletrônicas no processo de auditoria",
         "subTitle": "CIn-UFPE desenvolve solução inédita com inteligência artificial e automação para teste em urnas eletrônicas em parceria com o TRE-PE",
         "paragraphs": [

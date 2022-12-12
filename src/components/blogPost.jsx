@@ -91,14 +91,14 @@ export const BlogPost = (props) => {
       style={{
         margin: "100px 0px 0px 0px",
       }}
-    >
+      >
       <div className="container">
         <div className="row">
-          {props.data ? (
+          {props.data_projects ? (
             <div>
-              <h2>{props.data.title}</h2>
-              <h4>{props.data.subTitle}</h4>
-              {props.data.paragraphs.map(
+              <h2>{props.data_projects.title}</h2>
+              <h4>{props.data_projects.subTitle}</h4>
+              {props.data_projects.paragraphs.map(
                 ({ topic, image, caption, isTop, text, url }) =>
                   paragraphFormmatter(topic, image, caption, isTop, text, url )
               )}
@@ -107,12 +107,12 @@ export const BlogPost = (props) => {
             "loading..."
           )}
           <div className="row">
-            {props.data ? (
+            {props.data_projects ? (
               <div>
                 <p>
                   <h3>Marcos e conquistas</h3>
                 <ul>
-                  {props.data.footnodes.map(({ text, name, url }) => (
+                  {props.data_projects.footnodes.map(({ text, name, url }) => (
                     <li>
                       {text}
                       {
@@ -130,11 +130,11 @@ export const BlogPost = (props) => {
             )}
           </div>
           <div className="row">
-            {props.data ? (
+            {props.data_projects ? (
               <div>
                 <h3>Links das notícias relacionadas:</h3>
                 <ul>
-                  {props.data.links.map(({ name, url }) => (
+                  {props.data_projects.links.map(({ name, url }) => (
                     <li>
                       {
                         <div class="btn_wrap">
@@ -159,26 +159,9 @@ export const BlogPost = (props) => {
               "loading..."
             )}
           </div>
-          <h3>Menção aos nossos colaboradores do Voxar no primeiro ano do projeto.</h3>
-          <div id="row">
-          {props.data
-            ? props.data.voxar.map((d, i) => (
-                <div key={`${d.name}-${i}`} className="col-md-3 col-sm-6 team">
-                  <div className="thumbnail">
-                    {" "}
-                    <img src={d.img} alt="..." className="team-img" />
-                    <div className="caption">
-                      <h4>{d.name}</h4>
-                      <p>{d.job}</p>
-                      <p>{d.bio}</p>
-                    </div>
-                  </div>
-                </div>
-              ))
-            : "loading"}
-          </div>
         </div>
       </div>
     </div>
   );
 };
+export default BlogPost;
