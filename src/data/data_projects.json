@@ -325,7 +325,49 @@
           "bio": "Estudante de Engenharia da Computação na Universidade Federal de Pernambuco (UFPE). Atuando no time técnico e de pesquisa vinculado ao Voxar Labs, com ênfase nas áreas de inteligência artificial e processamento de imagem. Membro do time de robótica Maracatronics atuando na pesquisa e desenvolvimento de sistemas para agentes autônomos e participante da organização da categoria de futebol de robôs VSS do IEEE."
         }
       ],
-      "BlogPost": {
+      "Achievements": [
+        {
+          "img": "img/testimonials/jsff.png",
+          "name": "Jairton Filho",
+          "job": "Contratado pelo Projeto CIn/Softex"
+        },
+        {
+          "img": "img/testimonials/fasm.png",
+          "name": "Felipe Mendonca",
+          "job": "Contratado pelo Projeto CIn/Softex"
+        },
+        {
+          "img": "img/testimonials/jmn.jpg",
+          "name": "Jefferson Norberto",
+          "job": "Contratado pelo Projeto CIn/Softex"
+        },
+        {
+          "img": "img/testimonials/jonas.jpg",
+          "name": "Jonas Ferreira",
+          "job": "Contratado pelo Projeto CIn/Softex"
+        },
+        {
+          "img": "img/testimonials/aps8.png",
+          "name": "Anderson Soares",
+          "job": "Contratado pelo Projeto Samsumg"
+        },
+        {
+          "img": "img/testimonials/arls.jpeg",
+          "name": "Adonnis Souza",
+          "job": "Contratado pela Fitec"
+        },
+        {
+          "img": "img/testimonials/gg.png",
+          "name": "Grennda Guerra",
+          "job": "Contratada pelo Voxar e selecionada para o Mestrado no CIn"
+        },
+        {
+          "img": "img/testimonials/eafs3.png",
+          "name": "Eric Santos",
+          "job": "Selecionado para o Mestrado no CIn"
+        }
+      ],
+      "Project": {
         "title": "Projeto de automação das urnas eletrônicas no processo de auditoria",
         "subTitle": "CIn-UFPE desenvolve solução inédita com inteligência artificial e automação para teste em urnas eletrônicas em parceria com o TRE-PE",
         "paragraphs": [

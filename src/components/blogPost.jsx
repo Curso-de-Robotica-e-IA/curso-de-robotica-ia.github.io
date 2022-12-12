@@ -94,11 +94,11 @@ export const BlogPost = (props) => {
       >
       <div className="container">
         <div className="row">
-          {props.data_projects ? (
+          {props.data ? (
             <div>
-              <h2>{props.data_projects.title}</h2>
-              <h4>{props.data_projects.subTitle}</h4>
-              {props.data_projects.paragraphs.map(
+              <h2>{props.data.title}</h2>
+              <h4>{props.data.subTitle}</h4>
+              {props.data.paragraphs.map(
                 ({ topic, image, caption, isTop, text, url }) =>
                   paragraphFormmatter(topic, image, caption, isTop, text, url )
               )}
@@ -107,12 +107,12 @@ export const BlogPost = (props) => {
             "loading..."
           )}
           <div className="row">
-            {props.data_projects ? (
+            {props.data ? (
               <div>
                 <p>
                   <h3>Marcos e conquistas</h3>
                 <ul>
-                  {props.data_projects.footnodes.map(({ text, name, url }) => (
+                  {props.data.footnodes.map(({ text, name, url }) => (
                     <li>
                       {text}
                       {
@@ -130,11 +130,11 @@ export const BlogPost = (props) => {
             )}
           </div>
           <div className="row">
-            {props.data_projects ? (
+            {props.data ? (
               <div>
                 <h3>Links das notícias relacionadas:</h3>
                 <ul>
-                  {props.data_projects.links.map(({ name, url }) => (
+                  {props.data.links.map(({ name, url }) => (
                     <li>
                       {
                         <div class="btn_wrap">
