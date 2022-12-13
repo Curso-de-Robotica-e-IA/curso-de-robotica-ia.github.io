@@ -1,5 +1,5 @@
 export const BlogPost = (props) => {
-  const paragraphFormmatter = (topic, image, caption, isTop, text, url ) => {
+  const paragraphFormmatter = (topic, image, caption, isTop, text, url) => {
     if (topic === undefined && text === undefined && isTop === undefined) {
       return (
         <div className="thumbnail">
@@ -24,8 +24,17 @@ export const BlogPost = (props) => {
       );
     }
 
-    if (text === undefined && topic === undefined && image === undefined && isTop === undefined) {
-      return <a href={url} target="_blank" rel="noopener noreferrer">{text}</a>;
+    if (
+      text === undefined &&
+      topic === undefined &&
+      image === undefined &&
+      isTop === undefined
+    ) {
+      return (
+        <a href={url} target="_blank" rel="noopener noreferrer">
+          {text}
+        </a>
+      );
     }
 
     var imageInTop = isTop ? isTop : true;
@@ -91,7 +100,7 @@ export const BlogPost = (props) => {
       style={{
         margin: "100px 0px 0px 0px",
       }}
-      >
+    >
       <div className="container">
         <div className="row">
           {props.data ? (
@@ -100,7 +109,7 @@ export const BlogPost = (props) => {
               <h4>{props.data.subTitle}</h4>
               {props.data.paragraphs.map(
                 ({ topic, image, caption, isTop, text, url }) =>
-                  paragraphFormmatter(topic, image, caption, isTop, text, url )
+                  paragraphFormmatter(topic, image, caption, isTop, text, url)
               )}
             </div>
           ) : (
@@ -111,18 +120,22 @@ export const BlogPost = (props) => {
               <div>
                 <p>
                   <h3>Marcos e conquistas</h3>
-                <ul>
-                  {props.data.footnodes.map(({ text, name, url }) => (
-                    <li>
-                      {text}
-                      {
-                        <a href={url} target="_blank" rel="noopener noreferrer">
-                          {name}
-                        </a>
-                      }
-                    </li>
-                  ))}
-                </ul>
+                  <ul>
+                    {props.data.footnodes.map(({ text, name, url }) => (
+                      <li>
+                        {text}
+                        {
+                          <a
+                            href={url}
+                            target="_blank"
+                            rel="noopener noreferrer"
+                          >
+                            {name}
+                          </a>
+                        }
+                      </li>
+                    ))}
+                  </ul>
                 </p>
               </div>
             ) : (
@@ -138,17 +151,40 @@ export const BlogPost = (props) => {
                     <li>
                       {
                         <div class="btn_wrap">
-                          <a href={url} target="_blank" rel="noopener noreferrer">
+                          <a
+                            href={url}
+                            target="_blank"
+                            rel="noopener noreferrer"
+                          >
                             {name}
                           </a>
-                          <button id="fb" className="btn  btn-cm page-scroll"><i class="fa fa-facebook-official" aria-hidden="true" onClick={() => {
-                            const navUrl = 'https://www.facebook.com/sharer/sharer.php?u=' + url;
-                            window.open(navUrl , '_blank');
-                            }}></i></button>
-                          <button id="twitter" className="btn  btn-cm page-scroll"><i class="fa fa-twitter" aria-hidden="true"onClick={() => {
-                            const navUrl = 'https://twitter.com/intent/tweet?text=' + url;
-                            window.open(navUrl , '_blank');
-                            }}></i></button>
+                          <button id="fb" className="btn  btn-cm page-scroll">
+                            <i
+                              class="fa fa-facebook-official"
+                              aria-hidden="true"
+                              onClick={() => {
+                                const navUrl =
+                                  "https://www.facebook.com/sharer/sharer.php?u=" +
+                                  url;
+                                window.open(navUrl, "_blank");
+                              }}
+                            ></i>
+                          </button>
+                          <button
+                            id="twitter"
+                            className="btn  btn-cm page-scroll"
+                          >
+                            <i
+                              class="fa fa-twitter"
+                              aria-hidden="true"
+                              onClick={() => {
+                                const navUrl =
+                                  "https://twitter.com/intent/tweet?text=" +
+                                  url;
+                                window.open(navUrl, "_blank");
+                              }}
+                            ></i>
+                          </button>
                         </div>
                       }
                     </li>

@@ -7,19 +7,18 @@ import { AllTeam } from "./pages/allTeam";
 import { AllTestimonials } from "./pages/allTestimonials";
 import { AllGallery } from "./pages/allGallery";
 import { HashRouter, Routes, Route } from "react-router-dom";
-import { BrowserRouter, Routes, Route } from "react-router-dom";
 import { Project2022 } from "./pages/projects/project2022";
 import { Project } from "./components/projects/2022/project";
 
 ReactDOM.render(
   <HashRouter basename={process.env.PUBLIC_URL}>
     <Routes>
-      <Route path="/" element={< App />} />
-      <Route path="/all-team" element={< AllTeam />} />
-      <Route path="/all-testimonials" element={< AllTestimonials />} />
-      <Route path="/all-gallery" element={< AllGallery />} />
-      <Route path="/blogpost" element={< Project />} />
-      <Route path="/project-0" element={< Project2022 />} />
+      <Route path="/" element={<App />} />
+      <Route path="/all-team" element={<AllTeam />} />
+      <Route path="/all-testimonials" element={<AllTestimonials />} />
+      <Route path="/all-gallery" element={<AllGallery />} />
+      <Route path="/blogpost" element={<Project />} />
+      <Route path="/project-0" element={<Project2022 />} />
     </Routes>
   </HashRouter>,
   document.getElementById("root")

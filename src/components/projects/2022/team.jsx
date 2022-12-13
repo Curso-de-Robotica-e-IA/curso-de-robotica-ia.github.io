@@ -4,7 +4,10 @@ export const Team = (props) => {
       <div className="container">
         <div className="col-md-8 col-md-offset-2 section-title">
           <h2>Time de pesquisadores</h2>
-          <p>Contamos com a ajuda de pesquisadores do voxar no primeiro ano de projeto.</p>
+          <p>
+            Contamos com a ajuda de pesquisadores do voxar no primeiro ano de
+            projeto.
+          </p>
         </div>
         <div id="row">
           {props.data

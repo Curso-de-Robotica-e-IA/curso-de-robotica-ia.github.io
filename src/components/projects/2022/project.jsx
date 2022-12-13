@@ -1,7 +1,7 @@
 import { HeaderBase } from "../../headerBase";
 import { useState, useEffect } from "react";
 import { BlogPost } from "../../blogPost";
-import JsonData from "../../../data/data_projects.json"
+import JsonData from "../../../data/data_projects.json";
 
 export const Project = () => {
   const [landingPageData, setLandingPageData] = useState({});
