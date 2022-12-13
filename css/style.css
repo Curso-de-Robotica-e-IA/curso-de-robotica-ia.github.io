@@ -263,6 +263,34 @@ a:focus,
   background-size: cover;
   -o-background-size: cover;
 }
+.intro-project{
+  display: table;
+  width: 100%;
+  padding: 0;
+  background: url(../img/intro-bg.jpg) center center no-repeat;
+  background-color: #000000;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  background-size: cover;
+  -o-background-size: cover;
+}
+.intro-project h1 {
+  font-family: "Raleway", sans-serif;
+  color: rgb(0, 0, 0);
+  font-size: 50px;
+  font-weight: 700;
+  text-transform: uppercase;
+  margin-top: 0;
+  margin-bottom: 10px;
+}
+.intro-project p {
+  color: rgb(0, 0, 0);
+  font-size: 22px;
+  font-weight: 300;
+  line-height: 30px;
+  margin: 0 auto;
+  margin-bottom: 60px;
+}
 .intro .overlay {
   background: rgba(0, 0, 0, 0.2);
 }
@@ -396,7 +424,7 @@ header .intro-text {
 }
 /* Portfolio Section */
 #portfolio {
-  padding: 100px 0;
+  padding: 0px 10px;
 }
 .portfolio-item {
   margin: 1px -15px 0 -14px;
