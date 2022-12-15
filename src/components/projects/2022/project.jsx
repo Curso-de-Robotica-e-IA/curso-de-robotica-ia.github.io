@@ -13,7 +13,7 @@ export const Project = () => {
     <div>
       <HeaderBase />
       <BlogPost data={landingPageData.Project} />
-      <div id="blogpost">
+      <div id="project">
         <div className="container text-center">
           <p>
             &copy; 2020 Issaaf Kattan React Land Page Template. Design by{" "}

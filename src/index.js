@@ -6,21 +6,21 @@ import * as serviceWorker from "./serviceWorker";
 import { AllTeam } from "./pages/allTeam";
 import { AllTestimonials } from "./pages/allTestimonials";
 import { AllGallery } from "./pages/allGallery";
-import { HashRouter, Routes, Route } from "react-router-dom";
 import { Project2022 } from "./pages/projects/project2022";
 import { Project } from "./components/projects/2022/project";
+import { Routes, Route, BrowserRouter } from "react-router-dom";
 
 ReactDOM.render(
-  <HashRouter basename={process.env.PUBLIC_URL}>
+  <BrowserRouter basename={process.env.PUBLIC_URL}>
     <Routes>
       <Route path="/" element={<App />} />
       <Route path="/all-team" element={<AllTeam />} />
       <Route path="/all-testimonials" element={<AllTestimonials />} />
       <Route path="/all-gallery" element={<AllGallery />} />
-      <Route path="/blogpost" element={<Project />} />
+      <Route path="/project" element={<Project />} />
       <Route path="/project-0" element={<Project2022 />} />
     </Routes>
-  </HashRouter>,
+  </BrowserRouter>,
   document.getElementById("root")
 );
 

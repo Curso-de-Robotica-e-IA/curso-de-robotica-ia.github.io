@@ -16,7 +16,7 @@ export const About = (props) => {
               <h2>O projeto</h2>
               <p>{props.data ? props.data.paragraph : "loading..."}</p>
             </div>
-            <a href="/blogpost" className="btn btn-custom btn-lg page-scroll">
+            <a href="/project" className="btn btn-custom btn-lg page-scroll">
               Saiba mais
             </a>{" "}
           </div>
