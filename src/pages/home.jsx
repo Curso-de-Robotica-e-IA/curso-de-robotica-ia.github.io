@@ -4,7 +4,7 @@ import { Header } from "../components/home/header";
 import { Skills } from "../components/home/skills";
 import { About } from "../components/home/about";
 import { Projects } from "../components/home/projects";
-import { Team } from "../components/home/team";
+import { Publications } from "../components/home/publications";
 import { Contact } from "../components/home/contact";
 import JsonData from "../data/data_home.json";
 import SmoothScroll from "smooth-scroll";
@@ -28,7 +28,7 @@ export const Home = () => {
       <Skills data={landingPageData.Features} />
       <About data={landingPageData.About} />
       <Projects data={landingPageData.Services} />
-      <Team data={landingPageData.Team} />
+      <Publications data={landingPageData.Publications} />
       <Contact data={landingPageData.Contact} />
     </div>
   );

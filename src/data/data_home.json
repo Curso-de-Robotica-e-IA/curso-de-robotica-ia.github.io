@@ -50,6 +50,12 @@
       "text": "CIn-UFPE desenvolve solução inédita com inteligência artificial e automação para teste em urnas eletrônicas em parceria com o TRE-PE e Softex."
     }
   ],
+  "Publications":[
+    {
+      "title":"A Digital Image Processing-based Tool to Assist Medicine Blisters Fractioning",
+      "abstract":"This work presents a digital image processing-based tool for medicine blister fractioning, which ses a combination of image acquisition and segmentation to accurately detect individual medicine blisters and trace the cutting path that properly separates the pills in a blister pack. The proposed tool was evaluated using set of photos of medicine blister packs, and the results showed that it was capable of accurately detecting and  segmenting medicine blisters to a certain degree of accuracy."
+    }
+  ],
   "Team": [
     {
       "main": true,
